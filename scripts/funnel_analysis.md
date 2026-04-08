@@ -1,8 +1,8 @@
-# Funnel Analysis (DAX)
+## 🌟 Funnel Analysis (DAX)
 
 This script defines the funnel stages and calculates the number of distinct user sessions at each step of the bill payment journey.
 
-## 1. Funnel Stage Definition
+### 1. Funnel Stage Definition
 
 The funnel stages are created as a static DAX table to define the sequential payment journey.
 
@@ -24,7 +24,7 @@ DATATABLE(
 ```
 
 
-## 2. Funnel Stage Count Measure
+### 2. Funnel Stage Count Measure
 
 This measure calculates the distinct number of sessions that successfully reached each funnel stage.
 
@@ -93,7 +93,7 @@ SWITCH(
 )
 ```
 
-## 3. Business Logic
+### 3. Business Logic
 
 Each funnel stage is mapped to a specific `event_id` from the `dim_event` table to represent the user journey in the payment flow.
 
