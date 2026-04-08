@@ -97,7 +97,7 @@ SWITCH(
 
 Each funnel stage is mapped to a specific `event_id` from the `dim_event` table to represent the user journey in the payment flow.
 
-| Stage | Funnel Step | Event ID | Business Meaning |
+| Stage | Funnel Step | Event ID | Description |
 |---|---|---:|---|
 | 1 | Start Checkout | 7 | User navigated to the payment menu |
 | 2 | Select Payment Type | 11 | User selected a payment type |
