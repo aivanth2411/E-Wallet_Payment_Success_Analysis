@@ -21,5 +21,9 @@ The project analyzes the decline in bill payment success rate on an e-wallet app
 - Improve real-time support and re-engagement campaigns for dormant users
 
 ## Deliverables
-- `Ewallet_Analysis_Report.pdf` – Business presentation and recommendations
-- `dataset_dictionary.md` – Data documentation
+- `data/dataset_dictionary.md`: Data documentation
+- `docs/release_note.md`: Documents of released versions
+- `report/Ewallet_Analysis_Report.pdf`: Product analysis and report
+- `scripts/funnel_analysis.md`: Analysis of total users through each stage
+- `scripts/funnel_metrics.md`: Calculations of key funnel metrics 
+
