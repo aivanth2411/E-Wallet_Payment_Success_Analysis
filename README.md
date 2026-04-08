@@ -2,34 +2,24 @@
 
 The project analyzes the decline in bill payment success rate on an e-wallet app since August 2023 using transactional, session, event log, and error data. Power BI and the MECE framework were applied to identify failure points across the payment journey, including authentication, gateway redirects, and app version issues. Key insights highlighted correlations between failure rates and user segments, device types, and network quality. The analysis led to actionable recommendations to optimize payment flows and reduce error impact.
 
-## 🔗 Data Structure & ERD (Entity Relationship Diagram)
-
-
-## 📝 Executive Summary
-### 1. Situation (Business Context)
-- Transactions increased after the 3.9.6 update on July 28th .
-- Billing payment transaction accounts for the greatest share (37%).
-### 2. Complication (Business Problems)
-- **Declining Success Rates**: Overall payment success rate dropped by 5% between July and August.
-- **Authentication Bottlenecks**: High drop-off rates driven by 3DS and OTP timeouts, specifically during the authentication
-phase.
-- **Card Performance Issues**: Credit and Debit cards underperformed other methods with a peak 14% error rate.
-- **Segment Risk**: Dormant users experienced disproportionately higher error rates compared to active users
-### 3. Questions (Business Concerns)
-- How can we stabilize the backend infrastructure and optimize the authentication flow to reduce the 18% drop-off?
-- How can we successfully re-engage our dormant and user segments aged 35-44?
-- How can we improve the customer support system with in-time communication and insightful information?
-### 4. Answers (Business Solutions)
-- Reduce authentication failures and backend-related drop-offs.
-- Payment flow optimization & Root cause validation by performing A/B testing and comparison between versions.
-- Improving real-time customer support and re-engaging with dormant users through marketing campaigns.
-
-## 📝 Findings
-1. The payment success rate declined despite an increase in total transactions
+## 🎯 Objectives
+- Identify the main drivers behind the decline in payment success rates
+- Analyze user journey drop-off points
+- Investigate system and authentication errors
+- Provide actionable recommendations to improve conversion
+## 🔍 Key Findings
+- Payment success rate declined from **92% to 87%**
+- The largest drop-off occurred **after authentication (18%)**
+- **OTP timeout and authentication issues** contributed over 46% of failures
+- **Dormant users and age group 35–44** recorded the highest error rates
+- **Credit and Debit Cards** showed the weakest performance
 
 ## ✨ Recommendations
+- Optimize OTP timeout and authentication flow
+- Fix payment gateway and app version issues
+- Run A/B testing on the updated payment flow
+- Improve real-time support and re-engagement campaigns for dormant users
 
 ## Deliverables
-- `dashboard.pbix` – Power BI dashboard
-- `report.pptx` – Business presentation and recommendations
+- `Ewallet_Analysis_Report.pdf` – Business presentation and recommendations
 - `dataset_dictionary.md` – Data documentation
