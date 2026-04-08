@@ -1,0 +1,1501 @@
+user_id,account_created_at,account_age_days,gender,age_group,device_type,activity_level,balance,platform,loyalty_tier,os_version,app_version,location_country,location_city,preferred_language,usual_connection_quality
+user_0001,8/7/2022 0:00,389,male,45+,phone,low,1445.32,android,gold,10.0,3.9.9,USA,New York,english,excellent
+user_0002,4/20/2023 0:00,133,male,18-24,phone,low,152.56,ios,bronze,16.0,3.9.9,USA,Los Angeles,english,good
+user_0003,6/15/2023 0:00,77,female,18-24,phone,high,274.96,ios,platinum,16.0,3.9.9,USA,Chicago,english,good
+user_0004,9/16/2022 0:00,349,male,25-34,tablet,medium,55.79,web,bronze,,3.9.8,USA,New York,english,good
+user_0005,9/2/2022 0:00,363,male,45+,phone,low,2112.76,ios,platinum,13.0,3.9.8,USA,Houston,english,excellent
+user_0006,2/8/2023 0:00,204,female,25-34,phone,low,47.99,ios,bronze,12.0,3.9.9,USA,Houston,english,excellent
+user_0007,5/12/2023 0:00,111,female,45+,tablet,low,487.18,web,bronze,,3.9.7,USA,Houston,english,excellent
+user_0008,6/8/2023 0:00,84,male,18-24,phone,medium,3918.93,android,silver,11.0,3.9.9,USA,Phoenix,english,good
+user_0009,9/21/2022 0:00,344,female,45+,phone,low,72.77,android,bronze,10.0,3.9.9,USA,Philadelphia,english,excellent
+user_0010,7/5/2022 0:00,422,female,18-24,phone,medium,1278.22,android,bronze,11.0,3.9.6,USA,Philadelphia,english,poor
+user_0011,3/3/2023 0:00,181,female,25-34,phone,high,175.97,ios,bronze,14.0,3.9.9,USA,San Antonio,english,excellent
+user_0012,4/8/2023 0:00,145,male,25-34,phone,medium,496.14,ios,silver,14.0,3.9.7,USA,Los Angeles,english,fair
+user_0013,8/9/2022 0:00,387,female,45+,phone,low,50.8,android,bronze,12.0,3.9.9,USA,San Antonio,english,good
+user_0014,12/18/2022 0:00,256,male,18-24,phone,low,415.96,android,silver,10.0,3.9.9,USA,New York,english,fair
+user_0015,3/5/2023 0:00,179,male,18-24,phone,medium,17327.04,android,silver,12.0,3.9.9,USA,San Diego,english,excellent
+user_0016,5/28/2023 0:00,95,male,25-34,phone,low,1843.93,android,gold,13.0,3.9.8,USA,Los Angeles,english,fair
+user_0017,12/10/2022 0:00,264,female,18-24,phone,medium,179.24,android,silver,10.0,3.9.9,USA,Houston,english,excellent
+user_0018,4/20/2023 0:00,133,male,25-34,phone,low,397.3,android,bronze,13.0,3.9.9,USA,San Antonio,english,good
+user_0019,9/5/2022 0:00,360,female,18-24,phone,dormant,519.52,android,bronze,13.0,3.9.7,USA,San Diego,english,good
+user_0020,10/21/2022 0:00,314,female,25-34,phone,low,6363.64,ios,bronze,12.0,3.9.9,USA,Dallas,english,excellent
+user_0021,7/17/2022 0:00,410,male,18-24,phone,low,537.73,ios,bronze,15.0,3.9.9,USA,Phoenix,english,good
+user_0022,11/3/2022 0:00,301,male,25-34,phone,medium,623.29,ios,bronze,12.0,3.9.8,USA,Los Angeles,english,poor
+user_0023,8/6/2022 0:00,390,female,25-34,phone,high,472.14,ios,gold,15.0,3.9.9,USA,Dallas,english,fair
+user_0024,6/29/2023 0:00,63,female,35-44,tablet,dormant,191.69,android,silver,11.0,3.9.6,USA,San Jose,english,poor
+user_0025,10/14/2022 0:00,321,male,25-34,phone,dormant,4650.51,ios,bronze,16.0,3.9.6,USA,New York,english,good
+user_0026,4/13/2023 0:00,140,female,35-44,tablet,low,87.3,web,silver,,3.9.8,USA,San Diego,english,poor
+user_0027,6/30/2023 0:00,62,male,18-24,phone,low,127.81,android,bronze,10.0,3.9.8,USA,Phoenix,english,good
+user_0028,12/27/2022 0:00,247,female,18-24,phone,medium,902.98,android,bronze,12.0,3.9.9,USA,Chicago,english,good
+user_0029,2/27/2023 0:00,185,female,18-24,phone,medium,4512.04,android,bronze,12.0,3.9.8,USA,Los Angeles,english,good
+user_0030,5/26/2023 0:00,97,male,25-34,phone,low,4911.94,ios,bronze,13.0,3.9.8,USA,Chicago,english,excellent
+user_0031,4/7/2023 0:00,146,male,18-24,phone,low,2060.23,android,silver,11.0,3.9.9,USA,San Antonio,english,excellent
+user_0032,7/12/2022 0:00,415,female,18-24,phone,low,8017.27,android,bronze,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0033,11/18/2022 0:00,286,female,25-34,phone,low,919.69,android,silver,12.0,3.9.9,USA,San Jose,english,fair
+user_0034,3/7/2023 0:00,177,female,25-34,phone,dormant,1256.1,ios,silver,16.0,3.9.7,USA,Houston,english,good
+user_0035,9/2/2022 0:00,363,female,18-24,phone,medium,376.17,ios,gold,12.0,3.9.8,USA,Chicago,english,excellent
+user_0036,6/14/2023 0:00,78,female,25-34,phone,low,4438.54,ios,bronze,16.0,3.9.9,USA,Houston,english,excellent
+user_0037,7/23/2022 0:00,404,female,35-44,phone,dormant,107.37,android,bronze,11.0,3.9.8,USA,San Diego,english,good
+user_0038,10/31/2022 0:00,304,other,18-24,tablet,medium,394.4,web,silver,,3.9.9,USA,Phoenix,english,excellent
+user_0039,5/13/2023 0:00,110,female,18-24,phone,low,277.54,ios,silver,14.0,3.9.6,USA,San Diego,english,good
+user_0040,11/3/2022 0:00,301,male,18-24,phone,low,175.49,android,bronze,10.0,3.9.8,USA,Philadelphia,english,fair
+user_0041,12/6/2022 0:00,268,female,25-34,phone,low,151.08,android,bronze,13.0,3.9.6,USA,San Antonio,english,fair
+user_0042,3/25/2023 0:00,159,male,18-24,phone,low,116.53,ios,silver,15.0,3.9.8,USA,San Jose,english,good
+user_0043,11/6/2022 0:00,298,male,18-24,phone,medium,64.97,ios,silver,15.0,3.9.8,USA,San Jose,english,good
+user_0044,6/5/2023 0:00,87,female,25-34,tablet,medium,3608.58,web,silver,,3.9.7,USA,New York,english,good
+user_0045,4/6/2023 0:00,147,male,18-24,phone,low,525.13,android,bronze,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0046,5/31/2023 0:00,92,female,18-24,phone,low,7469.56,android,bronze,13.0,3.9.9,USA,Los Angeles,english,fair
+user_0047,11/10/2022 0:00,294,male,18-24,phone,low,71.34,android,bronze,13.0,3.9.7,USA,Los Angeles,english,fair
+user_0048,1/30/2023 0:00,213,male,18-24,phone,low,59.19,ios,bronze,16.0,3.9.8,USA,Philadelphia,english,good
+user_0049,1/21/2023 0:00,222,male,45+,phone,medium,5857.48,ios,silver,16.0,3.9.8,USA,Dallas,english,good
+user_0050,6/1/2023 0:00,91,male,25-34,phone,medium,4843.12,ios,gold,13.0,3.9.9,USA,San Jose,english,good
+user_0051,5/27/2023 0:00,96,male,25-34,phone,low,740.17,ios,bronze,15.0,3.9.7,USA,Chicago,english,excellent
+user_0052,2/24/2023 0:00,188,female,18-24,phone,low,663.14,android,bronze,10.0,3.9.9,USA,Houston,english,excellent
+user_0053,11/28/2022 0:00,276,female,18-24,phone,low,138.33,ios,bronze,14.0,3.9.7,USA,Phoenix,english,good
+user_0054,2/28/2023 0:00,184,male,45+,phone,medium,67.81,ios,gold,14.0,3.9.9,USA,Philadelphia,english,good
+user_0055,5/24/2023 0:00,99,female,25-34,tablet,low,1037.26,ios,silver,12.0,3.9.7,USA,Dallas,english,good
+user_0056,10/14/2022 0:00,321,female,25-34,phone,low,412.16,ios,silver,12.0,3.9.9,USA,San Diego,english,excellent
+user_0057,2/5/2023 0:00,207,female,25-34,phone,medium,326.2,ios,platinum,16.0,3.9.7,USA,Los Angeles,english,excellent
+user_0058,7/24/2022 0:00,403,female,18-24,phone,medium,4268.42,android,bronze,12.0,3.9.9,USA,Philadelphia,english,good
+user_0059,2/15/2023 0:00,197,female,25-34,phone,low,1461.71,android,silver,11.0,3.9.7,USA,San Diego,english,good
+user_0060,2/11/2023 0:00,201,female,25-34,phone,low,425.41,android,bronze,13.0,3.9.7,USA,Philadelphia,english,excellent
+user_0061,7/14/2022 0:00,413,female,18-24,phone,medium,134.16,android,silver,10.0,3.9.9,USA,Houston,english,good
+user_0062,2/22/2023 0:00,190,male,35-44,phone,medium,182.96,android,gold,11.0,3.9.9,USA,Phoenix,english,good
+user_0063,2/9/2023 0:00,203,female,45+,phone,medium,27.94,ios,silver,13.0,3.9.9,USA,San Diego,english,good
+user_0064,11/16/2022 0:00,288,female,25-34,phone,medium,119.3,ios,gold,16.0,3.9.9,USA,Chicago,english,excellent
+user_0065,5/23/2023 0:00,100,male,25-34,phone,medium,190.11,android,silver,10.0,3.9.9,USA,San Jose,english,excellent
+user_0066,12/23/2022 0:00,251,male,25-34,phone,high,13737.64,android,silver,10.0,3.9.7,USA,Dallas,english,poor
+user_0067,6/9/2023 0:00,83,female,18-24,phone,dormant,9623.88,ios,platinum,14.0,3.9.7,USA,Phoenix,english,good
+user_0068,7/24/2022 0:00,403,female,18-24,phone,low,38.5,ios,bronze,16.0,3.9.9,USA,San Antonio,english,good
+user_0069,4/8/2023 0:00,145,female,18-24,phone,low,980.96,ios,gold,15.0,3.9.8,USA,New York,english,good
+user_0070,1/11/2023 0:00,232,male,18-24,phone,dormant,160.83,android,bronze,12.0,3.9.8,USA,Houston,english,good
+user_0071,4/10/2023 0:00,143,female,45+,phone,low,16810.62,ios,bronze,15.0,3.9.8,USA,Los Angeles,english,good
+user_0072,3/9/2023 0:00,175,female,45+,phone,low,359.66,ios,bronze,14.0,3.9.9,USA,Philadelphia,english,excellent
+user_0073,3/8/2023 0:00,176,male,45+,phone,high,1094.66,ios,bronze,15.0,3.9.9,USA,Philadelphia,english,good
+user_0074,5/26/2023 0:00,97,male,18-24,phone,high,973.51,android,silver,12.0,3.9.9,USA,Philadelphia,english,fair
+user_0075,12/8/2022 0:00,266,male,25-34,phone,low,3718.07,ios,bronze,12.0,3.9.7,USA,San Diego,english,good
+user_0076,3/31/2023 0:00,153,female,25-34,phone,high,3322.36,android,bronze,10.0,3.9.9,USA,Chicago,english,excellent
+user_0077,8/29/2022 0:00,367,female,45+,tablet,low,547.65,web,bronze,,3.9.9,USA,San Antonio,english,excellent
+user_0078,10/12/2022 0:00,323,male,35-44,phone,low,292.52,ios,silver,14.0,3.9.9,USA,New York,english,poor
+user_0079,6/30/2023 0:00,62,other,18-24,phone,high,113.59,ios,silver,14.0,3.9.9,USA,Houston,english,excellent
+user_0080,7/25/2022 0:00,402,female,35-44,phone,low,936.62,android,platinum,10.0,3.9.7,USA,Phoenix,english,fair
+user_0081,10/14/2022 0:00,321,female,45+,phone,high,75.67,android,gold,13.0,3.9.9,USA,New York,english,excellent
+user_0082,7/9/2022 0:00,418,male,25-34,phone,medium,73.22,ios,bronze,13.0,3.9.7,USA,San Antonio,english,excellent
+user_0083,7/19/2022 0:00,408,male,35-44,phone,dormant,3992.54,android,bronze,13.0,3.9.8,USA,Los Angeles,english,excellent
+user_0084,1/27/2023 0:00,216,male,35-44,phone,medium,524.86,android,silver,13.0,3.9.8,USA,San Antonio,english,good
+user_0085,3/15/2023 0:00,169,male,45+,phone,high,2719.55,android,bronze,10.0,3.9.9,USA,San Diego,english,good
+user_0086,11/16/2022 0:00,288,female,45+,phone,high,3702.51,android,bronze,12.0,3.9.7,USA,Los Angeles,english,fair
+user_0087,2/5/2023 0:00,207,male,25-34,tablet,medium,112.78,web,silver,,3.9.9,USA,San Antonio,english,good
+user_0088,7/21/2022 0:00,406,female,25-34,phone,medium,9656.29,android,bronze,12.0,3.9.9,USA,Houston,english,good
+user_0089,6/7/2023 0:00,85,male,18-24,phone,high,1979.37,ios,silver,16.0,3.9.5,USA,San Diego,english,good
+user_0090,11/30/2022 0:00,274,male,18-24,phone,low,908.91,ios,bronze,15.0,3.9.8,USA,New York,english,good
+user_0091,2/26/2023 0:00,186,male,45+,phone,medium,1590.29,android,gold,12.0,3.9.9,USA,Dallas,english,fair
+user_0092,3/10/2023 0:00,174,female,45+,phone,low,51.66,android,bronze,12.0,3.9.6,USA,Phoenix,english,good
+user_0093,2/23/2023 0:00,189,female,45+,phone,low,933.98,ios,silver,15.0,3.9.6,USA,New York,english,good
+user_0094,7/24/2022 0:00,403,male,35-44,phone,high,3124.53,ios,bronze,15.0,3.9.9,USA,Dallas,english,fair
+user_0095,11/24/2022 0:00,280,female,45+,phone,low,864.46,android,bronze,11.0,3.9.9,USA,San Jose,english,good
+user_0096,11/12/2022 0:00,292,male,45+,phone,medium,407.35,android,bronze,12.0,3.9.9,USA,Los Angeles,english,excellent
+user_0097,10/25/2022 0:00,310,male,35-44,phone,medium,14401.23,android,bronze,11.0,3.9.9,USA,Los Angeles,english,excellent
+user_0098,2/4/2023 0:00,208,female,25-34,phone,low,387.59,android,bronze,10.0,3.9.9,USA,San Diego,english,excellent
+user_0099,5/20/2023 0:00,103,female,35-44,phone,medium,310.7,ios,bronze,15.0,3.9.9,USA,Dallas,english,good
+user_0100,5/29/2023 0:00,94,female,25-34,phone,low,531.89,ios,bronze,16.0,3.9.7,USA,San Antonio,english,excellent
+user_0101,5/30/2023 0:00,93,male,25-34,phone,dormant,57.23,ios,bronze,15.0,3.9.6,USA,New York,english,fair
+user_0102,9/9/2022 0:00,356,female,45+,phone,low,88.47,android,bronze,13.0,3.9.9,USA,San Antonio,english,good
+user_0103,12/13/2022 0:00,261,female,18-24,phone,medium,17801.72,ios,gold,16.0,3.9.8,USA,Phoenix,english,excellent
+user_0104,3/10/2023 0:00,174,female,35-44,phone,medium,590.58,android,bronze,10.0,3.9.9,USA,San Jose,english,excellent
+user_0105,6/16/2023 0:00,76,male,18-24,phone,low,2555.43,android,bronze,12.0,3.9.8,USA,San Jose,english,good
+user_0106,4/26/2023 0:00,127,male,18-24,phone,medium,196.53,android,bronze,12.0,3.9.9,USA,Houston,english,excellent
+user_0107,9/15/2022 0:00,350,female,25-34,phone,high,3652.0,android,bronze,11.0,3.9.9,USA,New York,english,excellent
+user_0108,11/6/2022 0:00,298,male,35-44,phone,low,345.38,android,bronze,11.0,3.9.9,USA,Houston,english,good
+user_0109,3/14/2023 0:00,170,female,18-24,tablet,medium,563.76,web,bronze,,3.9.7,USA,San Jose,english,good
+user_0110,11/27/2022 0:00,277,male,25-34,phone,low,401.82,ios,gold,15.0,3.9.9,USA,San Diego,english,good
+user_0111,6/4/2023 0:00,88,male,35-44,phone,low,4999.63,android,bronze,10.0,3.9.9,USA,San Antonio,english,good
+user_0112,8/1/2022 0:00,395,male,18-24,phone,low,27.25,android,silver,11.0,3.9.8,USA,Phoenix,english,good
+user_0113,6/20/2023 0:00,72,female,25-34,phone,dormant,697.07,ios,gold,13.0,3.9.7,USA,Phoenix,english,fair
+user_0114,9/15/2022 0:00,350,male,45+,phone,low,190.6,android,bronze,10.0,3.9.9,USA,Houston,english,good
+user_0115,4/6/2023 0:00,147,female,18-24,phone,dormant,684.71,ios,silver,13.0,3.9.9,USA,Philadelphia,english,excellent
+user_0116,9/7/2022 0:00,358,female,25-34,phone,low,1102.71,android,gold,12.0,3.9.8,USA,San Antonio,english,good
+user_0117,12/9/2022 0:00,265,female,25-34,tablet,low,953.18,android,silver,11.0,3.9.9,USA,Los Angeles,english,good
+user_0118,7/12/2022 0:00,415,female,25-34,phone,low,864.46,android,bronze,10.0,3.9.7,USA,Chicago,english,good
+user_0119,7/15/2022 0:00,412,female,35-44,phone,low,3401.65,android,bronze,13.0,3.9.6,USA,Chicago,english,good
+user_0120,1/4/2023 0:00,239,male,18-24,phone,high,626.2,android,silver,11.0,3.9.9,USA,Chicago,english,fair
+user_0121,8/3/2022 0:00,393,male,35-44,phone,dormant,81.42,android,bronze,11.0,3.9.9,USA,San Antonio,english,poor
+user_0122,11/21/2022 0:00,283,female,45+,phone,low,968.63,android,silver,10.0,3.9.8,USA,San Antonio,english,good
+user_0123,4/1/2023 0:00,152,male,35-44,phone,medium,3935.18,android,bronze,10.0,3.9.6,USA,San Antonio,english,good
+user_0124,10/26/2022 0:00,309,male,25-34,phone,low,103.68,ios,silver,14.0,3.9.9,USA,Phoenix,english,good
+user_0125,2/8/2023 0:00,204,male,25-34,phone,medium,4526.52,ios,silver,15.0,3.9.9,USA,Chicago,english,good
+user_0126,7/23/2022 0:00,404,female,25-34,phone,low,503.19,ios,gold,15.0,3.9.9,USA,Houston,english,good
+user_0127,10/24/2022 0:00,311,female,18-24,phone,low,369.7,ios,bronze,14.0,3.9.8,USA,Dallas,english,fair
+user_0128,7/6/2022 0:00,421,other,35-44,phone,low,4520.43,ios,gold,16.0,3.9.9,USA,Los Angeles,english,good
+user_0129,2/27/2023 0:00,185,male,45+,phone,low,149.61,android,bronze,12.0,3.9.8,USA,San Diego,english,good
+user_0130,7/12/2022 0:00,415,male,18-24,phone,low,105.7,ios,bronze,15.0,3.9.8,USA,Phoenix,english,good
+user_0131,1/31/2023 0:00,212,female,45+,tablet,low,377.28,web,gold,,3.9.6,USA,Houston,english,excellent
+user_0132,12/24/2022 0:00,250,female,35-44,phone,low,578.61,ios,silver,15.0,3.9.9,USA,Philadelphia,english,fair
+user_0133,1/1/2023 0:00,242,female,45+,tablet,low,762.28,android,bronze,11.0,3.9.8,USA,New York,english,fair
+user_0134,3/4/2023 0:00,180,other,25-34,phone,low,6809.84,android,bronze,11.0,3.9.8,USA,Phoenix,english,good
+user_0135,9/29/2022 0:00,336,female,18-24,phone,medium,191.16,android,bronze,11.0,3.9.9,USA,Los Angeles,english,good
+user_0136,10/26/2022 0:00,309,male,25-34,phone,low,9147.49,android,silver,12.0,3.9.8,USA,Los Angeles,english,good
+user_0137,1/30/2023 0:00,213,female,18-24,tablet,dormant,381.99,web,bronze,,3.9.9,USA,Houston,english,good
+user_0138,7/3/2022 0:00,424,male,35-44,phone,dormant,627.31,ios,bronze,12.0,3.9.9,USA,Phoenix,english,good
+user_0139,2/1/2023 0:00,211,male,25-34,phone,low,3789.67,android,silver,11.0,3.9.9,USA,Philadelphia,english,good
+user_0140,6/24/2023 0:00,68,male,25-34,phone,low,3296.26,ios,silver,15.0,3.9.7,USA,San Antonio,english,good
+user_0141,3/28/2023 0:00,156,female,18-24,phone,dormant,19482.46,android,silver,12.0,3.9.8,USA,Chicago,english,good
+user_0142,5/28/2023 0:00,95,male,45+,phone,low,11010.61,web,bronze,,3.9.6,USA,San Jose,english,fair
+user_0143,4/14/2023 0:00,139,female,45+,phone,medium,1596.79,ios,bronze,12.0,3.9.9,USA,Philadelphia,english,good
+user_0144,9/18/2022 0:00,347,female,25-34,phone,low,157.6,android,silver,13.0,3.9.9,USA,San Antonio,english,good
+user_0145,11/12/2022 0:00,292,male,25-34,phone,low,926.8,ios,gold,16.0,3.9.9,USA,San Diego,english,good
+user_0146,9/12/2022 0:00,353,male,45+,phone,low,131.78,android,silver,13.0,3.9.7,USA,Dallas,english,excellent
+user_0147,2/15/2023 0:00,197,female,18-24,phone,medium,138.88,ios,bronze,13.0,3.9.9,USA,San Diego,english,excellent
+user_0148,5/23/2023 0:00,100,female,18-24,phone,medium,48.18,ios,bronze,15.0,3.9.6,USA,San Diego,english,excellent
+user_0149,2/1/2023 0:00,211,male,25-34,phone,medium,1130.56,ios,silver,14.0,3.9.7,USA,Chicago,english,poor
+user_0150,7/14/2022 0:00,413,female,18-24,phone,low,1933.7,ios,bronze,16.0,3.9.9,USA,San Diego,english,good
+user_0151,5/3/2023 0:00,120,male,35-44,phone,low,3178.25,android,bronze,12.0,3.9.6,USA,Chicago,english,good
+user_0152,5/25/2023 0:00,98,female,35-44,phone,low,30.73,android,silver,12.0,3.9.9,USA,San Antonio,english,fair
+user_0153,2/3/2023 0:00,209,male,25-34,phone,low,2756.61,android,bronze,11.0,3.9.9,USA,Chicago,english,good
+user_0154,2/11/2023 0:00,201,female,45+,phone,medium,12507.08,android,bronze,12.0,3.9.7,USA,Philadelphia,english,good
+user_0155,8/28/2022 0:00,368,male,25-34,phone,medium,231.89,ios,bronze,14.0,3.9.9,USA,San Jose,english,good
+user_0156,6/17/2023 0:00,75,female,35-44,phone,low,36.44,android,bronze,10.0,3.9.6,USA,Philadelphia,english,excellent
+user_0157,6/10/2023 0:00,82,male,35-44,phone,high,157.36,android,bronze,10.0,3.9.9,USA,Houston,english,good
+user_0158,8/1/2022 0:00,395,female,25-34,phone,dormant,2768.92,ios,bronze,13.0,3.9.6,USA,San Antonio,english,good
+user_0159,8/9/2022 0:00,387,female,18-24,phone,high,851.4,web,bronze,,3.9.5,USA,San Jose,english,good
+user_0160,12/3/2022 0:00,271,female,18-24,phone,medium,466.65,android,bronze,11.0,3.9.9,USA,Phoenix,english,good
+user_0161,12/2/2022 0:00,272,female,18-24,phone,medium,3774.69,android,bronze,11.0,3.9.7,USA,New York,english,excellent
+user_0162,6/12/2023 0:00,80,female,25-34,phone,dormant,563.86,android,gold,11.0,3.9.9,USA,Phoenix,english,fair
+user_0163,5/2/2023 0:00,121,male,35-44,phone,medium,976.15,ios,gold,16.0,3.9.9,USA,San Jose,english,poor
+user_0164,11/6/2022 0:00,298,male,25-34,phone,dormant,11198.71,android,gold,12.0,3.9.6,USA,Houston,english,good
+user_0165,8/16/2022 0:00,380,male,35-44,phone,low,805.15,android,silver,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0166,2/14/2023 0:00,198,female,25-34,phone,low,13238.29,ios,gold,15.0,3.9.9,USA,Dallas,english,fair
+user_0167,6/16/2023 0:00,76,female,35-44,tablet,high,978.52,web,silver,,3.9.9,USA,Phoenix,english,poor
+user_0168,9/21/2022 0:00,344,female,25-34,phone,medium,1054.7,android,gold,10.0,3.9.9,USA,Philadelphia,english,excellent
+user_0169,5/3/2023 0:00,120,female,25-34,phone,low,103.06,android,bronze,10.0,3.9.4,USA,New York,english,excellent
+user_0170,2/1/2023 0:00,211,male,35-44,phone,medium,607.1,android,bronze,12.0,3.9.9,USA,Los Angeles,english,poor
+user_0171,11/1/2022 0:00,303,female,18-24,tablet,dormant,394.98,web,bronze,,3.9.7,USA,San Diego,english,excellent
+user_0172,8/28/2022 0:00,368,male,35-44,tablet,dormant,12623.61,ios,gold,12.0,3.9.9,USA,New York,english,good
+user_0173,1/7/2023 0:00,236,male,25-34,phone,low,188.16,android,bronze,10.0,3.9.9,USA,Philadelphia,english,excellent
+user_0174,1/29/2023 0:00,214,female,35-44,tablet,low,4349.9,web,silver,,3.9.8,USA,Houston,english,fair
+user_0175,9/28/2022 0:00,337,male,25-34,phone,medium,107.18,android,bronze,10.0,3.9.5,USA,Houston,english,good
+user_0176,12/19/2022 0:00,255,female,45+,phone,medium,101.96,ios,bronze,13.0,3.9.9,USA,San Diego,english,good
+user_0177,12/16/2022 0:00,258,male,25-34,phone,medium,1934.25,android,platinum,10.0,3.9.9,USA,Dallas,english,good
+user_0178,10/31/2022 0:00,304,male,25-34,phone,low,146.94,ios,silver,15.0,3.9.7,USA,Chicago,english,excellent
+user_0179,6/12/2023 0:00,80,other,25-34,phone,low,42.72,android,gold,11.0,3.9.5,USA,Houston,english,good
+user_0180,5/10/2023 0:00,113,other,25-34,phone,low,620.76,ios,bronze,12.0,3.9.9,USA,Houston,english,excellent
+user_0181,7/30/2022 0:00,397,male,25-34,phone,dormant,975.97,ios,bronze,15.0,3.9.9,USA,San Diego,english,excellent
+user_0182,8/15/2022 0:00,381,female,18-24,phone,high,754.16,ios,bronze,14.0,3.9.9,USA,San Diego,english,good
+user_0183,1/19/2023 0:00,224,male,35-44,phone,medium,14401.99,android,bronze,10.0,3.9.9,USA,New York,english,good
+user_0184,8/18/2022 0:00,378,male,25-34,phone,dormant,32.32,android,bronze,10.0,3.9.9,USA,New York,english,good
+user_0185,11/20/2022 0:00,284,male,35-44,phone,medium,19675.07,android,gold,10.0,3.9.9,USA,San Antonio,english,good
+user_0186,7/10/2022 0:00,417,male,25-34,phone,low,439.57,ios,bronze,12.0,3.9.5,USA,Dallas,english,good
+user_0187,1/31/2023 0:00,212,female,25-34,phone,medium,486.77,android,gold,12.0,3.9.7,USA,San Jose,english,good
+user_0188,10/2/2022 0:00,333,female,35-44,phone,dormant,529.64,ios,gold,13.0,3.9.9,USA,New York,english,poor
+user_0189,8/22/2022 0:00,374,male,35-44,phone,low,896.67,ios,gold,15.0,3.9.8,USA,San Antonio,english,excellent
+user_0190,3/4/2023 0:00,180,male,45+,phone,low,568.92,ios,gold,15.0,3.9.7,USA,San Diego,english,fair
+user_0191,11/4/2022 0:00,300,female,25-34,phone,high,920.97,android,bronze,11.0,3.9.9,USA,Dallas,english,excellent
+user_0192,1/5/2023 0:00,238,male,25-34,phone,low,197.78,ios,gold,15.0,3.9.9,USA,San Diego,english,excellent
+user_0193,1/27/2023 0:00,216,female,18-24,tablet,medium,359.37,web,bronze,,3.9.6,USA,Dallas,english,excellent
+user_0194,3/1/2023 0:00,183,male,35-44,phone,high,88.65,android,silver,10.0,3.9.6,USA,Dallas,english,excellent
+user_0195,7/7/2022 0:00,420,female,18-24,phone,high,436.18,android,silver,13.0,3.9.9,USA,Phoenix,english,good
+user_0196,9/14/2022 0:00,351,female,25-34,phone,low,892.05,android,gold,12.0,3.9.7,USA,Chicago,english,excellent
+user_0197,2/4/2023 0:00,208,male,18-24,phone,medium,4102.96,android,gold,10.0,3.9.9,USA,Phoenix,english,excellent
+user_0198,3/10/2023 0:00,174,female,18-24,phone,medium,3546.47,android,bronze,12.0,3.9.9,USA,Los Angeles,english,good
+user_0199,8/13/2022 0:00,383,other,18-24,phone,medium,136.34,ios,bronze,15.0,3.9.8,USA,Philadelphia,english,excellent
+user_0200,12/26/2022 0:00,248,female,18-24,phone,medium,785.89,android,bronze,10.0,3.9.9,USA,New York,english,excellent
+user_0201,11/30/2022 0:00,274,female,25-34,phone,medium,51.62,android,bronze,10.0,3.9.9,USA,Phoenix,english,excellent
+user_0202,10/2/2022 0:00,333,female,25-34,phone,low,12526.92,ios,silver,13.0,3.9.7,USA,Philadelphia,english,fair
+user_0203,1/30/2023 0:00,213,female,25-34,phone,dormant,797.25,android,bronze,12.0,3.9.9,USA,Dallas,english,good
+user_0204,5/23/2023 0:00,100,male,35-44,phone,dormant,45.34,android,bronze,12.0,3.9.5,USA,San Jose,english,poor
+user_0205,12/25/2022 0:00,249,male,35-44,phone,low,36.25,android,bronze,12.0,3.9.7,USA,New York,english,good
+user_0206,9/29/2022 0:00,336,female,45+,phone,medium,298.87,ios,bronze,14.0,3.9.9,USA,Philadelphia,english,good
+user_0207,8/8/2022 0:00,388,male,25-34,phone,dormant,4761.17,ios,silver,13.0,3.9.9,USA,Los Angeles,english,excellent
+user_0208,8/17/2022 0:00,379,male,25-34,tablet,dormant,907.39,android,silver,12.0,3.9.6,USA,San Diego,english,good
+user_0209,8/3/2022 0:00,393,female,25-34,phone,medium,1252.87,android,bronze,12.0,3.9.9,USA,Los Angeles,english,excellent
+user_0210,5/2/2023 0:00,121,male,35-44,phone,dormant,311.82,android,gold,12.0,3.9.7,USA,San Jose,english,good
+user_0211,5/2/2023 0:00,121,female,35-44,tablet,medium,1388.77,web,bronze,,3.9.9,USA,Philadelphia,english,poor
+user_0212,12/23/2022 0:00,251,male,35-44,phone,dormant,736.39,ios,gold,16.0,3.9.6,USA,Philadelphia,english,fair
+user_0213,7/30/2022 0:00,397,male,25-34,phone,medium,279.22,android,silver,11.0,3.9.9,USA,Los Angeles,english,good
+user_0214,2/7/2023 0:00,205,female,35-44,phone,medium,25.89,ios,silver,13.0,3.9.7,USA,Phoenix,english,fair
+user_0215,3/2/2023 0:00,182,female,45+,tablet,high,4421.8,web,bronze,,3.9.9,USA,San Jose,english,good
+user_0216,8/4/2022 0:00,392,female,25-34,phone,low,84.56,android,bronze,12.0,3.9.8,USA,Philadelphia,english,fair
+user_0217,4/29/2023 0:00,124,female,35-44,phone,dormant,19235.16,android,bronze,11.0,3.9.9,USA,San Diego,english,good
+user_0218,8/6/2022 0:00,390,female,25-34,phone,low,711.59,android,bronze,11.0,3.9.7,USA,New York,english,good
+user_0219,2/26/2023 0:00,186,female,18-24,phone,high,991.06,android,bronze,11.0,3.9.8,USA,Dallas,english,poor
+user_0220,3/16/2023 0:00,168,male,35-44,phone,low,3345.53,ios,platinum,14.0,3.9.9,USA,Chicago,english,good
+user_0221,6/29/2023 0:00,63,male,35-44,phone,medium,9159.12,android,silver,12.0,3.9.8,USA,San Diego,english,excellent
+user_0222,2/22/2023 0:00,190,male,25-34,phone,low,4194.06,ios,gold,12.0,3.9.7,USA,Phoenix,english,excellent
+user_0223,12/29/2022 0:00,245,female,25-34,phone,dormant,831.99,android,bronze,10.0,3.9.9,USA,Chicago,english,good
+user_0224,6/22/2023 0:00,70,female,18-24,tablet,low,51.36,web,bronze,,3.9.9,USA,New York,english,good
+user_0225,10/4/2022 0:00,331,female,25-34,tablet,medium,290.92,android,bronze,11.0,3.9.9,USA,San Diego,english,excellent
+user_0226,12/27/2022 0:00,247,male,25-34,phone,low,112.38,android,bronze,13.0,3.9.9,USA,San Diego,english,good
+user_0227,3/9/2023 0:00,175,female,35-44,phone,medium,956.33,android,gold,10.0,3.9.9,USA,San Diego,english,fair
+user_0228,11/8/2022 0:00,296,female,18-24,phone,high,714.67,android,bronze,10.0,3.9.9,USA,Chicago,english,good
+user_0229,12/7/2022 0:00,267,female,35-44,phone,medium,541.02,android,bronze,12.0,3.9.6,USA,Dallas,english,excellent
+user_0230,5/24/2023 0:00,99,female,25-34,phone,low,919.41,android,bronze,12.0,3.9.7,USA,San Jose,english,good
+user_0231,5/28/2023 0:00,95,female,25-34,phone,low,1504.77,android,bronze,11.0,3.9.5,USA,Phoenix,english,excellent
+user_0232,10/2/2022 0:00,333,male,18-24,phone,dormant,2179.59,ios,bronze,12.0,3.9.8,USA,San Antonio,english,excellent
+user_0233,3/12/2023 0:00,172,female,25-34,phone,low,544.06,ios,bronze,15.0,3.9.9,USA,Los Angeles,english,excellent
+user_0234,12/8/2022 0:00,266,female,35-44,phone,medium,94.88,android,silver,11.0,3.9.7,USA,Houston,english,excellent
+user_0235,1/21/2023 0:00,222,female,45+,phone,medium,139.72,android,bronze,12.0,3.9.9,USA,Houston,english,good
+user_0236,5/27/2023 0:00,96,female,45+,phone,low,36.42,android,bronze,11.0,3.9.9,USA,Philadelphia,english,good
+user_0237,5/12/2023 0:00,111,male,35-44,phone,low,154.03,android,bronze,10.0,3.9.9,USA,Phoenix,english,excellent
+user_0238,5/31/2023 0:00,92,female,35-44,phone,high,13796.98,ios,bronze,12.0,3.9.9,USA,San Jose,english,excellent
+user_0239,7/25/2022 0:00,402,female,18-24,tablet,dormant,952.9,ios,silver,12.0,3.9.7,USA,Houston,english,good
+user_0240,1/22/2023 0:00,221,male,25-34,tablet,low,83.3,web,silver,,3.9.9,USA,San Diego,english,excellent
+user_0241,3/8/2023 0:00,176,male,25-34,phone,low,877.82,android,bronze,10.0,3.9.9,USA,San Diego,english,good
+user_0242,5/3/2023 0:00,120,female,18-24,phone,dormant,4050.42,android,bronze,12.0,3.9.9,USA,San Jose,english,excellent
+user_0243,8/16/2022 0:00,380,female,35-44,phone,medium,130.44,android,gold,11.0,3.9.7,USA,Chicago,english,good
+user_0244,6/16/2023 0:00,76,male,45+,phone,medium,52.47,android,silver,10.0,3.9.9,USA,San Antonio,english,poor
+user_0245,6/27/2023 0:00,65,male,45+,phone,low,345.12,android,bronze,11.0,3.9.8,USA,Chicago,english,good
+user_0246,5/26/2023 0:00,97,female,25-34,phone,low,313.5,ios,silver,12.0,3.9.9,USA,Phoenix,english,excellent
+user_0247,12/20/2022 0:00,254,female,45+,phone,medium,95.57,android,gold,12.0,3.9.8,USA,New York,english,good
+user_0248,1/22/2023 0:00,221,female,25-34,phone,low,149.89,android,bronze,10.0,3.9.7,USA,Philadelphia,english,excellent
+user_0249,4/11/2023 0:00,142,male,25-34,tablet,medium,4017.74,web,gold,,3.9.9,USA,Houston,english,good
+user_0250,11/16/2022 0:00,288,male,25-34,phone,high,3647.75,android,bronze,13.0,3.9.8,USA,San Antonio,english,fair
+user_0251,11/30/2022 0:00,274,male,25-34,phone,medium,418.53,ios,gold,14.0,3.9.9,USA,Dallas,english,fair
+user_0252,2/5/2023 0:00,207,female,18-24,phone,low,742.57,ios,bronze,16.0,3.9.7,USA,Dallas,english,fair
+user_0253,3/10/2023 0:00,174,male,18-24,phone,dormant,2581.05,ios,bronze,12.0,3.9.9,USA,Phoenix,english,good
+user_0254,3/14/2023 0:00,170,male,18-24,phone,low,16510.24,android,silver,11.0,3.9.9,USA,New York,english,good
+user_0255,4/30/2023 0:00,123,female,35-44,phone,dormant,206.18,ios,bronze,13.0,3.9.9,USA,San Diego,english,excellent
+user_0256,10/1/2022 0:00,334,male,25-34,phone,dormant,762.94,ios,bronze,12.0,3.9.7,USA,Philadelphia,english,excellent
+user_0257,11/19/2022 0:00,285,female,35-44,phone,low,1074.97,android,bronze,12.0,3.9.5,USA,Los Angeles,english,fair
+user_0258,11/23/2022 0:00,281,male,35-44,phone,medium,13601.0,ios,bronze,14.0,3.9.9,USA,Philadelphia,english,fair
+user_0259,6/20/2023 0:00,72,male,35-44,tablet,low,972.96,web,bronze,,3.9.9,USA,Chicago,english,good
+user_0260,7/12/2022 0:00,415,male,25-34,phone,medium,18796.55,ios,bronze,15.0,3.9.9,USA,Philadelphia,english,excellent
+user_0261,11/19/2022 0:00,285,female,35-44,phone,dormant,3355.49,android,silver,12.0,3.9.9,USA,Dallas,english,fair
+user_0262,1/8/2023 0:00,235,male,35-44,phone,low,377.26,android,bronze,12.0,3.9.6,USA,Houston,english,fair
+user_0263,8/10/2022 0:00,386,female,45+,phone,low,1456.11,android,bronze,11.0,3.9.9,USA,San Antonio,english,good
+user_0264,8/4/2022 0:00,392,female,35-44,phone,medium,4260.15,ios,bronze,12.0,3.9.9,USA,San Jose,english,excellent
+user_0265,3/21/2023 0:00,163,female,25-34,phone,medium,7602.49,android,bronze,10.0,3.9.9,USA,Los Angeles,english,good
+user_0266,8/13/2022 0:00,383,male,35-44,phone,low,595.29,android,platinum,13.0,3.9.9,USA,Dallas,english,fair
+user_0267,1/16/2023 0:00,227,male,45+,phone,medium,891.4,android,bronze,13.0,3.9.9,USA,Chicago,english,good
+user_0268,5/27/2023 0:00,96,female,25-34,phone,dormant,575.14,android,silver,12.0,3.9.6,USA,San Jose,english,excellent
+user_0269,6/2/2023 0:00,90,male,25-34,phone,medium,481.55,ios,silver,14.0,3.9.8,USA,Phoenix,english,good
+user_0270,6/11/2023 0:00,81,male,35-44,phone,low,245.51,android,bronze,13.0,3.9.9,USA,New York,english,good
+user_0271,8/20/2022 0:00,376,male,45+,phone,medium,126.93,android,bronze,12.0,3.9.9,USA,Houston,english,poor
+user_0272,9/20/2022 0:00,345,female,25-34,phone,dormant,19313.47,ios,bronze,15.0,3.9.9,USA,Dallas,english,good
+user_0273,1/17/2023 0:00,226,female,45+,phone,dormant,684.0,android,bronze,12.0,3.9.4,USA,San Jose,english,excellent
+user_0274,5/9/2023 0:00,114,female,18-24,phone,high,848.77,android,bronze,12.0,3.9.9,USA,Los Angeles,english,good
+user_0275,8/4/2022 0:00,392,female,35-44,tablet,dormant,338.05,web,bronze,,3.9.8,USA,San Jose,english,good
+user_0276,10/5/2022 0:00,330,female,35-44,phone,dormant,618.2,ios,gold,14.0,3.9.6,USA,San Diego,english,fair
+user_0277,12/14/2022 0:00,260,male,18-24,phone,low,93.58,ios,bronze,16.0,3.9.9,USA,Chicago,english,fair
+user_0278,5/28/2023 0:00,95,female,35-44,tablet,dormant,79.34,web,gold,,3.9.9,USA,Dallas,english,good
+user_0279,7/29/2022 0:00,398,male,35-44,phone,low,193.59,android,gold,11.0,3.9.7,USA,Philadelphia,english,good
+user_0280,9/5/2022 0:00,360,other,35-44,phone,low,139.45,ios,silver,14.0,3.9.2,USA,Philadelphia,english,good
+user_0281,8/30/2022 0:00,366,female,35-44,phone,medium,147.59,android,silver,11.0,3.9.9,USA,Dallas,english,excellent
+user_0282,12/20/2022 0:00,254,female,45+,tablet,medium,714.79,web,bronze,,3.9.9,USA,Los Angeles,english,good
+user_0283,5/14/2023 0:00,109,male,45+,phone,low,716.82,android,bronze,12.0,3.9.9,USA,San Diego,english,excellent
+user_0284,6/21/2023 0:00,71,male,25-34,phone,medium,490.08,android,silver,12.0,3.9.7,USA,Chicago,english,good
+user_0285,10/25/2022 0:00,310,male,25-34,tablet,medium,54.56,web,gold,,3.9.8,USA,Philadelphia,english,fair
+user_0286,1/30/2023 0:00,213,female,25-34,tablet,low,875.54,web,gold,,3.9.9,USA,Phoenix,english,good
+user_0287,10/4/2022 0:00,331,female,45+,phone,dormant,230.2,android,bronze,11.0,3.9.8,USA,New York,english,good
+user_0288,8/29/2022 0:00,367,male,35-44,phone,low,87.81,android,gold,11.0,3.9.6,USA,San Antonio,english,good
+user_0289,4/7/2023 0:00,146,female,25-34,phone,dormant,15817.74,ios,gold,15.0,3.9.8,USA,Houston,english,good
+user_0290,11/15/2022 0:00,289,male,18-24,phone,low,688.48,android,silver,11.0,3.9.8,USA,San Antonio,english,good
+user_0291,2/28/2023 0:00,184,male,35-44,phone,medium,447.57,ios,bronze,13.0,3.9.7,USA,San Jose,english,excellent
+user_0292,11/17/2022 0:00,287,female,45+,phone,low,11925.2,android,silver,10.0,3.9.9,USA,New York,english,good
+user_0293,10/3/2022 0:00,332,male,35-44,phone,high,2674.64,android,silver,12.0,3.9.8,USA,San Diego,english,good
+user_0294,4/21/2023 0:00,132,male,45+,tablet,medium,4492.01,web,bronze,,3.9.9,USA,Philadelphia,english,excellent
+user_0295,9/20/2022 0:00,345,male,35-44,phone,low,947.43,ios,silver,14.0,3.9.6,USA,San Diego,english,excellent
+user_0296,2/11/2023 0:00,201,male,35-44,tablet,low,559.46,web,silver,,3.9.9,USA,San Antonio,english,excellent
+user_0297,3/9/2023 0:00,175,female,18-24,phone,high,853.36,android,bronze,10.0,3.9.9,USA,Phoenix,english,excellent
+user_0298,6/3/2023 0:00,89,female,25-34,phone,dormant,91.36,android,bronze,12.0,3.9.9,USA,San Antonio,english,good
+user_0299,5/20/2023 0:00,103,other,25-34,phone,medium,87.48,android,gold,10.0,3.9.9,USA,Dallas,english,fair
+user_0300,8/2/2022 0:00,394,female,25-34,phone,dormant,10029.36,android,silver,11.0,3.9.9,USA,Dallas,english,excellent
+user_0301,2/4/2023 0:00,208,female,25-34,phone,low,185.13,android,platinum,12.0,3.9.9,USA,Phoenix,english,good
+user_0302,11/13/2022 0:00,291,female,35-44,phone,low,130.76,ios,gold,12.0,3.9.7,USA,New York,english,good
+user_0303,4/15/2023 0:00,138,female,25-34,phone,low,639.04,ios,silver,12.0,3.9.6,USA,San Jose,english,good
+user_0304,1/27/2023 0:00,216,female,18-24,tablet,low,297.48,web,gold,,3.9.9,USA,Philadelphia,english,good
+user_0305,11/8/2022 0:00,296,female,25-34,phone,medium,250.25,android,gold,10.0,3.9.9,USA,Chicago,english,excellent
+user_0306,6/22/2023 0:00,70,male,35-44,phone,low,705.56,android,bronze,11.0,3.9.9,USA,Chicago,english,good
+user_0307,11/23/2022 0:00,281,female,25-34,phone,low,201.25,android,bronze,12.0,3.9.7,USA,Phoenix,english,good
+user_0308,11/29/2022 0:00,275,male,45+,phone,low,53.72,android,bronze,11.0,3.9.6,USA,Philadelphia,english,excellent
+user_0309,5/27/2023 0:00,96,male,25-34,phone,medium,191.61,ios,bronze,15.0,3.9.9,USA,Phoenix,english,good
+user_0310,8/9/2022 0:00,387,male,25-34,tablet,low,89.64,web,bronze,,3.9.9,USA,Philadelphia,english,good
+user_0311,12/30/2022 0:00,244,male,35-44,phone,dormant,830.82,android,silver,11.0,3.9.9,USA,Houston,english,good
+user_0312,9/6/2022 0:00,359,female,35-44,phone,high,152.33,ios,bronze,13.0,3.9.8,USA,Phoenix,english,good
+user_0313,9/24/2022 0:00,341,female,45+,phone,medium,2354.19,android,bronze,11.0,3.9.9,USA,Chicago,english,good
+user_0314,8/11/2022 0:00,385,male,25-34,phone,low,345.82,ios,silver,12.0,3.9.9,USA,Dallas,english,excellent
+user_0315,1/31/2023 0:00,212,male,18-24,phone,medium,361.27,ios,silver,12.0,3.9.9,USA,San Diego,english,good
+user_0316,10/10/2022 0:00,325,male,18-24,phone,high,10973.36,ios,silver,14.0,3.9.9,USA,Los Angeles,english,good
+user_0317,2/4/2023 0:00,208,female,25-34,phone,medium,485.58,ios,bronze,14.0,3.9.8,USA,Phoenix,english,excellent
+user_0318,12/24/2022 0:00,250,male,35-44,phone,low,98.65,android,silver,10.0,3.9.9,USA,San Jose,english,excellent
+user_0319,1/8/2023 0:00,235,female,35-44,phone,medium,978.98,android,silver,12.0,3.9.9,USA,San Jose,english,excellent
+user_0320,10/8/2022 0:00,327,male,35-44,phone,low,413.38,ios,bronze,15.0,3.9.6,USA,San Jose,english,excellent
+user_0321,8/26/2022 0:00,370,male,25-34,phone,dormant,199.12,ios,silver,16.0,3.9.5,USA,New York,english,excellent
+user_0322,5/9/2023 0:00,114,male,35-44,phone,low,264.06,ios,silver,14.0,3.9.8,USA,San Jose,english,fair
+user_0323,11/24/2022 0:00,280,female,45+,phone,medium,1666.58,android,gold,11.0,3.9.9,USA,San Diego,english,good
+user_0324,6/9/2023 0:00,83,male,25-34,phone,medium,150.83,android,bronze,10.0,3.9.9,USA,New York,english,fair
+user_0325,2/10/2023 0:00,202,male,35-44,phone,medium,3557.88,ios,bronze,12.0,3.9.8,USA,Houston,english,excellent
+user_0326,10/11/2022 0:00,324,female,25-34,phone,medium,164.2,android,bronze,11.0,3.9.8,USA,Phoenix,english,excellent
+user_0327,8/23/2022 0:00,373,male,18-24,phone,low,142.06,android,bronze,11.0,3.9.8,USA,Los Angeles,english,good
+user_0328,5/27/2023 0:00,96,male,25-34,phone,medium,388.8,android,silver,11.0,3.9.8,USA,Dallas,english,good
+user_0329,9/13/2022 0:00,352,female,35-44,phone,dormant,25.83,ios,bronze,15.0,3.9.9,USA,Los Angeles,english,fair
+user_0330,11/15/2022 0:00,289,female,25-34,phone,dormant,157.36,android,silver,11.0,3.9.7,USA,San Antonio,english,excellent
+user_0331,12/9/2022 0:00,265,female,35-44,phone,low,451.51,android,silver,12.0,3.9.7,USA,Houston,english,fair
+user_0332,6/17/2023 0:00,75,female,35-44,phone,medium,788.54,android,bronze,11.0,3.9.7,USA,Philadelphia,english,excellent
+user_0333,9/16/2022 0:00,349,male,18-24,phone,dormant,41.2,ios,bronze,15.0,3.9.6,USA,Philadelphia,english,poor
+user_0334,2/4/2023 0:00,208,female,35-44,phone,low,755.18,ios,silver,13.0,3.9.6,USA,Philadelphia,english,good
+user_0335,5/24/2023 0:00,99,male,45+,phone,dormant,101.37,ios,silver,12.0,3.9.2,USA,New York,english,fair
+user_0336,7/2/2022 0:00,425,male,25-34,phone,low,31.69,android,bronze,10.0,3.9.6,USA,Chicago,english,fair
+user_0337,7/1/2022 0:00,426,female,35-44,phone,low,767.65,android,gold,12.0,3.9.9,USA,San Antonio,english,excellent
+user_0338,3/8/2023 0:00,176,other,18-24,phone,low,1485.45,ios,silver,13.0,3.9.9,USA,San Diego,english,excellent
+user_0339,6/17/2023 0:00,75,male,45+,phone,dormant,84.96,android,silver,11.0,3.9.6,USA,New York,english,excellent
+user_0340,4/25/2023 0:00,128,female,35-44,phone,low,130.15,android,bronze,11.0,3.9.5,USA,Phoenix,english,poor
+user_0341,12/9/2022 0:00,265,male,45+,phone,low,199.93,android,gold,10.0,3.9.9,USA,San Jose,english,good
+user_0342,12/3/2022 0:00,271,male,25-34,phone,low,168.2,ios,bronze,13.0,3.9.8,USA,Houston,english,excellent
+user_0343,11/12/2022 0:00,292,male,25-34,phone,low,103.85,ios,gold,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0344,3/29/2023 0:00,155,female,25-34,phone,low,814.23,ios,bronze,15.0,3.9.9,USA,Philadelphia,english,good
+user_0345,4/28/2023 0:00,125,other,35-44,phone,low,12771.53,ios,bronze,13.0,3.9.8,USA,Philadelphia,english,good
+user_0346,7/2/2022 0:00,425,female,18-24,phone,low,8382.05,ios,platinum,12.0,3.9.9,USA,Chicago,english,good
+user_0347,8/9/2022 0:00,387,male,25-34,phone,low,192.14,ios,silver,13.0,3.9.9,USA,San Jose,english,excellent
+user_0348,9/30/2022 0:00,335,female,25-34,phone,dormant,274.74,android,gold,10.0,3.9.6,USA,Chicago,english,fair
+user_0349,4/13/2023 0:00,140,female,45+,phone,medium,336.96,android,bronze,11.0,3.9.9,USA,Houston,english,excellent
+user_0350,6/16/2023 0:00,76,female,25-34,phone,low,34.62,android,silver,12.0,3.9.7,USA,San Antonio,english,good
+user_0351,11/29/2022 0:00,275,female,25-34,tablet,low,131.26,android,silver,12.0,3.9.8,USA,San Diego,english,good
+user_0352,2/2/2023 0:00,210,male,25-34,tablet,medium,713.53,web,bronze,,3.9.9,USA,Dallas,english,poor
+user_0353,7/15/2022 0:00,412,female,45+,phone,medium,93.1,android,bronze,11.0,3.9.8,USA,San Antonio,english,fair
+user_0354,4/11/2023 0:00,142,female,25-34,phone,low,551.68,android,bronze,11.0,3.9.7,USA,New York,english,good
+user_0355,1/7/2023 0:00,236,female,25-34,phone,medium,129.2,android,silver,12.0,3.9.8,USA,Chicago,english,excellent
+user_0356,12/8/2022 0:00,266,male,25-34,phone,medium,43.54,ios,silver,16.0,3.9.9,USA,Chicago,english,excellent
+user_0357,1/18/2023 0:00,225,male,18-24,phone,dormant,393.39,ios,bronze,14.0,3.9.9,USA,San Diego,english,excellent
+user_0358,4/19/2023 0:00,134,male,25-34,tablet,medium,277.45,web,bronze,,3.9.7,USA,Philadelphia,english,excellent
+user_0359,11/28/2022 0:00,276,male,18-24,phone,low,398.62,android,bronze,11.0,3.9.5,USA,Los Angeles,english,good
+user_0360,1/21/2023 0:00,222,male,18-24,tablet,medium,1759.34,web,gold,,3.9.9,USA,Phoenix,english,good
+user_0361,11/3/2022 0:00,301,male,25-34,phone,medium,109.78,ios,gold,15.0,3.9.9,USA,New York,english,fair
+user_0362,12/11/2022 0:00,263,female,45+,phone,medium,604.36,ios,silver,13.0,3.9.8,USA,Dallas,english,fair
+user_0363,6/6/2023 0:00,86,female,25-34,phone,high,240.43,android,gold,11.0,3.9.9,USA,Houston,english,good
+user_0364,2/4/2023 0:00,208,female,18-24,phone,medium,116.6,android,bronze,11.0,3.9.8,USA,Chicago,english,good
+user_0365,2/15/2023 0:00,197,female,25-34,phone,dormant,3910.03,android,silver,12.0,3.9.9,USA,Houston,english,fair
+user_0366,12/7/2022 0:00,267,male,45+,tablet,medium,29.21,web,bronze,,3.9.9,USA,Houston,english,good
+user_0367,2/3/2023 0:00,209,male,18-24,tablet,low,258.83,web,bronze,,3.9.9,USA,Philadelphia,english,fair
+user_0368,8/15/2022 0:00,381,male,25-34,phone,low,744.32,android,gold,11.0,3.9.9,USA,San Antonio,english,good
+user_0369,12/11/2022 0:00,263,female,25-34,phone,low,498.56,android,bronze,13.0,3.9.7,USA,Philadelphia,english,poor
+user_0370,4/18/2023 0:00,135,female,35-44,phone,dormant,1796.23,ios,silver,16.0,3.9.8,USA,Chicago,english,good
+user_0371,6/11/2023 0:00,81,male,35-44,phone,high,1548.15,ios,bronze,15.0,3.9.8,USA,Houston,english,good
+user_0372,4/15/2023 0:00,138,female,35-44,phone,medium,3425.04,android,silver,10.0,3.9.9,USA,Phoenix,english,good
+user_0373,1/18/2023 0:00,225,female,45+,phone,low,330.0,android,bronze,13.0,3.9.9,USA,Chicago,english,fair
+user_0374,10/14/2022 0:00,321,other,45+,phone,low,169.09,android,bronze,10.0,3.9.6,USA,Los Angeles,english,good
+user_0375,10/30/2022 0:00,305,female,25-34,tablet,medium,4263.0,web,gold,,3.9.8,USA,Philadelphia,english,poor
+user_0376,11/29/2022 0:00,275,female,18-24,phone,low,3334.81,ios,silver,16.0,3.9.9,USA,San Jose,english,fair
+user_0377,7/30/2022 0:00,397,female,25-34,phone,medium,160.92,android,gold,11.0,3.9.8,USA,Los Angeles,english,fair
+user_0378,10/28/2022 0:00,307,male,25-34,phone,low,1682.05,android,bronze,11.0,3.9.9,USA,San Jose,english,excellent
+user_0379,6/14/2023 0:00,78,female,25-34,tablet,high,123.06,ios,bronze,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0380,1/21/2023 0:00,222,male,35-44,phone,high,95.38,ios,gold,13.0,3.9.9,USA,San Antonio,english,good
+user_0381,8/21/2022 0:00,375,female,25-34,phone,low,185.69,android,bronze,10.0,3.9.9,USA,Houston,english,good
+user_0382,3/16/2023 0:00,168,male,35-44,phone,low,120.96,android,gold,10.0,3.9.8,USA,San Jose,english,excellent
+user_0383,1/21/2023 0:00,222,female,25-34,phone,low,192.2,ios,silver,16.0,3.9.7,USA,Houston,english,good
+user_0384,12/31/2022 0:00,243,male,25-34,phone,low,740.69,android,bronze,11.0,3.9.9,USA,New York,english,good
+user_0385,3/24/2023 0:00,160,female,25-34,phone,medium,19360.06,android,bronze,10.0,3.9.9,USA,Chicago,english,good
+user_0386,3/7/2023 0:00,177,male,45+,phone,high,953.19,android,silver,11.0,3.9.9,USA,Phoenix,english,good
+user_0387,7/12/2022 0:00,415,female,45+,phone,medium,763.99,android,bronze,11.0,3.9.6,USA,Phoenix,english,good
+user_0388,9/17/2022 0:00,348,female,35-44,phone,low,188.07,ios,bronze,14.0,3.9.8,USA,San Jose,english,good
+user_0389,7/19/2022 0:00,408,female,25-34,phone,medium,13147.86,android,silver,12.0,3.9.9,USA,Phoenix,english,good
+user_0390,2/2/2023 0:00,210,male,18-24,phone,low,1168.27,android,gold,12.0,3.9.7,USA,Dallas,english,excellent
+user_0391,7/30/2022 0:00,397,male,25-34,phone,low,2025.78,android,bronze,13.0,3.9.9,USA,San Diego,english,good
+user_0392,9/28/2022 0:00,337,female,35-44,phone,low,2084.53,ios,silver,13.0,3.9.8,USA,San Jose,english,excellent
+user_0393,9/3/2022 0:00,362,male,25-34,phone,low,391.43,ios,gold,16.0,3.9.9,USA,San Antonio,english,fair
+user_0394,6/4/2023 0:00,88,male,35-44,phone,dormant,1400.79,android,silver,10.0,3.9.8,USA,Philadelphia,english,good
+user_0395,7/17/2022 0:00,410,male,25-34,phone,low,158.74,android,bronze,12.0,3.9.5,USA,Dallas,english,fair
+user_0396,12/4/2022 0:00,270,male,45+,phone,medium,722.31,ios,gold,15.0,3.9.6,USA,Dallas,english,good
+user_0397,1/17/2023 0:00,226,male,25-34,phone,low,428.33,ios,bronze,12.0,3.9.9,USA,Chicago,english,excellent
+user_0398,9/30/2022 0:00,335,male,25-34,phone,low,3954.75,ios,silver,13.0,3.9.8,USA,Phoenix,english,excellent
+user_0399,6/12/2023 0:00,80,male,18-24,phone,low,997.74,android,bronze,12.0,3.9.9,USA,Phoenix,english,excellent
+user_0400,2/2/2023 0:00,210,female,25-34,phone,medium,901.39,ios,silver,14.0,3.9.9,USA,San Antonio,english,excellent
+user_0401,5/7/2023 0:00,116,male,25-34,phone,low,18926.82,android,gold,11.0,3.9.9,USA,New York,english,excellent
+user_0402,8/6/2022 0:00,390,female,18-24,tablet,dormant,634.64,android,gold,12.0,3.9.7,USA,Chicago,english,good
+user_0403,11/3/2022 0:00,301,male,35-44,phone,low,418.27,android,bronze,12.0,3.9.9,USA,San Diego,english,good
+user_0404,11/8/2022 0:00,296,male,18-24,phone,low,14724.28,ios,silver,12.0,3.9.8,USA,Philadelphia,english,good
+user_0405,9/13/2022 0:00,352,female,45+,phone,low,141.39,android,bronze,12.0,3.9.9,USA,San Jose,english,fair
+user_0406,8/7/2022 0:00,389,male,35-44,phone,high,181.47,android,bronze,10.0,3.9.9,USA,San Jose,english,excellent
+user_0407,5/17/2023 0:00,106,female,18-24,phone,medium,520.67,android,gold,12.0,3.9.8,USA,New York,english,good
+user_0408,10/29/2022 0:00,306,female,18-24,phone,low,78.25,ios,bronze,12.0,3.9.7,USA,Houston,english,good
+user_0409,3/2/2023 0:00,182,female,18-24,phone,low,557.39,android,bronze,11.0,3.9.6,USA,Houston,english,good
+user_0410,9/5/2022 0:00,360,female,45+,phone,medium,3891.53,android,bronze,11.0,3.9.9,USA,Dallas,english,excellent
+user_0411,7/11/2022 0:00,416,female,18-24,phone,low,389.04,android,silver,12.0,3.9.6,USA,San Antonio,english,excellent
+user_0412,4/10/2023 0:00,143,female,35-44,phone,high,92.97,android,bronze,10.0,3.9.9,USA,Phoenix,english,good
+user_0413,12/24/2022 0:00,250,male,18-24,phone,medium,691.7,ios,silver,13.0,3.9.9,USA,San Diego,english,poor
+user_0414,11/10/2022 0:00,294,female,18-24,phone,dormant,798.19,android,bronze,12.0,3.9.5,USA,San Antonio,english,good
+user_0415,11/1/2022 0:00,303,male,45+,phone,high,4029.4,ios,platinum,13.0,3.9.9,USA,San Diego,english,good
+user_0416,10/4/2022 0:00,331,male,45+,phone,medium,2786.99,android,bronze,11.0,3.9.9,USA,Chicago,english,fair
+user_0417,5/4/2023 0:00,119,female,25-34,phone,low,1247.03,ios,silver,16.0,3.9.7,USA,Dallas,english,good
+user_0418,4/7/2023 0:00,146,female,35-44,phone,medium,79.06,android,gold,10.0,3.9.7,USA,Houston,english,fair
+user_0419,9/5/2022 0:00,360,male,18-24,phone,dormant,2955.31,ios,bronze,12.0,3.9.9,USA,Houston,english,fair
+user_0420,10/11/2022 0:00,324,male,25-34,phone,medium,532.34,android,bronze,11.0,3.9.9,USA,San Antonio,english,good
+user_0421,7/21/2022 0:00,406,male,35-44,phone,low,845.53,android,bronze,13.0,3.9.6,USA,New York,english,good
+user_0422,6/29/2023 0:00,63,male,25-34,phone,low,796.64,android,silver,11.0,3.9.9,USA,New York,english,fair
+user_0423,1/5/2023 0:00,238,male,18-24,phone,dormant,146.07,ios,silver,12.0,3.9.8,USA,San Jose,english,excellent
+user_0424,2/4/2023 0:00,208,female,35-44,tablet,low,527.09,android,gold,10.0,3.9.9,USA,New York,english,excellent
+user_0425,12/17/2022 0:00,257,male,25-34,phone,low,558.83,android,silver,13.0,3.9.9,USA,San Antonio,english,good
+user_0426,7/16/2022 0:00,411,female,18-24,phone,medium,4856.58,ios,bronze,14.0,3.9.9,USA,Houston,english,good
+user_0427,9/28/2022 0:00,337,male,25-34,phone,low,2572.23,ios,bronze,13.0,3.9.6,USA,Chicago,english,good
+user_0428,1/29/2023 0:00,214,female,45+,tablet,medium,2852.02,ios,bronze,16.0,3.9.9,USA,Houston,english,good
+user_0429,2/24/2023 0:00,188,other,18-24,phone,low,568.5,android,silver,12.0,3.9.8,USA,Phoenix,english,good
+user_0430,5/4/2023 0:00,119,female,25-34,phone,low,25.8,ios,bronze,16.0,3.9.9,USA,Philadelphia,english,fair
+user_0431,3/17/2023 0:00,167,female,45+,phone,medium,1269.16,ios,silver,15.0,3.9.9,USA,San Diego,english,good
+user_0432,2/25/2023 0:00,187,male,25-34,tablet,low,153.3,android,silver,11.0,3.9.8,USA,San Antonio,english,fair
+user_0433,9/27/2022 0:00,338,male,45+,phone,medium,373.82,android,gold,13.0,3.9.8,USA,San Jose,english,good
+user_0434,2/2/2023 0:00,210,female,18-24,phone,low,387.33,android,silver,11.0,3.9.6,USA,Phoenix,english,good
+user_0435,7/21/2022 0:00,406,female,35-44,tablet,low,854.71,web,bronze,,3.9.9,USA,New York,english,good
+user_0436,7/27/2022 0:00,400,male,35-44,tablet,dormant,12818.77,web,bronze,,3.9.8,USA,San Diego,english,good
+user_0437,5/30/2023 0:00,93,male,45+,phone,dormant,645.37,ios,platinum,15.0,3.9.6,USA,San Diego,english,good
+user_0438,6/6/2023 0:00,86,male,18-24,phone,dormant,977.83,android,silver,10.0,3.9.9,USA,New York,english,excellent
+user_0439,7/9/2022 0:00,418,female,25-34,tablet,low,94.94,web,silver,,3.9.7,USA,San Diego,english,excellent
+user_0440,3/28/2023 0:00,156,female,35-44,tablet,medium,803.53,android,silver,12.0,3.9.9,USA,Phoenix,english,good
+user_0441,1/28/2023 0:00,215,male,25-34,phone,low,174.36,ios,bronze,15.0,3.9.9,USA,San Antonio,english,excellent
+user_0442,12/1/2022 0:00,273,female,35-44,phone,medium,4871.14,android,silver,11.0,3.9.9,USA,Philadelphia,english,good
+user_0443,2/20/2023 0:00,192,female,25-34,phone,medium,1813.35,ios,silver,15.0,3.9.8,USA,San Antonio,english,good
+user_0444,9/29/2022 0:00,336,male,45+,phone,low,150.43,android,bronze,12.0,3.9.8,USA,Houston,english,good
+user_0445,12/19/2022 0:00,255,male,35-44,phone,low,141.26,android,bronze,12.0,3.9.8,USA,New York,english,good
+user_0446,9/3/2022 0:00,362,male,25-34,tablet,medium,150.37,web,bronze,,3.9.8,USA,Chicago,english,good
+user_0447,1/11/2023 0:00,232,female,35-44,phone,dormant,442.55,ios,bronze,13.0,3.9.9,USA,Los Angeles,english,good
+user_0448,10/28/2022 0:00,307,female,35-44,phone,low,931.55,ios,bronze,15.0,3.9.9,USA,Phoenix,english,good
+user_0449,1/17/2023 0:00,226,male,25-34,phone,high,4102.06,android,silver,10.0,3.9.9,USA,Phoenix,english,good
+user_0450,8/2/2022 0:00,394,female,18-24,tablet,medium,2437.04,web,bronze,,3.9.9,USA,San Jose,english,excellent
+user_0451,10/19/2022 0:00,316,male,45+,phone,low,2864.02,ios,gold,14.0,3.9.9,USA,Houston,english,poor
+user_0452,1/21/2023 0:00,222,male,35-44,phone,medium,94.51,android,silver,11.0,3.9.6,USA,Chicago,english,poor
+user_0453,2/17/2023 0:00,195,female,18-24,phone,dormant,642.65,android,silver,12.0,3.9.6,USA,San Antonio,english,good
+user_0454,3/22/2023 0:00,162,male,35-44,phone,low,79.38,ios,bronze,16.0,3.9.7,USA,Los Angeles,english,fair
+user_0455,9/22/2022 0:00,343,male,18-24,phone,low,723.69,android,bronze,11.0,3.9.9,USA,Philadelphia,english,good
+user_0456,8/6/2022 0:00,390,male,25-34,tablet,medium,791.68,web,bronze,,3.9.9,USA,San Antonio,english,good
+user_0457,4/5/2023 0:00,148,female,25-34,phone,medium,45.19,ios,bronze,13.0,3.9.8,USA,Houston,english,fair
+user_0458,10/5/2022 0:00,330,female,45+,phone,dormant,1135.3,android,bronze,10.0,3.9.7,USA,San Jose,english,good
+user_0459,12/1/2022 0:00,273,female,25-34,phone,low,1549.97,ios,bronze,12.0,3.9.8,USA,San Jose,english,good
+user_0460,3/11/2023 0:00,173,female,35-44,phone,medium,604.59,android,platinum,11.0,3.9.9,USA,San Antonio,english,excellent
+user_0461,8/8/2022 0:00,388,male,35-44,phone,low,733.4,android,gold,10.0,3.9.7,USA,Los Angeles,english,good
+user_0462,6/27/2023 0:00,65,male,25-34,phone,medium,115.8,android,bronze,10.0,3.9.9,USA,New York,english,good
+user_0463,10/2/2022 0:00,333,male,45+,tablet,dormant,777.75,ios,platinum,12.0,3.9.9,USA,Chicago,english,excellent
+user_0464,3/31/2023 0:00,153,male,25-34,phone,low,39.26,android,silver,10.0,3.9.4,USA,Dallas,english,good
+user_0465,2/27/2023 0:00,185,male,18-24,tablet,low,1767.73,web,bronze,,3.9.9,USA,Los Angeles,english,excellent
+user_0466,12/9/2022 0:00,265,female,18-24,phone,medium,263.22,ios,gold,15.0,3.9.9,USA,Chicago,english,excellent
+user_0467,7/9/2022 0:00,418,female,18-24,phone,low,8387.86,android,gold,12.0,3.9.9,USA,San Antonio,english,good
+user_0468,12/5/2022 0:00,269,female,35-44,tablet,dormant,88.27,web,bronze,,3.9.8,USA,San Diego,english,poor
+user_0469,7/6/2022 0:00,421,female,25-34,phone,low,337.11,ios,silver,15.0,3.9.9,USA,Los Angeles,english,excellent
+user_0470,5/13/2023 0:00,110,female,18-24,phone,medium,18421.87,android,gold,11.0,3.9.8,USA,Houston,english,excellent
+user_0471,7/11/2022 0:00,416,male,25-34,phone,medium,910.04,ios,gold,14.0,3.9.9,USA,Philadelphia,english,excellent
+user_0472,7/15/2022 0:00,412,male,35-44,phone,medium,940.47,android,silver,10.0,3.9.8,USA,San Jose,english,fair
+user_0473,6/22/2023 0:00,70,male,18-24,phone,low,4845.88,android,gold,12.0,3.9.6,USA,Chicago,english,excellent
+user_0474,1/28/2023 0:00,215,female,25-34,phone,low,329.96,android,bronze,11.0,3.9.5,USA,San Diego,english,good
+user_0475,7/19/2022 0:00,408,male,18-24,phone,low,18447.89,ios,bronze,15.0,3.9.9,USA,Houston,english,good
+user_0476,10/17/2022 0:00,318,male,45+,phone,low,796.37,ios,silver,12.0,3.9.9,USA,Los Angeles,english,excellent
+user_0477,3/4/2023 0:00,180,male,25-34,phone,medium,170.96,android,gold,10.0,3.9.9,USA,San Jose,english,fair
+user_0478,8/30/2022 0:00,366,female,18-24,tablet,low,91.41,web,gold,,3.9.9,USA,Los Angeles,english,poor
+user_0479,11/12/2022 0:00,292,female,25-34,phone,medium,108.31,ios,gold,16.0,3.9.7,USA,San Diego,english,excellent
+user_0480,3/27/2023 0:00,157,female,18-24,phone,high,142.35,ios,silver,12.0,3.9.9,USA,Houston,english,fair
+user_0481,2/24/2023 0:00,188,female,18-24,phone,low,148.36,android,bronze,12.0,3.9.7,USA,Philadelphia,english,excellent
+user_0482,12/18/2022 0:00,256,other,35-44,tablet,medium,769.34,web,gold,,3.9.9,USA,Los Angeles,english,good
+user_0483,12/28/2022 0:00,246,male,25-34,phone,medium,39.18,ios,bronze,14.0,3.9.8,USA,Phoenix,english,good
+user_0484,2/12/2023 0:00,200,male,45+,phone,low,38.4,android,bronze,10.0,3.9.9,USA,Dallas,english,fair
+user_0485,11/13/2022 0:00,291,female,18-24,phone,medium,13354.78,android,bronze,11.0,3.9.9,USA,New York,english,fair
+user_0486,5/16/2023 0:00,107,female,18-24,phone,medium,483.13,ios,bronze,16.0,3.9.7,USA,New York,english,excellent
+user_0487,12/15/2022 0:00,259,male,25-34,phone,high,22.22,android,bronze,12.0,3.9.9,USA,San Jose,english,excellent
+user_0488,9/17/2022 0:00,348,female,35-44,phone,dormant,4620.83,android,silver,11.0,3.9.9,USA,San Jose,english,excellent
+user_0489,4/5/2023 0:00,148,male,25-34,tablet,low,143.36,ios,silver,13.0,3.9.6,USA,San Antonio,english,fair
+user_0490,2/13/2023 0:00,199,female,18-24,phone,high,12396.86,android,bronze,10.0,3.9.9,USA,New York,english,good
+user_0491,2/9/2023 0:00,203,female,35-44,phone,low,95.8,ios,gold,12.0,3.9.9,USA,San Antonio,english,good
+user_0492,2/24/2023 0:00,188,female,25-34,phone,low,15813.49,android,bronze,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0493,3/22/2023 0:00,162,male,35-44,phone,low,566.29,android,bronze,11.0,3.9.7,USA,San Antonio,english,good
+user_0494,12/10/2022 0:00,264,female,25-34,tablet,low,79.8,web,silver,,3.9.9,USA,San Antonio,english,good
+user_0495,1/10/2023 0:00,233,male,18-24,phone,dormant,11459.24,android,silver,10.0,3.9.6,USA,Phoenix,english,fair
+user_0496,8/26/2022 0:00,370,male,25-34,phone,medium,190.51,ios,gold,15.0,3.9.8,USA,Houston,english,good
+user_0497,12/9/2022 0:00,265,other,18-24,tablet,low,194.37,ios,bronze,15.0,3.9.7,USA,Phoenix,english,excellent
+user_0498,1/15/2023 0:00,228,female,25-34,phone,medium,500.84,ios,silver,14.0,3.9.9,USA,Phoenix,english,good
+user_0499,3/20/2023 0:00,164,female,25-34,phone,dormant,3368.91,android,bronze,10.0,3.9.7,USA,Phoenix,english,good
+user_0500,11/6/2022 0:00,298,other,25-34,phone,medium,4771.9,android,bronze,12.0,3.9.7,USA,Houston,english,excellent
+user_0501,7/11/2022 0:00,416,male,25-34,phone,medium,1276.63,android,bronze,11.0,3.9.7,USA,Phoenix,english,fair
+user_0502,8/10/2022 0:00,386,male,45+,phone,low,2211.33,android,bronze,13.0,3.9.9,USA,San Diego,english,good
+user_0503,12/19/2022 0:00,255,female,25-34,phone,low,33.31,android,silver,10.0,3.9.5,USA,Dallas,english,excellent
+user_0504,9/30/2022 0:00,335,male,35-44,phone,medium,111.19,ios,bronze,16.0,3.9.9,USA,San Jose,english,poor
+user_0505,7/6/2022 0:00,421,female,35-44,phone,medium,181.19,android,silver,13.0,3.9.9,USA,New York,english,good
+user_0506,7/29/2022 0:00,398,male,45+,phone,medium,3658.78,android,silver,13.0,3.9.8,USA,Dallas,english,fair
+user_0507,9/15/2022 0:00,350,female,25-34,phone,low,986.89,ios,platinum,14.0,3.9.7,USA,San Jose,english,good
+user_0508,6/25/2023 0:00,67,male,45+,phone,low,37.75,ios,silver,16.0,3.9.6,USA,Philadelphia,english,good
+user_0509,9/6/2022 0:00,359,male,25-34,phone,low,143.78,ios,gold,15.0,3.9.6,USA,New York,english,excellent
+user_0510,11/5/2022 0:00,299,male,18-24,phone,dormant,159.02,android,bronze,13.0,3.9.9,USA,New York,english,excellent
+user_0511,10/26/2022 0:00,309,female,18-24,phone,medium,38.82,ios,bronze,12.0,3.9.9,USA,San Diego,english,good
+user_0512,1/3/2023 0:00,240,female,18-24,phone,low,449.51,android,silver,11.0,3.9.8,USA,San Antonio,english,poor
+user_0513,10/26/2022 0:00,309,male,45+,phone,medium,478.64,android,gold,10.0,3.9.5,USA,San Jose,english,good
+user_0514,1/18/2023 0:00,225,male,18-24,tablet,dormant,253.74,web,bronze,,3.9.9,USA,New York,english,excellent
+user_0515,1/6/2023 0:00,237,female,25-34,phone,low,718.38,android,bronze,11.0,3.9.9,USA,Los Angeles,english,excellent
+user_0516,4/2/2023 0:00,151,male,35-44,phone,high,13278.65,android,silver,10.0,3.9.8,USA,Chicago,english,excellent
+user_0517,11/6/2022 0:00,298,male,18-24,phone,low,385.48,ios,silver,13.0,3.9.9,USA,Houston,english,good
+user_0518,12/10/2022 0:00,264,female,35-44,tablet,dormant,1116.77,web,bronze,,3.9.6,USA,San Antonio,english,good
+user_0519,11/23/2022 0:00,281,female,25-34,phone,low,10832.54,android,silver,12.0,3.9.9,USA,Chicago,english,excellent
+user_0520,7/5/2022 0:00,422,female,45+,phone,low,165.57,android,bronze,10.0,3.9.9,USA,San Antonio,english,good
+user_0521,9/29/2022 0:00,336,female,25-34,phone,high,1747.84,ios,bronze,13.0,3.9.9,USA,Chicago,english,poor
+user_0522,2/16/2023 0:00,196,female,25-34,phone,dormant,736.56,android,gold,11.0,3.9.8,USA,San Antonio,english,good
+user_0523,8/29/2022 0:00,367,male,35-44,phone,low,89.96,android,bronze,11.0,3.9.9,USA,San Jose,english,good
+user_0524,1/3/2023 0:00,240,female,35-44,phone,medium,481.59,ios,gold,16.0,3.9.9,USA,Chicago,english,good
+user_0525,8/20/2022 0:00,376,female,35-44,phone,low,3360.67,android,bronze,10.0,3.9.7,USA,San Diego,english,good
+user_0526,2/28/2023 0:00,184,male,25-34,tablet,low,74.97,web,bronze,,3.9.9,USA,Chicago,english,excellent
+user_0527,10/12/2022 0:00,323,male,18-24,phone,low,10826.95,ios,gold,16.0,3.9.9,USA,Los Angeles,english,excellent
+user_0528,3/27/2023 0:00,157,male,25-34,tablet,low,589.34,ios,bronze,16.0,3.9.9,USA,San Antonio,english,good
+user_0529,2/3/2023 0:00,209,male,45+,phone,medium,312.24,android,bronze,11.0,3.9.9,USA,Los Angeles,english,fair
+user_0530,6/3/2023 0:00,89,male,25-34,phone,low,892.42,ios,silver,15.0,3.9.9,USA,New York,english,excellent
+user_0531,12/16/2022 0:00,258,female,25-34,tablet,medium,971.06,ios,bronze,15.0,3.9.9,USA,San Antonio,english,fair
+user_0532,7/2/2022 0:00,425,female,35-44,phone,medium,871.91,android,gold,13.0,3.9.9,USA,San Antonio,english,excellent
+user_0533,9/14/2022 0:00,351,male,18-24,tablet,medium,25.55,web,bronze,,3.9.9,USA,Dallas,english,excellent
+user_0534,2/10/2023 0:00,202,male,18-24,phone,dormant,379.87,android,gold,11.0,3.9.6,USA,San Diego,english,excellent
+user_0535,9/14/2022 0:00,351,female,18-24,phone,low,153.65,ios,bronze,16.0,3.9.9,USA,San Jose,english,excellent
+user_0536,9/10/2022 0:00,355,female,35-44,phone,low,40.56,ios,gold,16.0,3.9.9,USA,Los Angeles,english,fair
+user_0537,9/24/2022 0:00,341,female,25-34,phone,high,374.83,ios,silver,12.0,3.9.7,USA,Houston,english,good
+user_0538,6/14/2023 0:00,78,male,18-24,phone,low,2798.93,ios,bronze,12.0,3.9.7,USA,Dallas,english,good
+user_0539,3/1/2023 0:00,183,male,25-34,tablet,low,367.9,web,bronze,,3.9.9,USA,New York,english,good
+user_0540,4/7/2023 0:00,146,female,45+,phone,low,692.92,android,gold,11.0,3.9.9,USA,Chicago,english,good
+user_0541,9/12/2022 0:00,353,male,35-44,phone,medium,480.65,android,bronze,13.0,3.9.7,USA,Philadelphia,english,good
+user_0542,4/5/2023 0:00,148,female,35-44,phone,dormant,458.92,ios,gold,14.0,3.9.9,USA,San Jose,english,good
+user_0543,10/10/2022 0:00,325,female,45+,phone,medium,988.39,ios,bronze,13.0,3.9.9,USA,New York,english,good
+user_0544,2/9/2023 0:00,203,male,18-24,phone,medium,4468.19,ios,silver,13.0,3.9.8,USA,New York,english,good
+user_0545,7/1/2022 0:00,426,female,45+,phone,dormant,2288.39,android,silver,11.0,3.9.9,USA,Philadelphia,english,excellent
+user_0546,4/19/2023 0:00,134,male,18-24,tablet,medium,661.94,web,bronze,,3.9.9,USA,Chicago,english,good
+user_0547,11/11/2022 0:00,293,male,18-24,phone,high,6132.74,android,silver,11.0,3.9.9,USA,Phoenix,english,good
+user_0548,2/8/2023 0:00,204,male,25-34,phone,low,145.05,ios,gold,15.0,3.9.9,USA,San Diego,english,good
+user_0549,9/6/2022 0:00,359,male,25-34,phone,high,1009.89,android,silver,12.0,3.9.9,USA,San Antonio,english,fair
+user_0550,5/29/2023 0:00,94,female,25-34,phone,medium,836.54,android,bronze,11.0,3.9.9,USA,Philadelphia,english,good
+user_0551,3/14/2023 0:00,170,male,45+,phone,low,595.77,android,gold,11.0,3.9.9,USA,Dallas,english,fair
+user_0552,9/23/2022 0:00,342,female,18-24,tablet,low,3311.73,web,silver,,3.9.8,USA,Los Angeles,english,good
+user_0553,6/7/2023 0:00,85,male,18-24,phone,dormant,279.66,android,bronze,11.0,3.9.9,USA,San Antonio,english,good
+user_0554,4/11/2023 0:00,142,female,25-34,phone,medium,553.03,android,bronze,12.0,3.9.8,USA,San Antonio,english,poor
+user_0555,7/13/2022 0:00,414,male,25-34,phone,high,4637.63,android,platinum,11.0,3.9.9,USA,Phoenix,english,good
+user_0556,5/14/2023 0:00,109,female,45+,tablet,medium,3618.35,ios,bronze,12.0,3.9.8,USA,Phoenix,english,excellent
+user_0557,6/4/2023 0:00,88,male,35-44,phone,dormant,517.07,android,bronze,12.0,3.9.9,USA,New York,english,good
+user_0558,7/30/2022 0:00,397,female,35-44,tablet,high,36.42,web,silver,,3.9.9,USA,Chicago,english,excellent
+user_0559,10/29/2022 0:00,306,female,35-44,phone,medium,34.03,android,platinum,10.0,3.9.7,USA,Dallas,english,good
+user_0560,6/26/2023 0:00,66,female,18-24,phone,medium,1032.25,android,bronze,12.0,3.9.9,USA,Los Angeles,english,excellent
+user_0561,7/10/2022 0:00,417,male,18-24,phone,low,6982.63,android,platinum,11.0,3.9.7,USA,Philadelphia,english,good
+user_0562,5/16/2023 0:00,107,male,18-24,tablet,medium,151.54,web,silver,,3.9.7,USA,San Diego,english,good
+user_0563,12/24/2022 0:00,250,male,35-44,phone,high,904.79,android,bronze,11.0,3.9.9,USA,Phoenix,english,excellent
+user_0564,8/6/2022 0:00,390,female,18-24,phone,dormant,4971.76,android,bronze,10.0,3.9.6,USA,San Jose,english,good
+user_0565,9/15/2022 0:00,350,female,25-34,tablet,dormant,206.78,ios,silver,15.0,3.9.8,USA,Philadelphia,english,good
+user_0566,8/13/2022 0:00,383,male,35-44,phone,low,16224.03,android,gold,12.0,3.9.9,USA,San Antonio,english,good
+user_0567,3/11/2023 0:00,173,male,35-44,phone,low,6300.32,android,platinum,13.0,3.9.6,USA,San Antonio,english,good
+user_0568,9/2/2022 0:00,363,male,35-44,phone,low,151.4,ios,gold,15.0,3.9.5,USA,San Jose,english,fair
+user_0569,2/24/2023 0:00,188,female,25-34,tablet,dormant,2107.87,web,bronze,,3.9.9,USA,Philadelphia,english,excellent
+user_0570,8/27/2022 0:00,369,female,25-34,tablet,dormant,680.01,web,silver,,3.9.9,USA,New York,english,excellent
+user_0571,3/17/2023 0:00,167,female,25-34,phone,low,614.2,android,bronze,12.0,3.9.8,USA,San Antonio,english,good
+user_0572,8/4/2022 0:00,392,male,35-44,phone,low,5818.54,android,bronze,13.0,3.9.8,USA,Los Angeles,english,excellent
+user_0573,5/4/2023 0:00,119,female,18-24,phone,low,63.39,android,bronze,10.0,3.9.8,USA,Chicago,english,excellent
+user_0574,12/28/2022 0:00,246,male,25-34,phone,dormant,4735.7,ios,bronze,15.0,3.9.7,USA,San Diego,english,poor
+user_0575,12/25/2022 0:00,249,female,25-34,phone,high,118.34,android,gold,10.0,3.9.9,USA,San Diego,english,good
+user_0576,6/22/2023 0:00,70,male,25-34,phone,medium,669.89,ios,silver,14.0,3.9.9,USA,Phoenix,english,good
+user_0577,5/31/2023 0:00,92,male,25-34,phone,high,190.76,android,silver,11.0,3.9.9,USA,San Antonio,english,good
+user_0578,8/13/2022 0:00,383,female,18-24,phone,dormant,3850.52,android,gold,10.0,3.9.9,USA,Phoenix,english,good
+user_0579,5/19/2023 0:00,104,male,18-24,tablet,low,712.43,web,bronze,,3.9.9,USA,San Diego,english,good
+user_0580,1/23/2023 0:00,220,male,18-24,tablet,medium,34.22,android,bronze,11.0,3.9.7,USA,Los Angeles,english,good
+user_0581,1/14/2023 0:00,229,female,25-34,tablet,dormant,512.59,ios,gold,14.0,3.9.9,USA,San Jose,english,fair
+user_0582,6/1/2023 0:00,91,male,35-44,phone,low,395.58,android,bronze,12.0,3.9.8,USA,Houston,english,excellent
+user_0583,8/21/2022 0:00,375,other,35-44,phone,low,687.07,ios,bronze,13.0,3.9.3,USA,Dallas,english,excellent
+user_0584,7/3/2022 0:00,424,female,35-44,phone,dormant,44.7,ios,silver,13.0,3.9.6,USA,Philadelphia,english,poor
+user_0585,10/6/2022 0:00,329,male,18-24,phone,low,3068.89,ios,gold,13.0,3.9.9,USA,Phoenix,english,excellent
+user_0586,2/13/2023 0:00,199,female,18-24,phone,low,151.93,ios,gold,12.0,3.9.9,USA,San Diego,english,good
+user_0587,2/11/2023 0:00,201,female,18-24,phone,low,619.08,ios,bronze,16.0,3.9.9,USA,San Jose,english,good
+user_0588,11/9/2022 0:00,295,male,25-34,phone,medium,3043.13,android,platinum,12.0,3.9.9,USA,New York,english,excellent
+user_0589,4/6/2023 0:00,147,male,25-34,phone,low,494.15,android,bronze,11.0,3.9.7,USA,Philadelphia,english,excellent
+user_0590,7/20/2022 0:00,407,female,25-34,tablet,low,3891.11,web,gold,,3.9.7,USA,Houston,english,excellent
+user_0591,6/8/2023 0:00,84,female,25-34,phone,low,886.95,android,bronze,12.0,3.9.9,USA,Houston,english,fair
+user_0592,11/1/2022 0:00,303,female,18-24,phone,medium,491.18,android,bronze,10.0,3.9.9,USA,Chicago,english,good
+user_0593,9/20/2022 0:00,345,male,18-24,tablet,low,164.56,android,silver,12.0,3.9.7,USA,New York,english,fair
+user_0594,2/23/2023 0:00,189,other,18-24,tablet,medium,94.93,web,bronze,,3.9.9,USA,Philadelphia,english,fair
+user_0595,9/11/2022 0:00,354,female,25-34,phone,high,87.11,ios,bronze,13.0,3.9.9,USA,San Antonio,english,excellent
+user_0596,6/7/2023 0:00,85,male,45+,phone,low,963.26,ios,silver,15.0,3.9.7,USA,Phoenix,english,good
+user_0597,1/14/2023 0:00,229,female,25-34,phone,low,6295.78,android,bronze,12.0,3.9.9,USA,New York,english,good
+user_0598,3/20/2023 0:00,164,male,35-44,phone,low,433.28,ios,bronze,16.0,3.9.9,USA,San Antonio,english,fair
+user_0599,12/24/2022 0:00,250,male,35-44,phone,medium,126.5,android,bronze,11.0,3.9.9,USA,San Jose,english,good
+user_0600,2/25/2023 0:00,187,female,18-24,tablet,low,320.45,web,gold,,3.9.9,USA,Houston,english,fair
+user_0601,9/26/2022 0:00,339,female,25-34,phone,low,2385.69,android,silver,12.0,3.9.8,USA,Los Angeles,english,good
+user_0602,7/29/2022 0:00,398,male,25-34,phone,medium,2505.1,android,bronze,10.0,3.9.7,USA,Los Angeles,english,poor
+user_0603,10/2/2022 0:00,333,male,18-24,phone,low,196.96,ios,silver,15.0,3.9.9,USA,New York,english,good
+user_0604,7/1/2022 0:00,426,male,25-34,phone,high,70.37,ios,bronze,13.0,3.9.8,USA,Houston,english,fair
+user_0605,7/7/2022 0:00,420,male,35-44,phone,low,181.2,android,bronze,12.0,3.9.9,USA,Houston,english,good
+user_0606,5/13/2023 0:00,110,female,18-24,phone,low,3021.71,ios,silver,12.0,3.9.7,USA,Dallas,english,excellent
+user_0607,5/30/2023 0:00,93,female,18-24,phone,medium,547.99,ios,silver,13.0,3.9.6,USA,Philadelphia,english,excellent
+user_0608,1/20/2023 0:00,223,female,35-44,phone,dormant,186.69,ios,bronze,14.0,3.9.6,USA,New York,english,poor
+user_0609,2/11/2023 0:00,201,female,18-24,phone,high,8504.17,android,silver,10.0,3.9.9,USA,Los Angeles,english,excellent
+user_0610,5/6/2023 0:00,117,male,45+,phone,dormant,47.97,ios,bronze,15.0,3.9.3,USA,San Diego,english,excellent
+user_0611,12/4/2022 0:00,270,female,25-34,phone,dormant,41.73,ios,bronze,13.0,3.9.6,USA,San Antonio,english,excellent
+user_0612,11/5/2022 0:00,299,female,25-34,phone,low,412.01,android,gold,13.0,3.9.6,USA,Chicago,english,excellent
+user_0613,7/14/2022 0:00,413,male,25-34,phone,medium,443.37,ios,bronze,13.0,3.9.9,USA,New York,english,excellent
+user_0614,5/15/2023 0:00,108,female,35-44,phone,low,768.93,ios,silver,15.0,3.9.7,USA,New York,english,good
+user_0615,7/19/2022 0:00,408,male,18-24,phone,dormant,73.79,ios,silver,12.0,3.9.7,USA,New York,english,good
+user_0616,9/19/2022 0:00,346,male,35-44,phone,low,154.65,web,silver,,3.9.5,USA,Chicago,english,fair
+user_0617,5/9/2023 0:00,114,male,25-34,phone,low,4215.59,ios,bronze,12.0,3.9.9,USA,Philadelphia,english,excellent
+user_0618,3/9/2023 0:00,175,male,25-34,phone,low,1522.86,android,silver,13.0,3.9.9,USA,San Antonio,english,good
+user_0619,9/5/2022 0:00,360,male,35-44,phone,medium,125.5,android,silver,11.0,3.9.9,USA,Chicago,english,good
+user_0620,3/21/2023 0:00,163,female,18-24,tablet,medium,182.45,web,gold,,3.9.8,USA,San Diego,english,good
+user_0621,1/12/2023 0:00,231,male,25-34,phone,low,42.05,android,bronze,11.0,3.9.7,USA,San Antonio,english,fair
+user_0622,9/10/2022 0:00,355,female,35-44,phone,dormant,11497.35,ios,silver,15.0,3.9.9,USA,New York,english,excellent
+user_0623,7/16/2022 0:00,411,male,18-24,phone,low,2706.66,ios,silver,13.0,3.9.6,USA,San Jose,english,excellent
+user_0624,2/7/2023 0:00,205,other,35-44,tablet,low,100.28,web,gold,,3.9.9,USA,San Diego,english,excellent
+user_0625,8/17/2022 0:00,379,male,25-34,phone,low,693.58,ios,silver,15.0,3.9.7,USA,New York,english,fair
+user_0626,10/28/2022 0:00,307,male,18-24,tablet,medium,248.78,web,silver,,3.9.9,USA,Houston,english,excellent
+user_0627,11/28/2022 0:00,276,male,35-44,phone,medium,55.9,android,silver,10.0,3.9.7,USA,San Jose,english,excellent
+user_0628,12/17/2022 0:00,257,female,35-44,phone,low,4127.66,android,bronze,12.0,3.9.7,USA,New York,english,good
+user_0629,10/25/2022 0:00,310,male,35-44,phone,low,81.93,ios,platinum,15.0,3.9.8,USA,Los Angeles,english,excellent
+user_0630,6/17/2023 0:00,75,female,25-34,phone,dormant,455.1,android,gold,12.0,3.9.9,USA,Houston,english,good
+user_0631,6/1/2023 0:00,91,male,45+,phone,high,165.56,android,bronze,10.0,3.9.9,USA,Phoenix,english,fair
+user_0632,9/4/2022 0:00,361,female,18-24,phone,medium,999.68,ios,silver,12.0,3.9.9,USA,Philadelphia,english,fair
+user_0633,2/14/2023 0:00,198,female,35-44,phone,medium,13005.34,android,bronze,13.0,3.9.9,USA,Los Angeles,english,good
+user_0634,12/14/2022 0:00,260,female,18-24,tablet,low,83.86,android,gold,13.0,3.9.8,USA,San Jose,english,good
+user_0635,8/31/2022 0:00,365,male,35-44,phone,medium,77.24,android,gold,11.0,3.9.9,USA,San Diego,english,excellent
+user_0636,7/5/2022 0:00,422,male,25-34,phone,dormant,146.1,ios,silver,16.0,3.9.9,USA,Chicago,english,fair
+user_0637,9/26/2022 0:00,339,male,35-44,phone,low,447.24,android,bronze,11.0,3.9.9,USA,Houston,english,good
+user_0638,6/2/2023 0:00,90,male,25-34,phone,medium,1930.49,ios,bronze,12.0,3.9.6,USA,San Diego,english,fair
+user_0639,6/30/2023 0:00,62,male,25-34,phone,medium,465.39,ios,bronze,13.0,3.9.8,USA,Houston,english,good
+user_0640,1/16/2023 0:00,227,female,25-34,phone,dormant,30.72,android,bronze,10.0,3.9.9,USA,San Antonio,english,good
+user_0641,5/5/2023 0:00,118,female,25-34,phone,low,877.18,android,bronze,10.0,3.9.6,USA,Houston,english,fair
+user_0642,7/5/2022 0:00,422,male,25-34,phone,low,19128.85,ios,bronze,16.0,3.9.9,USA,Chicago,english,excellent
+user_0643,1/27/2023 0:00,216,male,25-34,phone,low,458.08,android,silver,11.0,3.9.8,USA,Los Angeles,english,good
+user_0644,8/2/2022 0:00,394,female,25-34,phone,low,77.11,android,silver,11.0,3.9.7,USA,San Diego,english,good
+user_0645,4/2/2023 0:00,151,male,35-44,phone,low,502.71,ios,silver,13.0,3.9.6,USA,Chicago,english,excellent
+user_0646,7/6/2022 0:00,421,other,18-24,phone,low,958.96,android,silver,13.0,3.9.9,USA,San Jose,english,poor
+user_0647,3/29/2023 0:00,155,female,18-24,phone,medium,681.91,ios,bronze,16.0,3.9.9,USA,Philadelphia,english,excellent
+user_0648,4/19/2023 0:00,134,female,25-34,phone,high,464.93,ios,gold,13.0,3.9.7,USA,San Jose,english,fair
+user_0649,4/6/2023 0:00,147,female,45+,phone,medium,708.95,ios,gold,14.0,3.9.9,USA,Philadelphia,english,excellent
+user_0650,2/15/2023 0:00,197,male,35-44,phone,low,57.74,ios,bronze,14.0,3.9.7,USA,New York,english,poor
+user_0651,6/30/2023 0:00,62,female,25-34,phone,medium,28.67,android,bronze,11.0,3.9.6,USA,San Diego,english,good
+user_0652,12/1/2022 0:00,273,female,25-34,phone,low,12396.23,ios,bronze,14.0,3.9.7,USA,Houston,english,good
+user_0653,5/10/2023 0:00,113,female,25-34,phone,dormant,169.19,ios,gold,13.0,3.9.9,USA,New York,english,good
+user_0654,6/13/2023 0:00,79,other,35-44,phone,low,435.93,android,bronze,13.0,3.9.9,USA,Chicago,english,good
+user_0655,5/24/2023 0:00,99,female,35-44,phone,dormant,473.45,android,bronze,10.0,3.9.9,USA,New York,english,good
+user_0656,9/23/2022 0:00,342,female,18-24,phone,dormant,953.47,ios,gold,14.0,3.9.9,USA,Philadelphia,english,fair
+user_0657,10/26/2022 0:00,309,female,18-24,phone,medium,15567.57,android,bronze,11.0,3.9.9,USA,San Jose,english,good
+user_0658,11/20/2022 0:00,284,female,25-34,phone,low,48.28,ios,bronze,14.0,3.9.6,USA,Phoenix,english,fair
+user_0659,12/3/2022 0:00,271,male,35-44,phone,low,757.76,android,bronze,11.0,3.9.7,USA,Los Angeles,english,excellent
+user_0660,3/1/2023 0:00,183,male,18-24,phone,medium,37.26,android,bronze,13.0,3.9.9,USA,San Diego,english,good
+user_0661,10/22/2022 0:00,313,male,18-24,phone,dormant,322.87,android,silver,12.0,3.9.9,USA,Philadelphia,english,fair
+user_0662,5/17/2023 0:00,106,female,25-34,phone,high,9418.24,ios,bronze,13.0,3.9.9,USA,Phoenix,english,good
+user_0663,3/17/2023 0:00,167,male,18-24,phone,low,50.75,ios,gold,12.0,3.9.6,USA,San Diego,english,excellent
+user_0664,1/24/2023 0:00,219,male,18-24,tablet,medium,16773.15,web,bronze,,3.9.9,USA,Chicago,english,fair
+user_0665,5/15/2023 0:00,108,male,45+,tablet,low,135.54,web,bronze,,3.9.6,USA,Dallas,english,excellent
+user_0666,12/17/2022 0:00,257,male,35-44,phone,low,86.49,android,silver,10.0,3.9.7,USA,Philadelphia,english,excellent
+user_0667,11/17/2022 0:00,287,male,35-44,phone,low,572.05,android,bronze,11.0,3.9.9,USA,Houston,english,excellent
+user_0668,5/30/2023 0:00,93,male,25-34,phone,dormant,1604.52,android,bronze,13.0,3.9.9,USA,Houston,english,good
+user_0669,9/26/2022 0:00,339,male,35-44,phone,high,2655.95,android,bronze,13.0,3.9.8,USA,San Jose,english,good
+user_0670,12/14/2022 0:00,260,male,35-44,tablet,medium,854.72,web,bronze,,3.9.9,USA,Philadelphia,english,good
+user_0671,9/10/2022 0:00,355,male,25-34,phone,medium,178.7,android,bronze,10.0,3.9.9,USA,Philadelphia,english,good
+user_0672,12/10/2022 0:00,264,male,25-34,phone,medium,4611.11,android,bronze,12.0,3.9.7,USA,San Diego,english,good
+user_0673,10/9/2022 0:00,326,female,35-44,phone,low,840.36,android,bronze,11.0,3.9.7,USA,Chicago,english,good
+user_0674,4/3/2023 0:00,150,female,45+,phone,high,190.83,ios,bronze,13.0,3.9.9,USA,Philadelphia,english,excellent
+user_0675,6/9/2023 0:00,83,male,35-44,phone,medium,96.21,android,bronze,12.0,3.9.9,USA,Los Angeles,english,good
+user_0676,8/30/2022 0:00,366,female,35-44,phone,low,2031.55,android,bronze,11.0,3.9.8,USA,San Diego,english,excellent
+user_0677,9/19/2022 0:00,346,other,25-34,phone,medium,91.52,android,platinum,11.0,3.9.9,USA,San Diego,english,excellent
+user_0678,11/8/2022 0:00,296,other,18-24,phone,dormant,185.09,android,silver,10.0,3.9.5,USA,San Jose,english,excellent
+user_0679,10/6/2022 0:00,329,female,18-24,phone,medium,160.7,android,silver,11.0,3.9.9,USA,New York,english,good
+user_0680,4/16/2023 0:00,137,female,25-34,phone,high,121.99,android,bronze,11.0,3.9.9,USA,Dallas,english,good
+user_0681,5/10/2023 0:00,113,female,45+,phone,medium,4142.98,android,silver,11.0,3.9.9,USA,Phoenix,english,poor
+user_0682,12/16/2022 0:00,258,male,45+,phone,medium,3619.15,android,gold,13.0,3.9.9,USA,San Jose,english,good
+user_0683,2/9/2023 0:00,203,male,35-44,tablet,low,522.38,web,bronze,,3.9.9,USA,Los Angeles,english,good
+user_0684,1/12/2023 0:00,231,male,35-44,phone,low,144.29,android,silver,13.0,3.9.7,USA,Dallas,english,good
+user_0685,12/22/2022 0:00,252,male,35-44,phone,medium,216.19,android,bronze,11.0,3.9.9,USA,San Diego,english,good
+user_0686,10/22/2022 0:00,313,female,35-44,phone,medium,886.59,ios,bronze,13.0,3.9.8,USA,San Jose,english,excellent
+user_0687,11/16/2022 0:00,288,male,35-44,phone,medium,819.22,android,silver,10.0,3.9.9,USA,Chicago,english,good
+user_0688,8/25/2022 0:00,371,male,25-34,phone,low,136.2,android,platinum,11.0,3.9.7,USA,San Diego,english,poor
+user_0689,12/4/2022 0:00,270,male,18-24,phone,medium,792.76,android,silver,12.0,3.9.9,USA,Houston,english,good
+user_0690,4/10/2023 0:00,143,other,35-44,phone,low,31.81,android,silver,12.0,3.9.9,USA,New York,english,good
+user_0691,9/12/2022 0:00,353,male,25-34,phone,low,1115.79,android,bronze,11.0,3.9.9,USA,San Jose,english,excellent
+user_0692,2/23/2023 0:00,189,female,18-24,phone,high,226.46,android,platinum,11.0,3.9.9,USA,Phoenix,english,excellent
+user_0693,2/10/2023 0:00,202,female,35-44,phone,low,86.3,android,bronze,12.0,3.9.9,USA,San Diego,english,excellent
+user_0694,8/9/2022 0:00,387,male,18-24,tablet,low,938.46,ios,bronze,13.0,3.9.9,USA,San Jose,english,excellent
+user_0695,8/30/2022 0:00,366,female,25-34,tablet,high,100.3,ios,bronze,16.0,3.9.8,USA,San Antonio,english,good
+user_0696,1/5/2023 0:00,238,male,18-24,phone,low,330.81,ios,gold,12.0,3.9.9,USA,New York,english,fair
+user_0697,12/15/2022 0:00,259,male,35-44,phone,high,28.94,android,silver,12.0,3.9.8,USA,Philadelphia,english,good
+user_0698,7/19/2022 0:00,408,female,18-24,phone,dormant,365.38,android,silver,11.0,3.9.8,USA,Chicago,english,fair
+user_0699,7/16/2022 0:00,411,female,25-34,tablet,low,1035.59,web,gold,,3.9.7,USA,San Jose,english,good
+user_0700,6/26/2023 0:00,66,male,18-24,phone,dormant,1895.08,android,bronze,11.0,3.9.6,USA,Philadelphia,english,poor
+user_0701,12/20/2022 0:00,254,female,35-44,phone,dormant,881.27,android,silver,10.0,3.9.8,USA,Philadelphia,english,good
+user_0702,11/4/2022 0:00,300,female,35-44,phone,medium,441.72,android,bronze,11.0,3.9.8,USA,New York,english,good
+user_0703,6/27/2023 0:00,65,male,18-24,phone,low,609.21,android,platinum,10.0,3.9.9,USA,San Antonio,english,excellent
+user_0704,8/23/2022 0:00,373,female,25-34,phone,medium,426.14,ios,gold,15.0,3.9.9,USA,Dallas,english,good
+user_0705,2/9/2023 0:00,203,female,25-34,phone,low,712.48,android,gold,10.0,3.9.8,USA,Phoenix,english,good
+user_0706,3/26/2023 0:00,158,male,25-34,phone,low,46.99,android,silver,12.0,3.9.6,USA,New York,english,good
+user_0707,12/6/2022 0:00,268,female,25-34,phone,high,728.42,android,bronze,11.0,3.9.9,USA,San Diego,english,excellent
+user_0708,1/30/2023 0:00,213,female,25-34,tablet,medium,407.54,web,silver,,3.9.9,USA,Philadelphia,english,excellent
+user_0709,6/12/2023 0:00,80,female,25-34,phone,medium,666.42,ios,silver,14.0,3.9.7,USA,New York,english,excellent
+user_0710,8/8/2022 0:00,388,male,18-24,tablet,medium,827.92,web,bronze,,3.9.9,USA,San Diego,english,good
+user_0711,4/4/2023 0:00,149,female,35-44,phone,low,872.51,android,bronze,10.0,3.9.9,USA,Dallas,english,good
+user_0712,11/1/2022 0:00,303,male,35-44,phone,medium,1511.78,ios,silver,16.0,3.9.9,USA,New York,english,good
+user_0713,7/30/2022 0:00,397,female,45+,tablet,medium,271.44,web,silver,,3.9.9,USA,Phoenix,english,good
+user_0714,11/27/2022 0:00,277,female,25-34,phone,medium,830.47,ios,bronze,14.0,3.9.9,USA,Houston,english,good
+user_0715,1/31/2023 0:00,212,male,25-34,phone,low,571.01,android,bronze,10.0,3.9.9,USA,San Diego,english,good
+user_0716,8/10/2022 0:00,386,male,45+,phone,high,666.86,android,gold,12.0,3.9.9,USA,Phoenix,english,excellent
+user_0717,10/17/2022 0:00,318,male,18-24,phone,medium,41.57,ios,silver,16.0,3.9.7,USA,Dallas,english,good
+user_0718,6/3/2023 0:00,89,female,35-44,phone,medium,4483.4,ios,gold,13.0,3.9.7,USA,Dallas,english,excellent
+user_0719,12/3/2022 0:00,271,female,18-24,phone,dormant,989.75,android,silver,13.0,3.9.9,USA,Dallas,english,good
+user_0720,3/30/2023 0:00,154,male,25-34,phone,low,4115.76,ios,bronze,14.0,3.9.8,USA,San Jose,english,good
+user_0721,8/10/2022 0:00,386,male,35-44,phone,low,246.41,android,bronze,11.0,3.9.9,USA,Los Angeles,english,excellent
+user_0722,4/5/2023 0:00,148,male,35-44,phone,dormant,661.02,ios,gold,15.0,3.9.4,USA,San Diego,english,good
+user_0723,8/20/2022 0:00,376,female,25-34,phone,medium,2734.85,android,bronze,12.0,3.9.9,USA,Los Angeles,english,good
+user_0724,10/29/2022 0:00,306,female,18-24,phone,low,89.0,ios,bronze,16.0,3.9.6,USA,San Diego,english,good
+user_0725,6/23/2023 0:00,69,male,25-34,phone,high,180.56,ios,silver,12.0,3.9.9,USA,Chicago,english,good
+user_0726,3/7/2023 0:00,177,female,35-44,phone,low,15402.87,android,silver,12.0,3.9.8,USA,San Antonio,english,excellent
+user_0727,5/9/2023 0:00,114,male,25-34,phone,low,89.04,ios,gold,13.0,3.9.7,USA,San Antonio,english,excellent
+user_0728,1/29/2023 0:00,214,female,25-34,tablet,low,4793.85,web,silver,,3.9.6,USA,Dallas,english,excellent
+user_0729,10/5/2022 0:00,330,female,18-24,phone,high,10067.53,ios,silver,14.0,3.9.9,USA,San Diego,english,good
+user_0730,3/26/2023 0:00,158,male,35-44,phone,dormant,331.91,android,silver,13.0,3.9.9,USA,San Jose,english,excellent
+user_0731,3/8/2023 0:00,176,male,18-24,phone,medium,3908.68,android,silver,12.0,3.9.8,USA,Los Angeles,english,good
+user_0732,9/2/2022 0:00,363,female,35-44,phone,dormant,603.71,android,bronze,13.0,3.9.8,USA,New York,english,good
+user_0733,12/20/2022 0:00,254,male,25-34,phone,medium,901.24,ios,gold,16.0,3.9.9,USA,San Diego,english,excellent
+user_0734,8/30/2022 0:00,366,male,35-44,phone,low,995.74,ios,bronze,12.0,3.9.8,USA,San Antonio,english,fair
+user_0735,11/29/2022 0:00,275,male,18-24,phone,low,555.45,ios,silver,16.0,3.9.7,USA,Los Angeles,english,good
+user_0736,7/6/2022 0:00,421,female,25-34,phone,low,7296.91,android,silver,13.0,3.9.9,USA,New York,english,excellent
+user_0737,7/27/2022 0:00,400,male,35-44,phone,medium,38.18,ios,bronze,16.0,3.9.6,USA,New York,english,good
+user_0738,11/28/2022 0:00,276,male,25-34,tablet,low,169.52,web,bronze,,3.9.6,USA,Houston,english,fair
+user_0739,5/1/2023 0:00,122,female,35-44,tablet,medium,426.17,web,bronze,,3.9.8,USA,Los Angeles,english,excellent
+user_0740,8/23/2022 0:00,373,female,25-34,phone,low,359.8,android,gold,13.0,3.9.6,USA,San Jose,english,good
+user_0741,12/29/2022 0:00,245,male,18-24,phone,dormant,3813.75,ios,bronze,13.0,3.9.7,USA,San Diego,english,fair
+user_0742,10/19/2022 0:00,316,female,25-34,phone,low,928.29,android,silver,11.0,3.9.8,USA,Dallas,english,fair
+user_0743,6/29/2023 0:00,63,female,25-34,phone,dormant,22.29,android,silver,12.0,3.9.7,USA,San Antonio,english,good
+user_0744,7/23/2022 0:00,404,male,35-44,phone,low,12411.56,android,bronze,13.0,3.9.9,USA,Chicago,english,good
+user_0745,5/10/2023 0:00,113,male,18-24,phone,dormant,923.82,android,bronze,10.0,3.9.9,USA,San Diego,english,good
+user_0746,2/15/2023 0:00,197,male,35-44,phone,low,103.57,android,bronze,13.0,3.9.9,USA,New York,english,excellent
+user_0747,2/2/2023 0:00,210,female,25-34,phone,dormant,84.84,android,gold,11.0,3.9.9,USA,Phoenix,english,good
+user_0748,5/13/2023 0:00,110,female,25-34,phone,low,4404.98,ios,platinum,12.0,3.9.7,USA,New York,english,excellent
+user_0749,1/13/2023 0:00,230,male,25-34,phone,dormant,486.02,android,bronze,12.0,3.9.9,USA,San Jose,english,fair
+user_0750,5/14/2023 0:00,109,female,25-34,phone,low,2490.49,ios,gold,13.0,3.9.7,USA,Houston,english,good
+user_0751,12/8/2022 0:00,266,male,25-34,phone,low,19434.65,android,gold,10.0,3.9.7,USA,Philadelphia,english,good
+user_0752,11/27/2022 0:00,277,female,35-44,phone,high,719.08,ios,gold,12.0,3.9.9,USA,San Jose,english,excellent
+user_0753,4/10/2023 0:00,143,female,35-44,phone,medium,1414.85,android,silver,10.0,3.9.9,USA,Phoenix,english,good
+user_0754,3/30/2023 0:00,154,male,18-24,phone,low,130.04,ios,gold,16.0,3.9.5,USA,San Diego,english,good
+user_0755,10/26/2022 0:00,309,male,18-24,phone,low,936.32,android,silver,12.0,3.9.6,USA,San Jose,english,good
+user_0756,6/7/2023 0:00,85,female,45+,phone,low,31.4,android,bronze,10.0,3.9.7,USA,New York,english,good
+user_0757,9/8/2022 0:00,357,male,35-44,phone,medium,15856.6,android,silver,11.0,3.9.8,USA,Houston,english,excellent
+user_0758,10/6/2022 0:00,329,male,35-44,phone,dormant,3752.97,ios,bronze,15.0,3.9.9,USA,Philadelphia,english,good
+user_0759,1/4/2023 0:00,239,male,25-34,phone,low,730.97,ios,silver,13.0,3.9.9,USA,San Diego,english,fair
+user_0760,6/3/2023 0:00,89,other,35-44,phone,dormant,22.1,ios,silver,16.0,3.9.8,USA,New York,english,good
+user_0761,4/7/2023 0:00,146,male,25-34,phone,medium,259.89,ios,silver,14.0,3.9.9,USA,Philadelphia,english,excellent
+user_0762,2/8/2023 0:00,204,female,25-34,phone,low,1201.4,android,bronze,10.0,3.9.9,USA,Philadelphia,english,good
+user_0763,12/6/2022 0:00,268,female,25-34,phone,low,4268.41,ios,bronze,15.0,3.9.9,USA,Houston,english,good
+user_0764,11/13/2022 0:00,291,female,25-34,phone,high,35.84,android,bronze,10.0,3.9.7,USA,San Diego,english,poor
+user_0765,5/1/2023 0:00,122,male,18-24,phone,low,4922.68,android,gold,12.0,3.9.9,USA,San Antonio,english,excellent
+user_0766,12/1/2022 0:00,273,other,25-34,phone,low,228.67,android,bronze,11.0,3.9.6,USA,San Jose,english,good
+user_0767,8/18/2022 0:00,378,female,25-34,phone,medium,710.03,ios,silver,15.0,3.9.9,USA,New York,english,good
+user_0768,6/3/2023 0:00,89,female,35-44,phone,high,853.27,android,bronze,10.0,3.9.9,USA,Los Angeles,english,excellent
+user_0769,8/17/2022 0:00,379,male,35-44,phone,low,127.99,android,silver,11.0,3.9.9,USA,Phoenix,english,excellent
+user_0770,5/12/2023 0:00,111,female,18-24,phone,medium,807.46,ios,silver,12.0,3.9.8,USA,Philadelphia,english,good
+user_0771,8/10/2022 0:00,386,male,45+,phone,low,193.6,ios,bronze,16.0,3.9.9,USA,San Jose,english,excellent
+user_0772,7/6/2022 0:00,421,female,25-34,phone,dormant,285.06,ios,silver,15.0,3.9.9,USA,Phoenix,english,excellent
+user_0773,5/7/2023 0:00,116,male,35-44,phone,medium,2017.16,android,gold,12.0,3.9.6,USA,Los Angeles,english,good
+user_0774,12/11/2022 0:00,263,female,25-34,phone,dormant,1862.36,ios,bronze,14.0,3.9.8,USA,Philadelphia,english,excellent
+user_0775,6/7/2023 0:00,85,male,18-24,phone,medium,186.79,android,silver,12.0,3.9.9,USA,San Antonio,english,excellent
+user_0776,7/28/2022 0:00,399,male,25-34,phone,low,13839.74,android,silver,12.0,3.9.7,USA,Houston,english,good
+user_0777,10/2/2022 0:00,333,male,25-34,phone,low,788.97,ios,silver,16.0,3.9.9,USA,Houston,english,good
+user_0778,4/1/2023 0:00,152,female,35-44,tablet,medium,3767.27,web,gold,,3.9.9,USA,New York,english,fair
+user_0779,12/14/2022 0:00,260,male,25-34,phone,medium,726.02,android,bronze,12.0,3.9.7,USA,Los Angeles,english,good
+user_0780,11/28/2022 0:00,276,female,25-34,phone,low,19692.51,android,bronze,12.0,3.9.9,USA,Dallas,english,excellent
+user_0781,1/6/2023 0:00,237,male,35-44,phone,medium,976.39,ios,bronze,13.0,3.9.9,USA,Philadelphia,english,good
+user_0782,8/26/2022 0:00,370,female,35-44,phone,low,3800.06,android,bronze,11.0,3.9.9,USA,San Jose,english,excellent
+user_0783,7/1/2022 0:00,426,female,25-34,phone,low,152.63,ios,silver,13.0,3.9.9,USA,New York,english,excellent
+user_0784,2/2/2023 0:00,210,female,18-24,phone,low,749.29,android,bronze,13.0,3.9.9,USA,Houston,english,poor
+user_0785,9/26/2022 0:00,339,female,45+,phone,low,3777.25,android,bronze,11.0,3.9.9,USA,San Antonio,english,good
+user_0786,9/16/2022 0:00,349,male,25-34,phone,medium,106.47,ios,silver,16.0,3.9.6,USA,San Diego,english,good
+user_0787,6/24/2023 0:00,68,male,45+,phone,dormant,114.09,ios,platinum,15.0,3.9.8,USA,Dallas,english,poor
+user_0788,7/22/2022 0:00,405,female,18-24,phone,low,30.19,android,platinum,11.0,3.9.9,USA,San Antonio,english,good
+user_0789,7/16/2022 0:00,411,female,35-44,phone,low,400.45,android,silver,11.0,3.9.9,USA,Los Angeles,english,excellent
+user_0790,9/26/2022 0:00,339,female,18-24,phone,dormant,25.82,ios,silver,12.0,3.9.6,USA,Houston,english,fair
+user_0791,3/8/2023 0:00,176,female,25-34,phone,high,3969.65,android,silver,10.0,3.9.9,USA,Houston,english,good
+user_0792,7/9/2022 0:00,418,male,25-34,phone,low,71.77,web,bronze,,3.9.7,USA,Chicago,english,good
+user_0793,11/29/2022 0:00,275,male,25-34,phone,low,965.36,android,bronze,11.0,3.9.9,USA,New York,english,good
+user_0794,6/24/2023 0:00,68,female,18-24,phone,medium,794.94,android,bronze,11.0,3.9.8,USA,Los Angeles,english,good
+user_0795,3/7/2023 0:00,177,female,25-34,phone,low,929.19,android,gold,11.0,3.9.9,USA,Philadelphia,english,fair
+user_0796,8/26/2022 0:00,370,male,25-34,phone,medium,357.18,ios,platinum,14.0,3.9.6,USA,Los Angeles,english,good
+user_0797,7/16/2022 0:00,411,male,18-24,phone,dormant,33.4,android,platinum,12.0,3.9.5,USA,Phoenix,english,good
+user_0798,12/19/2022 0:00,255,male,25-34,phone,high,27.31,android,bronze,11.0,3.9.9,USA,San Antonio,english,good
+user_0799,4/25/2023 0:00,128,male,25-34,phone,dormant,328.74,android,bronze,11.0,3.9.6,USA,Chicago,english,good
+user_0800,11/4/2022 0:00,300,other,18-24,tablet,medium,3838.76,web,bronze,,3.9.7,USA,New York,english,good
+user_0801,1/16/2023 0:00,227,female,45+,phone,medium,127.44,android,gold,13.0,3.9.9,USA,San Jose,english,good
+user_0802,9/22/2022 0:00,343,male,25-34,phone,low,10371.28,ios,silver,16.0,3.9.9,USA,San Jose,english,good
+user_0803,10/7/2022 0:00,328,female,35-44,phone,dormant,32.27,ios,silver,15.0,3.9.9,USA,Dallas,english,excellent
+user_0804,12/6/2022 0:00,268,female,25-34,phone,medium,36.55,ios,bronze,13.0,3.9.9,USA,Philadelphia,english,poor
+user_0805,12/28/2022 0:00,246,male,35-44,phone,low,434.86,ios,bronze,16.0,3.9.9,USA,San Diego,english,excellent
+user_0806,7/23/2022 0:00,404,male,35-44,phone,high,82.28,android,gold,10.0,3.9.9,USA,San Jose,english,fair
+user_0807,2/26/2023 0:00,186,female,18-24,phone,low,4835.59,ios,gold,15.0,3.9.9,USA,San Jose,english,excellent
+user_0808,2/19/2023 0:00,193,male,25-34,phone,low,13103.56,android,bronze,12.0,3.9.9,USA,Dallas,english,good
+user_0809,12/21/2022 0:00,253,male,35-44,phone,medium,3057.24,android,bronze,10.0,3.9.9,USA,San Diego,english,excellent
+user_0810,1/30/2023 0:00,213,female,18-24,phone,dormant,181.69,android,silver,10.0,3.9.8,USA,Dallas,english,good
+user_0811,5/19/2023 0:00,104,male,35-44,phone,low,190.68,ios,bronze,16.0,3.9.9,USA,New York,english,good
+user_0812,8/14/2022 0:00,382,male,25-34,phone,medium,252.38,ios,bronze,15.0,3.9.8,USA,Dallas,english,good
+user_0813,9/28/2022 0:00,337,male,35-44,phone,high,4314.99,ios,gold,12.0,3.9.9,USA,Dallas,english,good
+user_0814,11/7/2022 0:00,297,male,35-44,phone,medium,149.04,ios,gold,12.0,3.9.8,USA,Philadelphia,english,good
+user_0815,3/31/2023 0:00,153,female,25-34,phone,low,162.96,android,silver,12.0,3.9.9,USA,Phoenix,english,good
+user_0816,2/18/2023 0:00,194,female,18-24,phone,medium,93.37,android,bronze,11.0,3.9.8,USA,Philadelphia,english,good
+user_0817,1/20/2023 0:00,223,female,45+,phone,low,5253.36,ios,bronze,16.0,3.9.6,USA,Houston,english,fair
+user_0818,5/29/2023 0:00,94,female,25-34,phone,low,156.07,ios,bronze,12.0,3.9.9,USA,San Antonio,english,fair
+user_0819,5/7/2023 0:00,116,female,35-44,phone,medium,431.87,ios,silver,16.0,3.9.8,USA,New York,english,good
+user_0820,11/18/2022 0:00,286,female,35-44,phone,dormant,88.65,ios,silver,15.0,3.9.7,USA,Houston,english,fair
+user_0821,3/10/2023 0:00,174,female,25-34,phone,medium,309.11,android,silver,11.0,3.9.6,USA,Dallas,english,good
+user_0822,8/10/2022 0:00,386,male,35-44,phone,dormant,315.26,ios,silver,12.0,3.9.9,USA,Dallas,english,good
+user_0823,4/19/2023 0:00,134,male,45+,phone,dormant,298.59,android,bronze,10.0,3.9.9,USA,Philadelphia,english,good
+user_0824,12/11/2022 0:00,263,male,25-34,phone,dormant,629.72,ios,bronze,14.0,3.9.6,USA,New York,english,poor
+user_0825,3/14/2023 0:00,170,male,45+,tablet,low,530.12,web,bronze,,3.9.6,USA,Dallas,english,good
+user_0826,3/9/2023 0:00,175,female,45+,tablet,medium,14253.27,web,bronze,,3.9.9,USA,San Diego,english,fair
+user_0827,3/30/2023 0:00,154,male,18-24,phone,low,3683.91,android,bronze,12.0,3.9.6,USA,Chicago,english,fair
+user_0828,8/4/2022 0:00,392,female,18-24,phone,high,13244.97,ios,bronze,12.0,3.9.9,USA,Phoenix,english,excellent
+user_0829,3/21/2023 0:00,163,male,45+,phone,low,780.47,android,gold,13.0,3.9.9,USA,Houston,english,poor
+user_0830,4/26/2023 0:00,127,male,25-34,tablet,low,3685.18,ios,silver,12.0,3.9.7,USA,Chicago,english,good
+user_0831,5/26/2023 0:00,97,female,35-44,phone,low,4600.47,ios,bronze,15.0,3.9.9,USA,Los Angeles,english,excellent
+user_0832,8/19/2022 0:00,377,female,45+,phone,low,3637.69,android,bronze,13.0,3.9.8,USA,San Jose,english,poor
+user_0833,12/26/2022 0:00,248,female,25-34,phone,low,846.16,ios,silver,13.0,3.9.9,USA,San Antonio,english,good
+user_0834,2/24/2023 0:00,188,female,25-34,phone,low,4142.64,android,bronze,10.0,3.9.8,USA,New York,english,good
+user_0835,4/23/2023 0:00,130,female,25-34,phone,low,15193.7,ios,gold,15.0,3.9.9,USA,Phoenix,english,fair
+user_0836,12/29/2022 0:00,245,male,18-24,phone,low,159.46,ios,gold,16.0,3.9.9,USA,New York,english,good
+user_0837,8/4/2022 0:00,392,female,18-24,phone,high,3426.51,ios,silver,13.0,3.9.7,USA,San Jose,english,excellent
+user_0838,2/16/2023 0:00,196,male,45+,phone,high,152.04,android,bronze,11.0,3.9.9,USA,Philadelphia,english,good
+user_0839,10/14/2022 0:00,321,female,18-24,phone,dormant,705.3,ios,silver,16.0,3.9.9,USA,Phoenix,english,good
+user_0840,9/21/2022 0:00,344,male,25-34,phone,low,408.49,android,bronze,12.0,3.9.8,USA,Houston,english,good
+user_0841,12/12/2022 0:00,262,female,18-24,phone,low,1893.23,android,silver,11.0,3.9.9,USA,Los Angeles,english,good
+user_0842,10/17/2022 0:00,318,female,35-44,tablet,low,111.87,android,bronze,11.0,3.9.7,USA,Philadelphia,english,excellent
+user_0843,6/25/2023 0:00,67,female,25-34,phone,medium,730.14,ios,bronze,16.0,3.9.7,USA,San Diego,english,good
+user_0844,4/10/2023 0:00,143,male,25-34,phone,dormant,7687.18,android,bronze,10.0,3.9.7,USA,Philadelphia,english,good
+user_0845,6/10/2023 0:00,82,male,45+,phone,medium,375.06,ios,silver,13.0,3.9.9,USA,Philadelphia,english,good
+user_0846,12/23/2022 0:00,251,female,25-34,phone,low,62.12,ios,bronze,16.0,3.9.8,USA,Philadelphia,english,good
+user_0847,11/2/2022 0:00,302,male,35-44,phone,low,185.22,android,bronze,11.0,3.9.9,USA,New York,english,good
+user_0848,5/9/2023 0:00,114,female,35-44,phone,dormant,146.67,android,silver,12.0,3.9.6,USA,San Antonio,english,fair
+user_0849,9/25/2022 0:00,340,other,18-24,phone,dormant,3280.64,android,silver,12.0,3.9.5,USA,Los Angeles,english,good
+user_0850,9/3/2022 0:00,362,male,45+,phone,medium,722.67,ios,silver,16.0,3.9.9,USA,New York,english,fair
+user_0851,3/8/2023 0:00,176,female,18-24,phone,low,3065.49,ios,bronze,14.0,3.9.6,USA,Houston,english,good
+user_0852,8/25/2022 0:00,371,female,35-44,phone,low,205.28,android,bronze,12.0,3.9.4,USA,New York,english,fair
+user_0853,3/5/2023 0:00,179,male,25-34,phone,low,261.67,ios,bronze,13.0,3.9.9,USA,Los Angeles,english,good
+user_0854,4/11/2023 0:00,142,female,45+,phone,medium,2448.89,ios,bronze,13.0,3.9.9,USA,San Jose,english,poor
+user_0855,5/3/2023 0:00,120,female,35-44,phone,medium,585.21,ios,bronze,15.0,3.9.9,USA,Philadelphia,english,fair
+user_0856,4/9/2023 0:00,144,female,45+,phone,medium,717.81,android,silver,11.0,3.9.8,USA,San Jose,english,good
+user_0857,6/8/2023 0:00,84,female,18-24,tablet,medium,302.31,web,silver,,3.9.9,USA,San Jose,english,good
+user_0858,6/10/2023 0:00,82,female,45+,phone,dormant,912.64,ios,bronze,12.0,3.9.7,USA,Houston,english,fair
+user_0859,3/30/2023 0:00,154,female,35-44,phone,medium,3066.56,android,gold,11.0,3.9.9,USA,San Jose,english,excellent
+user_0860,8/8/2022 0:00,388,female,45+,tablet,low,23.35,ios,bronze,12.0,3.9.7,USA,San Jose,english,excellent
+user_0861,8/24/2022 0:00,372,female,18-24,phone,low,19891.64,android,bronze,10.0,3.9.6,USA,Phoenix,english,good
+user_0862,12/2/2022 0:00,272,female,35-44,phone,high,14012.58,android,silver,12.0,3.9.9,USA,New York,english,excellent
+user_0863,2/15/2023 0:00,197,male,25-34,phone,dormant,334.18,ios,silver,15.0,3.9.8,USA,Chicago,english,excellent
+user_0864,5/26/2023 0:00,97,male,35-44,phone,medium,1919.26,ios,bronze,13.0,3.9.7,USA,Dallas,english,good
+user_0865,3/19/2023 0:00,165,male,45+,phone,low,618.17,ios,bronze,13.0,3.9.9,USA,Los Angeles,english,good
+user_0866,4/1/2023 0:00,152,female,25-34,phone,dormant,580.7,android,silver,12.0,3.9.9,USA,Los Angeles,english,good
+user_0867,5/1/2023 0:00,122,female,35-44,tablet,medium,1372.76,web,silver,,3.9.9,USA,Los Angeles,english,good
+user_0868,6/30/2023 0:00,62,male,35-44,phone,low,917.58,ios,silver,16.0,3.9.7,USA,San Diego,english,excellent
+user_0869,6/8/2023 0:00,84,male,25-34,phone,medium,758.11,ios,bronze,13.0,3.9.8,USA,Houston,english,good
+user_0870,1/2/2023 0:00,241,female,25-34,phone,medium,126.03,ios,platinum,15.0,3.9.8,USA,San Diego,english,good
+user_0871,10/29/2022 0:00,306,male,25-34,phone,medium,4063.44,android,bronze,11.0,3.9.8,USA,New York,english,excellent
+user_0872,9/25/2022 0:00,340,male,25-34,phone,low,11129.7,ios,silver,12.0,3.9.9,USA,San Jose,english,good
+user_0873,10/6/2022 0:00,329,male,25-34,phone,low,294.26,android,bronze,11.0,3.9.9,USA,Phoenix,english,good
+user_0874,7/13/2022 0:00,414,male,18-24,tablet,medium,843.43,web,gold,,3.9.9,USA,Dallas,english,excellent
+user_0875,4/12/2023 0:00,141,male,25-34,tablet,medium,11391.07,ios,silver,14.0,3.9.9,USA,Philadelphia,english,poor
+user_0876,9/14/2022 0:00,351,male,18-24,phone,medium,2462.58,android,bronze,10.0,3.9.9,USA,San Antonio,english,good
+user_0877,12/1/2022 0:00,273,female,45+,phone,high,641.68,android,bronze,11.0,3.9.9,USA,Los Angeles,english,good
+user_0878,9/17/2022 0:00,348,female,45+,phone,medium,643.93,ios,bronze,14.0,3.9.8,USA,San Diego,english,good
+user_0879,7/4/2022 0:00,423,male,25-34,tablet,dormant,10971.95,web,gold,,3.9.7,USA,Houston,english,poor
+user_0880,11/14/2022 0:00,290,female,25-34,tablet,low,826.49,ios,bronze,12.0,3.9.6,USA,San Jose,english,good
+user_0881,12/7/2022 0:00,267,male,18-24,phone,medium,828.86,ios,silver,13.0,3.9.7,USA,Dallas,english,excellent
+user_0882,5/15/2023 0:00,108,male,45+,phone,low,858.6,android,silver,11.0,3.9.9,USA,Philadelphia,english,fair
+user_0883,5/16/2023 0:00,107,female,18-24,phone,dormant,251.26,ios,bronze,14.0,3.9.6,USA,San Diego,english,fair
+user_0884,6/11/2023 0:00,81,female,25-34,tablet,medium,15867.42,web,bronze,,3.9.9,USA,New York,english,good
+user_0885,2/4/2023 0:00,208,male,45+,phone,medium,769.28,android,gold,10.0,3.9.8,USA,San Antonio,english,good
+user_0886,11/18/2022 0:00,286,male,18-24,phone,low,1042.84,android,gold,11.0,3.9.8,USA,Philadelphia,english,good
+user_0887,8/28/2022 0:00,368,female,18-24,phone,dormant,12658.22,android,silver,10.0,3.9.9,USA,San Jose,english,poor
+user_0888,7/20/2022 0:00,407,male,35-44,phone,low,5540.92,ios,bronze,12.0,3.9.9,USA,San Diego,english,fair
+user_0889,2/9/2023 0:00,203,male,18-24,tablet,low,4118.69,android,bronze,11.0,3.9.8,USA,Chicago,english,excellent
+user_0890,9/3/2022 0:00,362,other,25-34,phone,medium,56.06,ios,silver,12.0,3.9.9,USA,Chicago,english,good
+user_0891,2/5/2023 0:00,207,male,25-34,phone,low,3904.55,android,silver,10.0,3.9.9,USA,Chicago,english,fair
+user_0892,3/7/2023 0:00,177,male,25-34,tablet,medium,685.09,web,silver,,3.9.9,USA,Chicago,english,excellent
+user_0893,9/9/2022 0:00,356,male,18-24,phone,low,203.72,ios,silver,15.0,3.9.9,USA,Dallas,english,good
+user_0894,9/17/2022 0:00,348,female,45+,phone,low,1289.54,ios,bronze,14.0,3.9.9,USA,Philadelphia,english,poor
+user_0895,2/19/2023 0:00,193,female,18-24,phone,high,900.89,ios,bronze,15.0,3.9.9,USA,San Antonio,english,good
+user_0896,10/26/2022 0:00,309,male,25-34,tablet,low,158.59,web,silver,,3.9.8,USA,Philadelphia,english,good
+user_0897,9/3/2022 0:00,362,male,25-34,phone,dormant,17930.35,android,bronze,11.0,3.9.9,USA,New York,english,good
+user_0898,5/27/2023 0:00,96,female,45+,phone,medium,2530.69,android,bronze,10.0,3.9.9,USA,Dallas,english,good
+user_0899,12/1/2022 0:00,273,other,25-34,phone,dormant,964.36,android,bronze,13.0,3.9.9,USA,New York,english,good
+user_0900,2/3/2023 0:00,209,male,18-24,phone,high,274.41,android,silver,11.0,3.9.9,USA,New York,english,good
+user_0901,3/31/2023 0:00,153,male,25-34,phone,dormant,12148.33,ios,silver,13.0,3.9.5,USA,New York,english,good
+user_0902,3/29/2023 0:00,155,female,35-44,phone,low,190.48,android,silver,11.0,3.9.9,USA,Houston,english,excellent
+user_0903,3/2/2023 0:00,182,female,35-44,phone,medium,788.34,android,gold,10.0,3.9.9,USA,Dallas,english,excellent
+user_0904,3/19/2023 0:00,165,male,18-24,phone,low,867.95,ios,bronze,13.0,3.9.9,USA,Los Angeles,english,good
+user_0905,5/21/2023 0:00,102,female,35-44,phone,medium,3703.25,ios,silver,16.0,3.9.8,USA,Chicago,english,good
+user_0906,6/9/2023 0:00,83,male,45+,phone,medium,878.41,ios,silver,16.0,3.9.9,USA,Houston,english,excellent
+user_0907,9/9/2022 0:00,356,female,25-34,phone,dormant,4475.08,ios,bronze,13.0,3.9.6,USA,Philadelphia,english,poor
+user_0908,12/9/2022 0:00,265,female,25-34,tablet,low,59.98,web,bronze,,3.9.9,USA,San Jose,english,good
+user_0909,11/26/2022 0:00,278,male,25-34,phone,dormant,582.66,ios,silver,16.0,3.9.6,USA,San Jose,english,fair
+user_0910,7/14/2022 0:00,413,female,25-34,phone,low,4103.62,android,silver,11.0,3.9.8,USA,New York,english,excellent
+user_0911,11/7/2022 0:00,297,female,45+,phone,medium,9734.77,ios,platinum,12.0,3.9.8,USA,San Jose,english,good
+user_0912,9/6/2022 0:00,359,female,35-44,phone,low,38.13,ios,gold,16.0,3.9.6,USA,San Antonio,english,good
+user_0913,9/23/2022 0:00,342,male,18-24,phone,high,67.31,android,bronze,11.0,3.9.8,USA,Philadelphia,english,good
+user_0914,1/6/2023 0:00,237,female,45+,phone,high,85.87,ios,gold,15.0,3.9.9,USA,Dallas,english,good
+user_0915,7/7/2022 0:00,420,male,35-44,tablet,low,16282.94,web,gold,,3.9.6,USA,Philadelphia,english,good
+user_0916,11/12/2022 0:00,292,male,35-44,phone,medium,52.38,ios,bronze,16.0,3.9.9,USA,San Diego,english,excellent
+user_0917,2/12/2023 0:00,200,male,18-24,phone,low,4216.35,ios,bronze,15.0,3.9.9,USA,Houston,english,good
+user_0918,4/15/2023 0:00,138,male,25-34,tablet,low,578.39,web,bronze,,3.9.9,USA,Chicago,english,excellent
+user_0919,10/18/2022 0:00,317,female,18-24,phone,medium,307.58,android,silver,13.0,3.9.7,USA,Los Angeles,english,good
+user_0920,2/22/2023 0:00,190,female,25-34,phone,dormant,121.18,ios,bronze,15.0,3.9.7,USA,San Jose,english,fair
+user_0921,5/31/2023 0:00,92,female,45+,phone,medium,372.37,ios,silver,15.0,3.9.9,USA,Philadelphia,english,excellent
+user_0922,1/10/2023 0:00,233,female,35-44,phone,dormant,407.82,android,platinum,12.0,3.9.7,USA,Houston,english,excellent
+user_0923,2/19/2023 0:00,193,male,35-44,phone,high,81.95,ios,gold,12.0,3.9.9,USA,New York,english,good
+user_0924,3/21/2023 0:00,163,male,35-44,tablet,low,661.48,web,silver,,3.9.9,USA,Phoenix,english,fair
+user_0925,1/15/2023 0:00,228,male,25-34,phone,low,3692.77,android,silver,10.0,3.9.6,USA,Houston,english,good
+user_0926,12/17/2022 0:00,257,female,35-44,tablet,medium,14204.96,ios,bronze,13.0,3.9.7,USA,San Jose,english,good
+user_0927,11/27/2022 0:00,277,male,25-34,phone,high,705.02,android,gold,10.0,3.9.9,USA,Chicago,english,poor
+user_0928,4/9/2023 0:00,144,female,35-44,phone,medium,10154.38,ios,gold,14.0,3.9.9,USA,San Antonio,english,excellent
+user_0929,8/25/2022 0:00,371,female,18-24,phone,dormant,136.04,ios,bronze,15.0,3.9.5,USA,San Diego,english,fair
+user_0930,10/7/2022 0:00,328,male,25-34,phone,medium,972.42,ios,silver,13.0,3.9.8,USA,San Jose,english,excellent
+user_0931,4/27/2023 0:00,126,other,35-44,phone,medium,151.0,ios,silver,12.0,3.9.9,USA,San Diego,english,good
+user_0932,12/9/2022 0:00,265,male,35-44,phone,dormant,282.41,ios,silver,15.0,3.9.5,USA,Phoenix,english,good
+user_0933,6/17/2023 0:00,75,female,35-44,phone,medium,816.75,android,silver,11.0,3.9.6,USA,San Antonio,english,excellent
+user_0934,8/18/2022 0:00,378,female,35-44,phone,medium,324.22,ios,platinum,14.0,3.9.9,USA,New York,english,excellent
+user_0935,2/5/2023 0:00,207,female,45+,tablet,medium,554.53,web,bronze,,3.9.9,USA,Houston,english,good
+user_0936,4/4/2023 0:00,149,male,35-44,phone,low,1114.29,ios,bronze,14.0,3.9.9,USA,Phoenix,english,fair
+user_0937,9/27/2022 0:00,338,female,25-34,tablet,low,947.89,web,bronze,,3.9.8,USA,New York,english,good
+user_0938,4/1/2023 0:00,152,male,45+,phone,low,13862.46,android,silver,13.0,3.9.8,USA,Philadelphia,english,excellent
+user_0939,10/5/2022 0:00,330,female,35-44,tablet,low,135.16,web,gold,,3.9.8,USA,San Jose,english,fair
+user_0940,9/27/2022 0:00,338,male,25-34,tablet,dormant,1908.51,web,silver,,3.9.6,USA,San Antonio,english,poor
+user_0941,12/25/2022 0:00,249,female,18-24,phone,medium,94.2,ios,bronze,14.0,3.9.8,USA,Los Angeles,english,fair
+user_0942,10/6/2022 0:00,329,male,45+,phone,low,4261.52,ios,silver,14.0,3.9.9,USA,San Antonio,english,fair
+user_0943,9/30/2022 0:00,335,female,45+,phone,high,1033.27,android,bronze,11.0,3.9.9,USA,New York,english,good
+user_0944,6/26/2023 0:00,66,male,45+,phone,low,812.7,android,silver,10.0,3.9.7,USA,New York,english,fair
+user_0945,6/27/2023 0:00,65,male,35-44,phone,low,638.57,android,bronze,10.0,3.9.9,USA,Philadelphia,english,excellent
+user_0946,11/19/2022 0:00,285,female,35-44,phone,medium,515.8,ios,bronze,15.0,3.9.9,USA,San Diego,english,fair
+user_0947,2/16/2023 0:00,196,male,35-44,phone,dormant,34.26,android,gold,11.0,3.9.8,USA,Dallas,english,good
+user_0948,7/10/2022 0:00,417,other,25-34,phone,medium,15269.6,ios,bronze,16.0,3.9.9,USA,Houston,english,fair
+user_0949,3/26/2023 0:00,158,male,35-44,phone,medium,882.79,ios,platinum,13.0,3.9.8,USA,San Diego,english,poor
+user_0950,8/8/2022 0:00,388,male,18-24,phone,dormant,101.96,android,silver,12.0,3.9.9,USA,New York,english,fair
+user_0951,10/22/2022 0:00,313,male,35-44,phone,medium,350.23,ios,gold,13.0,3.9.9,USA,Dallas,english,excellent
+user_0952,6/19/2023 0:00,73,male,45+,phone,medium,348.75,android,bronze,11.0,3.9.8,USA,San Jose,english,fair
+user_0953,4/27/2023 0:00,126,female,35-44,phone,low,772.16,android,gold,10.0,3.9.6,USA,San Diego,english,good
+user_0954,4/14/2023 0:00,139,female,45+,phone,high,211.78,ios,gold,14.0,3.9.9,USA,Los Angeles,english,excellent
+user_0955,10/18/2022 0:00,317,male,35-44,phone,dormant,998.37,android,silver,10.0,3.9.9,USA,Dallas,english,fair
+user_0956,5/20/2023 0:00,103,male,25-34,phone,medium,874.84,android,bronze,11.0,3.9.7,USA,Chicago,english,good
+user_0957,12/12/2022 0:00,262,female,35-44,tablet,medium,32.85,web,bronze,,3.9.9,USA,Phoenix,english,poor
+user_0958,2/22/2023 0:00,190,female,35-44,phone,medium,167.11,ios,bronze,12.0,3.9.8,USA,Philadelphia,english,good
+user_0959,11/16/2022 0:00,288,male,25-34,phone,low,1988.65,android,silver,12.0,3.9.9,USA,Chicago,english,good
+user_0960,5/13/2023 0:00,110,male,35-44,phone,low,616.91,android,bronze,13.0,3.9.8,USA,San Jose,english,good
+user_0961,7/17/2022 0:00,410,male,18-24,phone,low,968.97,android,gold,11.0,3.9.7,USA,Houston,english,excellent
+user_0962,9/22/2022 0:00,343,female,25-34,tablet,low,616.74,web,platinum,,3.9.6,USA,San Jose,english,good
+user_0963,3/21/2023 0:00,163,male,35-44,phone,dormant,84.88,android,bronze,13.0,3.9.7,USA,Houston,english,good
+user_0964,3/2/2023 0:00,182,female,35-44,phone,dormant,706.33,ios,bronze,12.0,3.9.6,USA,Houston,english,good
+user_0965,9/4/2022 0:00,361,male,45+,phone,medium,295.72,android,silver,10.0,3.9.9,USA,New York,english,excellent
+user_0966,9/6/2022 0:00,359,male,25-34,phone,low,16752.13,android,bronze,12.0,3.9.8,USA,Chicago,english,fair
+user_0967,12/22/2022 0:00,252,female,18-24,phone,high,4083.19,android,platinum,12.0,3.9.9,USA,San Jose,english,excellent
+user_0968,5/15/2023 0:00,108,female,35-44,phone,low,143.47,android,bronze,11.0,3.9.9,USA,Houston,english,good
+user_0969,12/30/2022 0:00,244,female,35-44,phone,medium,3578.3,android,silver,10.0,3.9.8,USA,San Antonio,english,good
+user_0970,3/3/2023 0:00,181,other,18-24,phone,high,77.01,ios,silver,15.0,3.9.9,USA,New York,english,fair
+user_0971,7/13/2022 0:00,414,male,25-34,phone,low,2511.08,ios,bronze,14.0,3.9.6,USA,San Diego,english,good
+user_0972,7/4/2022 0:00,423,male,35-44,phone,low,11562.5,ios,bronze,16.0,3.9.7,USA,New York,english,good
+user_0973,9/13/2022 0:00,352,female,35-44,phone,dormant,7799.4,ios,silver,14.0,3.9.7,USA,New York,english,excellent
+user_0974,8/28/2022 0:00,368,male,35-44,phone,low,931.58,ios,bronze,12.0,3.9.9,USA,Houston,english,excellent
+user_0975,11/12/2022 0:00,292,male,18-24,phone,medium,73.22,ios,silver,16.0,3.9.9,USA,Los Angeles,english,good
+user_0976,6/30/2023 0:00,62,male,25-34,phone,medium,159.67,ios,bronze,13.0,3.9.7,USA,Phoenix,english,fair
+user_0977,12/26/2022 0:00,248,male,35-44,phone,dormant,4104.07,ios,bronze,14.0,3.9.5,USA,Phoenix,english,fair
+user_0978,12/14/2022 0:00,260,female,25-34,phone,low,7848.04,android,bronze,13.0,3.9.7,USA,Phoenix,english,good
+user_0979,8/21/2022 0:00,375,male,45+,phone,medium,426.5,android,bronze,12.0,3.9.8,USA,San Diego,english,good
+user_0980,5/12/2023 0:00,111,male,45+,phone,low,618.56,android,silver,10.0,3.9.5,USA,San Diego,english,excellent
+user_0981,3/31/2023 0:00,153,male,25-34,phone,medium,177.23,android,bronze,13.0,3.9.9,USA,San Jose,english,good
+user_0982,3/24/2023 0:00,160,female,35-44,phone,low,37.78,android,silver,12.0,3.9.8,USA,San Antonio,english,fair
+user_0983,8/15/2022 0:00,381,female,25-34,phone,low,761.05,ios,bronze,12.0,3.9.7,USA,Los Angeles,english,fair
+user_0984,8/24/2022 0:00,372,male,35-44,phone,medium,15767.68,ios,silver,13.0,3.9.9,USA,San Jose,english,fair
+user_0985,11/3/2022 0:00,301,male,35-44,phone,low,840.82,android,bronze,11.0,3.9.9,USA,San Antonio,english,excellent
+user_0986,11/30/2022 0:00,274,female,45+,phone,low,167.96,ios,gold,16.0,3.9.6,USA,Phoenix,english,good
+user_0987,6/10/2023 0:00,82,female,45+,phone,low,16014.51,ios,bronze,12.0,3.9.9,USA,Houston,english,poor
+user_0988,5/12/2023 0:00,111,male,25-34,phone,medium,1404.9,ios,bronze,16.0,3.9.6,USA,Houston,english,excellent
+user_0989,3/24/2023 0:00,160,male,25-34,phone,high,114.71,ios,bronze,16.0,3.9.9,USA,New York,english,excellent
+user_0990,9/18/2022 0:00,347,female,25-34,phone,medium,94.73,android,silver,11.0,3.9.9,USA,San Jose,english,fair
+user_0991,7/20/2022 0:00,407,male,18-24,phone,medium,566.98,ios,bronze,12.0,3.9.7,USA,Los Angeles,english,good
+user_0992,9/22/2022 0:00,343,female,25-34,phone,medium,521.25,android,silver,10.0,3.9.9,USA,Philadelphia,english,fair
+user_0993,8/27/2022 0:00,369,male,18-24,phone,dormant,554.41,ios,silver,14.0,3.9.8,USA,New York,english,excellent
+user_0994,12/22/2022 0:00,252,male,25-34,phone,low,94.22,ios,bronze,14.0,3.9.7,USA,San Jose,english,good
+user_0995,9/15/2022 0:00,350,male,45+,phone,medium,13184.39,android,silver,12.0,3.9.8,USA,Phoenix,english,excellent
+user_0996,12/28/2022 0:00,246,female,25-34,tablet,dormant,4846.61,web,bronze,,3.9.7,USA,San Jose,english,fair
+user_0997,6/13/2023 0:00,79,female,18-24,phone,low,986.37,ios,bronze,16.0,3.9.9,USA,San Jose,english,good
+user_0998,6/27/2023 0:00,65,male,18-24,phone,medium,440.27,android,silver,11.0,3.9.9,USA,Phoenix,english,good
+user_0999,6/19/2023 0:00,73,male,25-34,phone,high,817.22,android,bronze,12.0,3.9.8,USA,Chicago,english,good
+user_1000,9/19/2022 0:00,346,female,18-24,phone,low,13560.02,android,silver,10.0,3.9.9,USA,San Antonio,english,good
+user_1001,11/7/2022 0:00,297,female,25-34,phone,dormant,484.52,ios,gold,14.0,3.9.6,USA,Dallas,english,good
+user_1002,2/23/2023 0:00,189,male,25-34,tablet,dormant,61.94,ios,silver,12.0,3.9.9,USA,Dallas,english,good
+user_1003,9/12/2022 0:00,353,male,35-44,phone,dormant,18768.23,ios,bronze,14.0,3.9.8,USA,Dallas,english,good
+user_1004,10/24/2022 0:00,311,male,35-44,phone,low,17385.58,android,silver,13.0,3.9.9,USA,San Antonio,english,excellent
+user_1005,6/11/2023 0:00,81,female,18-24,phone,medium,784.63,ios,silver,12.0,3.9.8,USA,San Antonio,english,excellent
+user_1006,1/3/2023 0:00,240,female,45+,phone,low,4519.17,ios,silver,15.0,3.9.6,USA,Philadelphia,english,good
+user_1007,7/31/2022 0:00,396,male,45+,phone,low,879.58,android,silver,10.0,3.9.8,USA,New York,english,fair
+user_1008,1/25/2023 0:00,218,male,25-34,phone,low,12865.75,android,platinum,10.0,3.9.9,USA,Los Angeles,english,good
+user_1009,4/15/2023 0:00,138,male,18-24,phone,low,2307.33,ios,gold,13.0,3.9.9,USA,Chicago,english,good
+user_1010,11/14/2022 0:00,290,male,25-34,phone,low,4011.36,ios,silver,13.0,3.9.8,USA,San Diego,english,excellent
+user_1011,12/11/2022 0:00,263,male,35-44,phone,low,318.41,ios,silver,12.0,3.9.9,USA,Dallas,english,good
+user_1012,6/5/2023 0:00,87,male,18-24,phone,dormant,118.67,ios,silver,12.0,3.9.2,USA,Houston,english,good
+user_1013,11/20/2022 0:00,284,male,18-24,tablet,dormant,819.06,android,silver,12.0,3.9.9,USA,San Diego,english,good
+user_1014,9/17/2022 0:00,348,male,25-34,tablet,high,358.49,web,bronze,,3.9.9,USA,Dallas,english,fair
+user_1015,9/16/2022 0:00,349,male,18-24,phone,dormant,3463.99,ios,gold,13.0,3.9.9,USA,Philadelphia,english,good
+user_1016,11/22/2022 0:00,282,male,45+,phone,low,458.73,ios,gold,12.0,3.9.6,USA,Philadelphia,english,good
+user_1017,12/25/2022 0:00,249,female,35-44,phone,medium,82.7,ios,silver,14.0,3.9.9,USA,Los Angeles,english,good
+user_1018,1/25/2023 0:00,218,male,25-34,tablet,low,1677.02,web,silver,,3.9.6,USA,Chicago,english,good
+user_1019,8/15/2022 0:00,381,male,25-34,phone,low,1583.27,ios,bronze,13.0,3.9.7,USA,Los Angeles,english,good
+user_1020,4/12/2023 0:00,141,female,25-34,phone,low,806.19,android,gold,10.0,3.9.8,USA,San Diego,english,excellent
+user_1021,2/26/2023 0:00,186,female,25-34,phone,low,190.81,ios,bronze,14.0,3.9.6,USA,Chicago,english,excellent
+user_1022,7/10/2022 0:00,417,male,35-44,phone,medium,843.42,android,gold,11.0,3.9.9,USA,New York,english,good
+user_1023,6/19/2023 0:00,73,female,45+,phone,medium,79.74,ios,bronze,13.0,3.9.9,USA,Dallas,english,good
+user_1024,2/18/2023 0:00,194,male,25-34,phone,high,118.78,ios,bronze,12.0,3.9.9,USA,Chicago,english,good
+user_1025,7/26/2022 0:00,401,male,35-44,phone,high,3107.2,android,bronze,13.0,3.9.8,USA,Houston,english,good
+user_1026,2/5/2023 0:00,207,female,25-34,tablet,medium,360.56,web,bronze,,3.9.9,USA,Phoenix,english,fair
+user_1027,7/30/2022 0:00,397,female,35-44,phone,medium,190.13,android,silver,11.0,3.9.9,USA,Houston,english,good
+user_1028,7/26/2022 0:00,401,male,45+,phone,low,881.67,android,silver,11.0,3.9.8,USA,San Antonio,english,fair
+user_1029,2/1/2023 0:00,211,male,25-34,phone,medium,893.93,ios,bronze,13.0,3.9.9,USA,San Jose,english,fair
+user_1030,7/2/2022 0:00,425,female,35-44,phone,medium,279.68,android,silver,10.0,3.9.7,USA,Dallas,english,poor
+user_1031,10/1/2022 0:00,334,male,18-24,phone,high,270.42,android,platinum,13.0,3.9.9,USA,Dallas,english,excellent
+user_1032,9/16/2022 0:00,349,other,25-34,phone,low,941.08,ios,silver,12.0,3.9.9,USA,Chicago,english,excellent
+user_1033,1/25/2023 0:00,218,male,45+,phone,high,466.86,ios,bronze,13.0,3.9.9,USA,New York,english,good
+user_1034,7/15/2022 0:00,412,male,45+,phone,low,2407.65,android,silver,11.0,3.9.6,USA,New York,english,excellent
+user_1035,2/9/2023 0:00,203,male,35-44,phone,high,17178.39,ios,platinum,15.0,3.9.8,USA,San Antonio,english,excellent
+user_1036,2/7/2023 0:00,205,female,25-34,phone,medium,60.6,android,bronze,11.0,3.9.9,USA,Phoenix,english,excellent
+user_1037,5/17/2023 0:00,106,male,18-24,phone,low,783.91,ios,bronze,15.0,3.9.8,USA,New York,english,excellent
+user_1038,4/13/2023 0:00,140,male,25-34,tablet,dormant,2705.86,web,gold,,3.9.9,USA,Chicago,english,excellent
+user_1039,11/13/2022 0:00,291,female,35-44,phone,low,117.6,android,gold,13.0,3.9.9,USA,Houston,english,good
+user_1040,9/26/2022 0:00,339,female,25-34,phone,medium,747.24,android,bronze,10.0,3.9.7,USA,Chicago,english,good
+user_1041,7/13/2022 0:00,414,male,18-24,phone,low,764.11,android,gold,11.0,3.9.8,USA,Philadelphia,english,good
+user_1042,7/30/2022 0:00,397,female,18-24,phone,high,946.42,ios,bronze,14.0,3.9.9,USA,San Jose,english,excellent
+user_1043,10/1/2022 0:00,334,male,25-34,phone,low,958.88,android,silver,12.0,3.9.6,USA,Chicago,english,good
+user_1044,4/17/2023 0:00,136,male,45+,phone,medium,3908.32,ios,bronze,15.0,3.9.8,USA,San Jose,english,good
+user_1045,11/16/2022 0:00,288,female,18-24,phone,dormant,3982.44,android,silver,12.0,3.9.9,USA,San Antonio,english,good
+user_1046,5/7/2023 0:00,116,female,18-24,tablet,low,1526.18,web,silver,,3.9.8,USA,Chicago,english,fair
+user_1047,2/14/2023 0:00,198,female,18-24,phone,medium,129.01,ios,bronze,16.0,3.9.7,USA,Phoenix,english,poor
+user_1048,7/14/2022 0:00,413,other,35-44,phone,low,220.87,android,gold,12.0,3.9.7,USA,Chicago,english,good
+user_1049,10/16/2022 0:00,319,male,18-24,phone,low,4384.55,android,bronze,11.0,3.9.6,USA,New York,english,excellent
+user_1050,12/14/2022 0:00,260,male,18-24,phone,high,593.16,android,bronze,11.0,3.9.9,USA,Dallas,english,excellent
+user_1051,3/7/2023 0:00,177,male,35-44,phone,medium,25.8,ios,silver,14.0,3.9.9,USA,Phoenix,english,good
+user_1052,7/22/2022 0:00,405,female,35-44,phone,low,197.88,android,silver,11.0,3.9.6,USA,San Diego,english,good
+user_1053,11/18/2022 0:00,286,male,25-34,phone,low,176.08,ios,platinum,14.0,3.9.9,USA,San Diego,english,excellent
+user_1054,11/24/2022 0:00,280,female,18-24,phone,medium,2619.47,ios,silver,16.0,3.9.9,USA,Los Angeles,english,good
+user_1055,12/11/2022 0:00,263,female,25-34,phone,dormant,689.2,android,silver,11.0,3.9.8,USA,Houston,english,good
+user_1056,11/11/2022 0:00,293,male,35-44,phone,medium,565.52,android,bronze,11.0,3.9.9,USA,Phoenix,english,good
+user_1057,9/28/2022 0:00,337,male,45+,tablet,high,10934.17,web,platinum,,3.9.7,USA,Los Angeles,english,excellent
+user_1058,10/9/2022 0:00,326,male,25-34,phone,high,16477.4,android,bronze,13.0,3.9.9,USA,Phoenix,english,poor
+user_1059,11/17/2022 0:00,287,male,18-24,phone,medium,10970.6,android,gold,10.0,3.9.9,USA,New York,english,good
+user_1060,4/6/2023 0:00,147,female,25-34,phone,low,96.04,android,bronze,10.0,3.9.9,USA,Phoenix,english,good
+user_1061,11/5/2022 0:00,299,male,45+,phone,high,4319.57,ios,silver,12.0,3.9.8,USA,Los Angeles,english,excellent
+user_1062,3/30/2023 0:00,154,female,18-24,phone,low,160.17,ios,bronze,15.0,3.9.9,USA,Phoenix,english,good
+user_1063,11/12/2022 0:00,292,male,45+,phone,low,1099.65,android,bronze,10.0,3.9.9,USA,Philadelphia,english,good
+user_1064,11/10/2022 0:00,294,male,18-24,phone,low,272.14,android,gold,11.0,3.9.9,USA,San Antonio,english,excellent
+user_1065,5/15/2023 0:00,108,male,25-34,phone,low,40.55,ios,gold,14.0,3.9.8,USA,Houston,english,excellent
+user_1066,7/3/2022 0:00,424,male,25-34,tablet,low,89.14,web,silver,,3.9.9,USA,Dallas,english,good
+user_1067,12/18/2022 0:00,256,male,18-24,phone,medium,235.12,ios,platinum,14.0,3.9.9,USA,Philadelphia,english,excellent
+user_1068,4/8/2023 0:00,145,male,25-34,phone,low,176.39,ios,silver,12.0,3.9.8,USA,New York,english,good
+user_1069,1/23/2023 0:00,220,female,45+,phone,low,151.43,ios,platinum,14.0,3.9.9,USA,Philadelphia,english,good
+user_1070,4/24/2023 0:00,129,female,35-44,phone,low,4841.74,android,platinum,11.0,3.9.9,USA,San Antonio,english,excellent
+user_1071,6/24/2023 0:00,68,female,25-34,phone,low,566.91,android,bronze,12.0,3.9.7,USA,Houston,english,good
+user_1072,8/23/2022 0:00,373,female,45+,tablet,medium,906.16,web,bronze,,3.9.9,USA,Chicago,english,excellent
+user_1073,7/28/2022 0:00,399,male,18-24,phone,low,2902.85,ios,bronze,15.0,3.9.9,USA,Philadelphia,english,excellent
+user_1074,8/27/2022 0:00,369,female,25-34,phone,dormant,21.18,ios,bronze,16.0,3.9.9,USA,San Diego,english,good
+user_1075,6/5/2023 0:00,87,male,25-34,phone,low,7772.6,android,bronze,10.0,3.9.9,USA,New York,english,fair
+user_1076,4/17/2023 0:00,136,male,25-34,phone,dormant,4415.32,android,bronze,11.0,3.9.7,USA,Phoenix,english,good
+user_1077,6/5/2023 0:00,87,female,35-44,phone,low,1435.55,android,silver,11.0,3.9.8,USA,Dallas,english,good
+user_1078,8/22/2022 0:00,374,male,18-24,phone,medium,3643.7,ios,bronze,15.0,3.9.8,USA,New York,english,good
+user_1079,6/12/2023 0:00,80,female,35-44,phone,low,1372.51,ios,silver,14.0,3.9.8,USA,Dallas,english,good
+user_1080,5/27/2023 0:00,96,female,25-34,phone,medium,806.75,android,bronze,10.0,3.9.9,USA,Chicago,english,excellent
+user_1081,4/23/2023 0:00,130,male,18-24,phone,medium,297.62,ios,bronze,14.0,3.9.9,USA,San Antonio,english,good
+user_1082,10/5/2022 0:00,330,other,35-44,phone,low,367.88,android,bronze,11.0,3.9.9,USA,San Diego,english,good
+user_1083,5/6/2023 0:00,117,male,18-24,tablet,low,657.09,web,gold,,3.9.7,USA,Los Angeles,english,excellent
+user_1084,7/4/2022 0:00,423,female,35-44,phone,dormant,71.69,ios,gold,14.0,3.9.7,USA,San Antonio,english,excellent
+user_1085,8/15/2022 0:00,381,male,18-24,phone,high,483.08,ios,bronze,16.0,3.9.9,USA,San Diego,english,excellent
+user_1086,10/7/2022 0:00,328,female,18-24,phone,medium,151.25,android,gold,11.0,3.9.6,USA,San Jose,english,good
+user_1087,8/22/2022 0:00,374,male,18-24,phone,low,386.18,android,silver,11.0,3.9.5,USA,Dallas,english,good
+user_1088,5/1/2023 0:00,122,female,25-34,phone,high,1095.95,android,bronze,11.0,3.9.9,USA,San Jose,english,fair
+user_1089,11/30/2022 0:00,274,male,18-24,phone,medium,2656.16,android,platinum,10.0,3.9.9,USA,Philadelphia,english,good
+user_1090,8/8/2022 0:00,388,female,18-24,phone,low,58.22,ios,gold,14.0,3.9.7,USA,San Antonio,english,excellent
+user_1091,1/24/2023 0:00,219,female,45+,tablet,dormant,2201.14,web,bronze,,3.9.7,USA,San Antonio,english,excellent
+user_1092,7/14/2022 0:00,413,male,35-44,tablet,medium,2333.13,web,silver,,3.9.9,USA,Chicago,english,excellent
+user_1093,6/16/2023 0:00,76,male,25-34,phone,dormant,865.63,ios,gold,14.0,3.9.6,USA,Philadelphia,english,poor
+user_1094,10/31/2022 0:00,304,male,18-24,phone,low,163.51,ios,bronze,15.0,3.9.9,USA,San Jose,english,good
+user_1095,9/29/2022 0:00,336,female,18-24,phone,medium,181.27,android,bronze,13.0,3.9.9,USA,San Diego,english,excellent
+user_1096,10/7/2022 0:00,328,male,35-44,phone,dormant,73.88,ios,platinum,16.0,3.9.8,USA,Los Angeles,english,good
+user_1097,3/16/2023 0:00,168,female,25-34,phone,low,123.93,android,bronze,11.0,3.9.6,USA,Philadelphia,english,excellent
+user_1098,4/15/2023 0:00,138,male,18-24,phone,medium,424.37,android,bronze,12.0,3.9.9,USA,San Diego,english,good
+user_1099,8/14/2022 0:00,382,male,25-34,phone,low,627.42,ios,bronze,16.0,3.9.9,USA,San Jose,english,excellent
+user_1100,3/27/2023 0:00,157,male,25-34,phone,low,3380.77,ios,bronze,14.0,3.9.9,USA,San Diego,english,fair
+user_1101,12/1/2022 0:00,273,female,25-34,phone,low,35.62,ios,gold,14.0,3.9.9,USA,Dallas,english,good
+user_1102,3/12/2023 0:00,172,male,18-24,phone,low,114.52,android,bronze,10.0,3.9.7,USA,Philadelphia,english,good
+user_1103,6/11/2023 0:00,81,male,35-44,phone,dormant,160.0,ios,bronze,15.0,3.9.9,USA,San Diego,english,fair
+user_1104,10/26/2022 0:00,309,female,18-24,phone,low,4619.82,ios,bronze,13.0,3.9.7,USA,Chicago,english,excellent
+user_1105,10/5/2022 0:00,330,male,25-34,phone,low,75.86,android,bronze,11.0,3.9.9,USA,Dallas,english,fair
+user_1106,10/9/2022 0:00,326,female,35-44,phone,low,741.37,ios,silver,13.0,3.9.8,USA,Houston,english,poor
+user_1107,12/14/2022 0:00,260,male,18-24,phone,medium,3854.71,ios,silver,12.0,3.9.9,USA,San Diego,english,good
+user_1108,7/14/2022 0:00,413,female,25-34,phone,dormant,17721.86,ios,bronze,14.0,3.9.6,USA,Philadelphia,english,good
+user_1109,5/9/2023 0:00,114,male,25-34,phone,medium,3082.31,ios,platinum,12.0,3.9.8,USA,Chicago,english,good
+user_1110,8/7/2022 0:00,389,female,45+,phone,low,180.58,ios,silver,13.0,3.9.6,USA,San Antonio,english,good
+user_1111,2/9/2023 0:00,203,male,18-24,tablet,low,625.82,web,bronze,,3.9.9,USA,Phoenix,english,excellent
+user_1112,4/15/2023 0:00,138,male,45+,phone,low,326.0,ios,bronze,12.0,3.9.9,USA,San Antonio,english,good
+user_1113,10/10/2022 0:00,325,female,25-34,phone,dormant,281.9,ios,bronze,16.0,3.9.7,USA,Philadelphia,english,good
+user_1114,4/19/2023 0:00,134,male,35-44,phone,high,4773.11,android,bronze,13.0,3.9.7,USA,Phoenix,english,excellent
+user_1115,4/4/2023 0:00,149,male,45+,phone,high,256.99,android,gold,11.0,3.9.9,USA,Phoenix,english,good
+user_1116,6/5/2023 0:00,87,female,35-44,tablet,medium,43.41,web,bronze,,3.9.9,USA,Phoenix,english,fair
+user_1117,12/16/2022 0:00,258,male,18-24,phone,medium,243.04,android,silver,12.0,3.9.9,USA,San Antonio,english,excellent
+user_1118,7/5/2022 0:00,422,male,35-44,tablet,medium,127.3,ios,silver,16.0,3.9.9,USA,San Jose,english,fair
+user_1119,1/11/2023 0:00,232,female,18-24,phone,dormant,167.14,android,bronze,10.0,3.9.9,USA,New York,english,excellent
+user_1120,4/24/2023 0:00,129,male,35-44,phone,low,6393.74,android,platinum,12.0,3.9.9,USA,San Antonio,english,excellent
+user_1121,1/23/2023 0:00,220,male,25-34,phone,low,747.58,android,gold,13.0,3.9.8,USA,Houston,english,excellent
+user_1122,3/8/2023 0:00,176,male,45+,phone,low,1574.89,android,bronze,12.0,3.9.9,USA,Dallas,english,good
+user_1123,3/29/2023 0:00,155,male,25-34,phone,medium,15494.22,ios,platinum,14.0,3.9.9,USA,Dallas,english,good
+user_1124,6/15/2023 0:00,77,other,35-44,phone,medium,5980.48,android,silver,12.0,3.9.6,USA,Chicago,english,poor
+user_1125,11/6/2022 0:00,298,female,25-34,phone,medium,172.24,ios,gold,14.0,3.9.9,USA,Los Angeles,english,excellent
+user_1126,4/26/2023 0:00,127,male,35-44,phone,dormant,606.36,android,bronze,12.0,3.9.6,USA,Dallas,english,good
+user_1127,9/19/2022 0:00,346,male,18-24,phone,low,719.56,android,silver,12.0,3.9.7,USA,Philadelphia,english,good
+user_1128,12/7/2022 0:00,267,other,18-24,phone,dormant,13858.04,android,silver,11.0,3.9.6,USA,Houston,english,good
+user_1129,9/23/2022 0:00,342,male,25-34,phone,low,327.22,ios,bronze,15.0,3.9.9,USA,Chicago,english,excellent
+user_1130,3/16/2023 0:00,168,male,25-34,phone,low,17208.74,android,silver,10.0,3.9.9,USA,San Diego,english,fair
+user_1131,1/6/2023 0:00,237,male,35-44,tablet,low,3178.11,web,bronze,,3.9.9,USA,San Diego,english,poor
+user_1132,7/1/2022 0:00,426,female,35-44,phone,medium,123.35,android,gold,10.0,3.9.9,USA,San Antonio,english,good
+user_1133,8/29/2022 0:00,367,male,35-44,phone,dormant,11943.63,web,bronze,,3.9.9,USA,New York,english,good
+user_1134,1/24/2023 0:00,219,male,35-44,phone,medium,19338.25,android,bronze,11.0,3.9.9,USA,San Antonio,english,excellent
+user_1135,7/15/2022 0:00,412,male,45+,phone,dormant,851.25,android,gold,11.0,3.9.5,USA,Chicago,english,excellent
+user_1136,8/4/2022 0:00,392,female,45+,phone,low,138.83,android,gold,11.0,3.9.9,USA,San Antonio,english,fair
+user_1137,9/6/2022 0:00,359,female,18-24,phone,low,4613.02,ios,bronze,13.0,3.9.9,USA,San Diego,english,good
+user_1138,10/1/2022 0:00,334,female,35-44,phone,medium,433.2,ios,bronze,13.0,3.9.9,USA,Dallas,english,poor
+user_1139,1/28/2023 0:00,215,female,18-24,tablet,dormant,656.22,android,gold,13.0,3.9.9,USA,Chicago,english,excellent
+user_1140,5/16/2023 0:00,107,male,25-34,phone,low,13740.9,android,bronze,11.0,3.9.9,USA,San Antonio,english,excellent
+user_1141,5/30/2023 0:00,93,male,25-34,phone,medium,86.46,android,bronze,11.0,3.9.9,USA,Houston,english,fair
+user_1142,12/29/2022 0:00,245,male,45+,phone,low,39.75,ios,bronze,12.0,3.9.6,USA,San Jose,english,good
+user_1143,7/6/2022 0:00,421,female,18-24,phone,dormant,672.13,ios,gold,15.0,3.9.5,USA,Los Angeles,english,good
+user_1144,11/20/2022 0:00,284,male,35-44,phone,low,118.12,android,silver,12.0,3.9.6,USA,Phoenix,english,good
+user_1145,3/26/2023 0:00,158,male,35-44,phone,medium,119.98,ios,platinum,15.0,3.9.8,USA,San Diego,english,excellent
+user_1146,7/22/2022 0:00,405,male,25-34,phone,dormant,1502.2,android,bronze,11.0,3.9.8,USA,Chicago,english,good
+user_1147,4/18/2023 0:00,135,male,18-24,tablet,low,149.84,web,gold,,3.9.8,USA,New York,english,fair
+user_1148,5/18/2023 0:00,105,female,35-44,phone,medium,44.7,android,silver,11.0,3.9.8,USA,Chicago,english,excellent
+user_1149,11/25/2022 0:00,279,female,18-24,phone,medium,698.6,android,bronze,11.0,3.9.9,USA,San Jose,english,good
+user_1150,9/21/2022 0:00,344,female,45+,phone,low,856.06,android,bronze,10.0,3.9.7,USA,New York,english,fair
+user_1151,3/27/2023 0:00,157,female,45+,phone,dormant,96.46,ios,bronze,16.0,3.9.7,USA,Philadelphia,english,fair
+user_1152,7/1/2022 0:00,426,female,25-34,tablet,low,110.31,web,bronze,,3.9.9,USA,Dallas,english,good
+user_1153,12/25/2022 0:00,249,male,35-44,phone,high,5501.93,ios,gold,16.0,3.9.9,USA,Philadelphia,english,good
+user_1154,5/4/2023 0:00,119,female,25-34,phone,medium,124.45,ios,bronze,13.0,3.9.6,USA,Chicago,english,excellent
+user_1155,11/4/2022 0:00,300,male,25-34,phone,medium,12754.24,ios,gold,13.0,3.9.7,USA,Philadelphia,english,good
+user_1156,7/15/2022 0:00,412,female,45+,tablet,low,14505.31,web,bronze,,3.9.6,USA,San Antonio,english,good
+user_1157,1/6/2023 0:00,237,male,25-34,phone,low,3140.13,android,platinum,10.0,3.9.9,USA,San Diego,english,good
+user_1158,10/11/2022 0:00,324,female,25-34,phone,dormant,183.09,ios,bronze,15.0,3.9.6,USA,Phoenix,english,excellent
+user_1159,2/2/2023 0:00,210,male,45+,phone,low,50.15,android,gold,12.0,3.9.9,USA,San Jose,english,good
+user_1160,5/30/2023 0:00,93,female,25-34,phone,low,14439.5,android,silver,11.0,3.9.7,USA,New York,english,excellent
+user_1161,7/29/2022 0:00,398,female,35-44,phone,medium,198.27,ios,bronze,14.0,3.9.8,USA,Philadelphia,english,excellent
+user_1162,4/27/2023 0:00,126,male,45+,phone,low,604.48,android,bronze,13.0,3.9.6,USA,San Jose,english,good
+user_1163,8/19/2022 0:00,377,female,35-44,phone,low,424.78,android,bronze,11.0,3.9.6,USA,Chicago,english,poor
+user_1164,8/25/2022 0:00,371,female,25-34,phone,high,339.69,ios,bronze,15.0,3.9.9,USA,Chicago,english,good
+user_1165,2/17/2023 0:00,195,female,18-24,phone,low,826.02,android,silver,11.0,3.9.6,USA,Dallas,english,fair
+user_1166,10/3/2022 0:00,332,female,18-24,phone,low,175.16,android,gold,10.0,3.9.6,USA,Chicago,english,good
+user_1167,8/30/2022 0:00,366,female,25-34,phone,low,947.15,android,bronze,10.0,3.9.8,USA,Dallas,english,good
+user_1168,12/16/2022 0:00,258,female,25-34,tablet,medium,62.83,web,bronze,,3.9.6,USA,San Antonio,english,good
+user_1169,9/8/2022 0:00,357,male,45+,phone,low,152.18,android,bronze,11.0,3.9.9,USA,Houston,english,excellent
+user_1170,5/2/2023 0:00,121,female,35-44,phone,medium,242.02,android,bronze,10.0,3.9.9,USA,San Jose,english,good
+user_1171,1/27/2023 0:00,216,female,35-44,phone,medium,2905.06,ios,gold,15.0,3.9.9,USA,Dallas,english,good
+user_1172,2/16/2023 0:00,196,female,25-34,phone,medium,1580.6,ios,silver,12.0,3.9.9,USA,San Antonio,english,good
+user_1173,12/17/2022 0:00,257,other,25-34,phone,low,142.13,android,bronze,13.0,3.9.7,USA,Los Angeles,english,good
+user_1174,8/8/2022 0:00,388,female,18-24,phone,low,83.69,ios,gold,16.0,3.9.8,USA,Phoenix,english,good
+user_1175,2/12/2023 0:00,200,male,35-44,phone,medium,68.08,android,silver,11.0,3.9.9,USA,Los Angeles,english,excellent
+user_1176,12/12/2022 0:00,262,female,35-44,phone,low,568.89,android,bronze,11.0,3.9.7,USA,San Diego,english,fair
+user_1177,10/7/2022 0:00,328,male,25-34,phone,dormant,469.93,android,bronze,13.0,3.9.7,USA,New York,english,poor
+user_1178,6/25/2023 0:00,67,male,25-34,phone,medium,738.24,ios,silver,12.0,3.9.9,USA,Phoenix,english,good
+user_1179,10/5/2022 0:00,330,male,45+,phone,dormant,283.13,ios,bronze,14.0,3.9.8,USA,Chicago,english,fair
+user_1180,2/22/2023 0:00,190,female,18-24,phone,medium,354.46,ios,bronze,16.0,3.9.9,USA,San Diego,english,excellent
+user_1181,8/30/2022 0:00,366,male,45+,phone,low,725.28,ios,silver,16.0,3.9.9,USA,Dallas,english,excellent
+user_1182,5/17/2023 0:00,106,female,18-24,phone,medium,174.16,android,silver,10.0,3.9.9,USA,San Antonio,english,good
+user_1183,3/28/2023 0:00,156,male,45+,phone,high,916.8,ios,bronze,14.0,3.9.9,USA,San Jose,english,excellent
+user_1184,7/27/2022 0:00,400,female,45+,phone,high,4744.73,android,silver,12.0,3.9.8,USA,San Jose,english,good
+user_1185,7/11/2022 0:00,416,female,25-34,phone,high,922.71,android,bronze,12.0,3.9.8,USA,Los Angeles,english,excellent
+user_1186,5/24/2023 0:00,99,male,45+,phone,low,421.83,ios,gold,15.0,3.9.9,USA,San Diego,english,good
+user_1187,5/31/2023 0:00,92,female,18-24,phone,low,66.48,android,bronze,10.0,3.9.9,USA,San Diego,english,good
+user_1188,5/26/2023 0:00,97,male,35-44,phone,low,2966.89,android,bronze,12.0,3.9.9,USA,Chicago,english,good
+user_1189,3/31/2023 0:00,153,other,18-24,phone,low,716.39,ios,gold,13.0,3.9.5,USA,San Jose,english,fair
+user_1190,3/11/2023 0:00,173,male,35-44,phone,low,691.17,android,bronze,13.0,3.9.8,USA,Phoenix,english,good
+user_1191,5/9/2023 0:00,114,female,25-34,tablet,high,5522.91,web,silver,,3.9.8,USA,Dallas,english,excellent
+user_1192,11/14/2022 0:00,290,female,25-34,phone,low,23.38,android,bronze,10.0,3.9.6,USA,New York,english,excellent
+user_1193,6/11/2023 0:00,81,male,35-44,phone,low,731.68,android,silver,11.0,3.9.9,USA,Los Angeles,english,poor
+user_1194,12/12/2022 0:00,262,female,25-34,phone,low,3298.56,ios,silver,15.0,3.9.7,USA,San Antonio,english,fair
+user_1195,5/26/2023 0:00,97,female,25-34,phone,medium,632.1,web,bronze,,3.9.6,USA,Chicago,english,fair
+user_1196,4/29/2023 0:00,124,other,25-34,phone,high,3268.98,ios,gold,14.0,3.9.9,USA,San Jose,english,good
+user_1197,6/2/2023 0:00,90,male,25-34,phone,low,133.81,android,bronze,12.0,3.9.9,USA,San Antonio,english,good
+user_1198,1/7/2023 0:00,236,male,45+,phone,low,6206.85,ios,bronze,14.0,3.9.8,USA,Phoenix,english,good
+user_1199,9/20/2022 0:00,345,male,35-44,phone,low,27.08,android,bronze,11.0,3.9.8,USA,Phoenix,english,good
+user_1200,7/9/2022 0:00,418,male,35-44,phone,high,90.22,android,silver,11.0,3.9.6,USA,Phoenix,english,good
+user_1201,5/18/2023 0:00,105,female,45+,phone,low,4540.86,ios,silver,13.0,3.9.6,USA,San Diego,english,good
+user_1202,3/24/2023 0:00,160,male,25-34,phone,medium,5380.47,ios,gold,15.0,3.9.9,USA,San Antonio,english,excellent
+user_1203,9/27/2022 0:00,338,male,25-34,phone,dormant,714.73,android,bronze,11.0,3.9.9,USA,Los Angeles,english,good
+user_1204,6/22/2023 0:00,70,male,25-34,phone,low,1148.17,android,bronze,13.0,3.9.9,USA,San Jose,english,good
+user_1205,12/5/2022 0:00,269,male,18-24,phone,dormant,294.55,ios,bronze,16.0,3.9.7,USA,Phoenix,english,good
+user_1206,3/3/2023 0:00,181,male,18-24,phone,dormant,939.85,web,gold,,3.9.9,USA,Los Angeles,english,excellent
+user_1207,7/31/2022 0:00,396,male,35-44,phone,dormant,215.25,android,platinum,11.0,3.9.9,USA,Houston,english,good
+user_1208,6/23/2023 0:00,69,female,18-24,phone,low,1689.0,ios,gold,14.0,3.9.9,USA,Phoenix,english,excellent
+user_1209,8/22/2022 0:00,374,female,45+,phone,dormant,336.55,android,silver,12.0,3.9.8,USA,Chicago,english,good
+user_1210,10/19/2022 0:00,316,female,18-24,phone,medium,675.98,ios,silver,12.0,3.9.7,USA,Houston,english,good
+user_1211,1/9/2023 0:00,234,female,25-34,phone,low,4246.08,android,silver,11.0,3.9.7,USA,Dallas,english,good
+user_1212,7/15/2022 0:00,412,female,25-34,phone,medium,660.77,ios,gold,14.0,3.9.9,USA,San Antonio,english,good
+user_1213,8/31/2022 0:00,365,male,35-44,tablet,medium,51.22,web,bronze,,3.9.6,USA,New York,english,good
+user_1214,4/19/2023 0:00,134,other,45+,phone,low,16363.25,android,bronze,10.0,3.9.9,USA,San Jose,english,good
+user_1215,4/7/2023 0:00,146,female,25-34,phone,medium,550.93,ios,silver,13.0,3.9.9,USA,San Antonio,english,excellent
+user_1216,12/20/2022 0:00,254,male,35-44,phone,medium,822.13,ios,bronze,15.0,3.9.8,USA,Philadelphia,english,good
+user_1217,6/27/2023 0:00,65,male,18-24,tablet,dormant,7691.19,android,bronze,13.0,3.9.6,USA,Los Angeles,english,poor
+user_1218,11/29/2022 0:00,275,female,25-34,phone,medium,15402.55,ios,platinum,13.0,3.9.9,USA,San Jose,english,good
+user_1219,8/7/2022 0:00,389,male,25-34,phone,dormant,68.77,android,silver,11.0,3.9.7,USA,Los Angeles,english,fair
+user_1220,4/2/2023 0:00,151,male,25-34,phone,low,3442.15,ios,platinum,16.0,3.9.8,USA,Dallas,english,good
+user_1221,8/21/2022 0:00,375,female,35-44,phone,medium,19254.47,android,silver,12.0,3.9.9,USA,Los Angeles,english,good
+user_1222,6/28/2023 0:00,64,male,45+,phone,medium,120.39,android,silver,11.0,3.9.7,USA,Chicago,english,good
+user_1223,5/13/2023 0:00,110,male,25-34,phone,low,695.14,android,bronze,11.0,3.9.9,USA,Philadelphia,english,excellent
+user_1224,2/9/2023 0:00,203,female,25-34,phone,medium,242.46,ios,bronze,13.0,3.9.9,USA,San Antonio,english,good
+user_1225,4/1/2023 0:00,152,female,25-34,phone,low,327.81,android,bronze,13.0,3.9.5,USA,Los Angeles,english,poor
+user_1226,2/5/2023 0:00,207,female,35-44,tablet,low,1838.36,web,gold,,3.9.9,USA,Dallas,english,good
+user_1227,11/10/2022 0:00,294,female,45+,phone,low,1173.27,android,bronze,10.0,3.9.6,USA,San Antonio,english,poor
+user_1228,4/11/2023 0:00,142,female,25-34,tablet,medium,161.39,web,bronze,,3.9.9,USA,San Jose,english,good
+user_1229,5/25/2023 0:00,98,female,18-24,phone,low,4580.32,android,silver,12.0,3.9.5,USA,Houston,english,good
+user_1230,1/15/2023 0:00,228,female,25-34,phone,low,95.43,android,silver,11.0,3.9.9,USA,San Diego,english,fair
+user_1231,1/15/2023 0:00,228,male,18-24,phone,low,382.23,android,gold,13.0,3.9.9,USA,Phoenix,english,good
+user_1232,12/20/2022 0:00,254,female,35-44,phone,medium,913.09,android,bronze,12.0,3.9.9,USA,Philadelphia,english,excellent
+user_1233,10/25/2022 0:00,310,male,18-24,phone,low,29.78,android,silver,10.0,3.9.6,USA,Philadelphia,english,excellent
+user_1234,8/22/2022 0:00,374,male,25-34,tablet,high,2819.96,android,bronze,12.0,3.9.8,USA,San Antonio,english,good
+user_1235,11/8/2022 0:00,296,female,35-44,phone,medium,149.57,android,bronze,13.0,3.9.6,USA,Chicago,english,good
+user_1236,1/10/2023 0:00,233,female,35-44,phone,dormant,6908.18,ios,gold,14.0,3.9.7,USA,Chicago,english,good
+user_1237,11/4/2022 0:00,300,female,18-24,phone,low,102.54,android,gold,12.0,3.9.6,USA,Los Angeles,english,good
+user_1238,1/30/2023 0:00,213,male,35-44,phone,dormant,682.91,ios,bronze,16.0,3.9.9,USA,New York,english,good
+user_1239,5/17/2023 0:00,106,male,18-24,phone,low,94.11,ios,gold,13.0,3.9.9,USA,San Antonio,english,fair
+user_1240,11/6/2022 0:00,298,other,25-34,tablet,medium,70.25,ios,bronze,13.0,3.9.9,USA,San Jose,english,good
+user_1241,11/20/2022 0:00,284,male,35-44,phone,low,3317.87,android,bronze,11.0,3.9.7,USA,San Antonio,english,good
+user_1242,11/29/2022 0:00,275,female,25-34,phone,low,984.15,android,silver,10.0,3.9.9,USA,New York,english,good
+user_1243,6/13/2023 0:00,79,female,18-24,phone,low,96.63,android,bronze,13.0,3.9.8,USA,Los Angeles,english,good
+user_1244,11/11/2022 0:00,293,female,35-44,phone,low,2981.14,android,bronze,11.0,3.9.9,USA,Phoenix,english,good
+user_1245,7/11/2022 0:00,416,male,25-34,phone,dormant,3927.15,ios,bronze,13.0,3.9.7,USA,Los Angeles,english,good
+user_1246,2/28/2023 0:00,184,male,25-34,phone,high,136.58,ios,gold,12.0,3.9.9,USA,San Antonio,english,fair
+user_1247,4/9/2023 0:00,144,female,35-44,phone,low,762.64,android,silver,12.0,3.9.9,USA,Phoenix,english,good
+user_1248,4/21/2023 0:00,132,male,35-44,phone,low,4496.8,ios,silver,13.0,3.9.8,USA,Dallas,english,fair
+user_1249,7/5/2022 0:00,422,female,45+,phone,low,3533.61,android,bronze,13.0,3.9.9,USA,San Diego,english,excellent
+user_1250,10/2/2022 0:00,333,female,18-24,tablet,medium,226.17,android,platinum,13.0,3.9.9,USA,San Diego,english,good
+user_1251,9/26/2022 0:00,339,male,25-34,phone,low,660.18,ios,platinum,12.0,3.9.9,USA,San Antonio,english,excellent
+user_1252,6/2/2023 0:00,90,other,25-34,phone,medium,611.79,ios,silver,12.0,3.9.7,USA,San Diego,english,good
+user_1253,12/25/2022 0:00,249,male,45+,phone,low,572.28,android,silver,12.0,3.9.9,USA,Chicago,english,excellent
+user_1254,4/2/2023 0:00,151,male,25-34,phone,high,718.54,ios,silver,16.0,3.9.9,USA,San Antonio,english,poor
+user_1255,1/10/2023 0:00,233,male,45+,phone,medium,390.91,android,bronze,13.0,3.9.9,USA,Phoenix,english,fair
+user_1256,7/6/2022 0:00,421,male,25-34,phone,low,8146.91,android,bronze,11.0,3.9.9,USA,San Jose,english,good
+user_1257,2/14/2023 0:00,198,other,35-44,phone,medium,3014.26,android,bronze,13.0,3.9.7,USA,Los Angeles,english,good
+user_1258,5/29/2023 0:00,94,male,25-34,phone,low,2491.26,android,silver,10.0,3.9.9,USA,Los Angeles,english,excellent
+user_1259,10/4/2022 0:00,331,female,18-24,phone,low,863.65,android,bronze,13.0,3.9.9,USA,Dallas,english,good
+user_1260,2/1/2023 0:00,211,female,25-34,phone,low,2807.91,ios,silver,12.0,3.9.9,USA,San Jose,english,good
+user_1261,5/17/2023 0:00,106,female,18-24,phone,high,264.14,ios,bronze,14.0,3.9.8,USA,Dallas,english,excellent
+user_1262,4/7/2023 0:00,146,female,25-34,phone,low,69.67,android,bronze,10.0,3.9.7,USA,San Jose,english,excellent
+user_1263,3/18/2023 0:00,166,female,18-24,phone,low,616.55,android,bronze,11.0,3.9.6,USA,Chicago,english,good
+user_1264,7/16/2022 0:00,411,male,45+,phone,dormant,13121.52,android,bronze,12.0,3.9.7,USA,Philadelphia,english,excellent
+user_1265,11/27/2022 0:00,277,female,45+,phone,medium,555.09,android,silver,12.0,3.9.8,USA,Philadelphia,english,fair
+user_1266,5/29/2023 0:00,94,female,25-34,phone,dormant,217.63,ios,bronze,16.0,3.9.8,USA,Chicago,english,excellent
+user_1267,9/7/2022 0:00,358,other,35-44,phone,low,2371.17,ios,bronze,15.0,3.9.6,USA,Los Angeles,english,excellent
+user_1268,9/23/2022 0:00,342,other,35-44,phone,low,556.21,android,silver,12.0,3.9.9,USA,Philadelphia,english,good
+user_1269,1/25/2023 0:00,218,female,45+,phone,low,337.39,ios,silver,13.0,3.9.9,USA,New York,english,good
+user_1270,2/3/2023 0:00,209,male,25-34,phone,medium,815.8,android,silver,12.0,3.9.7,USA,San Diego,english,good
+user_1271,2/5/2023 0:00,207,male,25-34,tablet,medium,2823.71,web,bronze,,3.9.9,USA,Houston,english,excellent
+user_1272,7/1/2022 0:00,426,female,25-34,phone,medium,116.36,android,bronze,10.0,3.9.9,USA,San Antonio,english,good
+user_1273,4/9/2023 0:00,144,female,25-34,phone,low,390.32,android,silver,11.0,3.9.9,USA,Phoenix,english,good
+user_1274,4/27/2023 0:00,126,female,45+,phone,low,99.36,ios,bronze,13.0,3.9.8,USA,Chicago,english,excellent
+user_1275,7/3/2022 0:00,424,female,35-44,phone,dormant,5520.34,ios,silver,14.0,3.9.8,USA,San Antonio,english,excellent
+user_1276,11/13/2022 0:00,291,female,45+,phone,low,631.89,ios,bronze,16.0,3.9.9,USA,New York,english,good
+user_1277,6/18/2023 0:00,74,female,18-24,phone,low,92.82,android,bronze,13.0,3.9.7,USA,San Jose,english,fair
+user_1278,1/18/2023 0:00,225,female,35-44,phone,high,48.09,ios,bronze,14.0,3.9.8,USA,San Antonio,english,good
+user_1279,9/10/2022 0:00,355,male,45+,phone,medium,140.04,ios,gold,14.0,3.9.8,USA,San Diego,english,good
+user_1280,6/10/2023 0:00,82,female,25-34,phone,low,45.1,ios,bronze,14.0,3.9.7,USA,Dallas,english,good
+user_1281,8/18/2022 0:00,378,other,18-24,phone,low,17613.15,android,gold,11.0,3.9.8,USA,Houston,english,excellent
+user_1282,1/14/2023 0:00,229,male,35-44,phone,low,1220.13,android,silver,13.0,3.9.9,USA,Dallas,english,good
+user_1283,3/9/2023 0:00,175,female,25-34,phone,low,825.03,ios,silver,13.0,3.9.9,USA,Houston,english,good
+user_1284,9/28/2022 0:00,337,female,35-44,phone,low,879.56,ios,bronze,16.0,3.9.9,USA,Dallas,english,excellent
+user_1285,10/22/2022 0:00,313,male,35-44,phone,dormant,77.2,ios,platinum,14.0,3.9.9,USA,Los Angeles,english,poor
+user_1286,11/24/2022 0:00,280,female,18-24,phone,low,495.7,ios,bronze,12.0,3.9.8,USA,Houston,english,good
+user_1287,1/2/2023 0:00,241,male,35-44,phone,low,75.46,ios,silver,16.0,3.9.8,USA,Chicago,english,good
+user_1288,11/15/2022 0:00,289,female,18-24,tablet,medium,793.22,ios,platinum,15.0,3.9.8,USA,Los Angeles,english,fair
+user_1289,11/25/2022 0:00,279,male,45+,phone,low,782.88,android,bronze,10.0,3.9.9,USA,Phoenix,english,excellent
+user_1290,8/28/2022 0:00,368,male,35-44,phone,low,268.86,android,silver,13.0,3.9.4,USA,Chicago,english,good
+user_1291,10/5/2022 0:00,330,other,25-34,tablet,medium,989.31,web,bronze,,3.9.9,USA,Los Angeles,english,poor
+user_1292,5/16/2023 0:00,107,other,25-34,phone,low,205.3,ios,bronze,15.0,3.9.5,USA,San Jose,english,good
+user_1293,11/6/2022 0:00,298,male,25-34,phone,high,147.84,ios,silver,13.0,3.9.9,USA,Dallas,english,poor
+user_1294,2/2/2023 0:00,210,female,35-44,tablet,low,643.09,web,silver,,3.9.7,USA,Dallas,english,excellent
+user_1295,1/26/2023 0:00,217,female,18-24,phone,dormant,12411.51,android,silver,11.0,3.9.8,USA,San Antonio,english,excellent
+user_1296,6/29/2023 0:00,63,male,25-34,phone,medium,47.72,ios,silver,15.0,3.9.8,USA,Los Angeles,english,good
+user_1297,11/29/2022 0:00,275,female,35-44,phone,high,343.5,android,silver,10.0,3.9.9,USA,Phoenix,english,good
+user_1298,2/9/2023 0:00,203,female,18-24,phone,low,108.75,android,bronze,11.0,3.9.9,USA,Los Angeles,english,excellent
+user_1299,9/6/2022 0:00,359,female,25-34,phone,low,584.39,android,silver,10.0,3.9.9,USA,Chicago,english,excellent
+user_1300,7/10/2022 0:00,417,male,25-34,phone,medium,4273.12,android,bronze,11.0,3.9.8,USA,San Diego,english,good
+user_1301,6/22/2023 0:00,70,male,18-24,tablet,low,876.22,web,silver,,3.9.6,USA,Los Angeles,english,excellent
+user_1302,4/17/2023 0:00,136,female,35-44,phone,medium,455.74,android,silver,11.0,3.9.9,USA,Phoenix,english,excellent
+user_1303,6/3/2023 0:00,89,female,18-24,phone,medium,2090.68,android,bronze,10.0,3.9.8,USA,San Antonio,english,good
+user_1304,2/2/2023 0:00,210,male,18-24,phone,dormant,433.33,ios,gold,16.0,3.9.7,USA,Chicago,english,good
+user_1305,5/13/2023 0:00,110,male,35-44,phone,low,3395.05,ios,bronze,16.0,3.9.8,USA,Los Angeles,english,excellent
+user_1306,7/15/2022 0:00,412,male,18-24,phone,low,163.98,android,silver,12.0,3.9.9,USA,Philadelphia,english,excellent
+user_1307,9/30/2022 0:00,335,female,25-34,phone,medium,124.41,ios,gold,12.0,3.9.9,USA,New York,english,good
+user_1308,2/6/2023 0:00,206,female,35-44,phone,medium,10595.21,ios,bronze,15.0,3.9.9,USA,Los Angeles,english,excellent
+user_1309,5/9/2023 0:00,114,female,18-24,tablet,medium,59.22,web,bronze,,3.9.8,USA,Dallas,english,excellent
+user_1310,8/20/2022 0:00,376,male,35-44,phone,low,751.72,android,bronze,12.0,3.9.6,USA,Los Angeles,english,good
+user_1311,5/22/2023 0:00,101,other,25-34,phone,low,293.25,android,silver,11.0,3.9.8,USA,Chicago,english,fair
+user_1312,1/3/2023 0:00,240,male,18-24,phone,dormant,449.26,ios,bronze,13.0,3.9.5,USA,Chicago,english,good
+user_1313,10/6/2022 0:00,329,female,35-44,phone,high,810.87,ios,silver,13.0,3.9.9,USA,Philadelphia,english,good
+user_1314,5/1/2023 0:00,122,female,25-34,phone,medium,1889.43,android,platinum,12.0,3.9.9,USA,San Jose,english,fair
+user_1315,4/27/2023 0:00,126,female,25-34,phone,low,1839.36,android,bronze,11.0,3.9.6,USA,San Diego,english,excellent
+user_1316,5/22/2023 0:00,101,male,25-34,phone,medium,23.39,android,gold,11.0,3.9.8,USA,Philadelphia,english,good
+user_1317,3/22/2023 0:00,162,female,18-24,phone,low,1431.27,ios,gold,15.0,3.9.8,USA,Houston,english,excellent
+user_1318,6/8/2023 0:00,84,male,25-34,phone,medium,31.92,ios,silver,12.0,3.9.9,USA,San Antonio,english,excellent
+user_1319,3/17/2023 0:00,167,other,35-44,phone,low,670.08,android,gold,12.0,3.9.9,USA,San Jose,english,excellent
+user_1320,6/16/2023 0:00,76,female,35-44,phone,medium,36.34,ios,bronze,16.0,3.9.9,USA,Philadelphia,english,excellent
+user_1321,4/9/2023 0:00,144,male,18-24,phone,medium,4420.55,ios,gold,16.0,3.9.8,USA,New York,english,good
+user_1322,5/11/2023 0:00,112,female,35-44,phone,medium,855.67,ios,bronze,16.0,3.9.9,USA,Chicago,english,excellent
+user_1323,2/6/2023 0:00,206,female,25-34,phone,low,50.92,ios,bronze,12.0,3.9.8,USA,Phoenix,english,poor
+user_1324,7/3/2022 0:00,424,male,25-34,phone,high,105.45,ios,bronze,15.0,3.9.9,USA,San Diego,english,excellent
+user_1325,12/31/2022 0:00,243,other,25-34,phone,high,196.63,ios,silver,13.0,3.9.9,USA,Phoenix,english,good
+user_1326,12/4/2022 0:00,270,female,18-24,phone,medium,1451.38,android,gold,12.0,3.9.8,USA,Phoenix,english,fair
+user_1327,5/5/2023 0:00,118,female,35-44,tablet,low,615.78,web,bronze,,3.9.9,USA,San Antonio,english,fair
+user_1328,9/18/2022 0:00,347,male,25-34,phone,low,149.98,ios,silver,14.0,3.9.6,USA,New York,english,excellent
+user_1329,12/15/2022 0:00,259,male,45+,phone,high,2134.45,android,gold,12.0,3.9.6,USA,San Jose,english,good
+user_1330,9/20/2022 0:00,345,male,35-44,phone,low,2629.13,ios,bronze,13.0,3.9.9,USA,Chicago,english,good
+user_1331,7/18/2022 0:00,409,male,25-34,phone,low,493.95,ios,gold,15.0,3.9.9,USA,San Jose,english,good
+user_1332,11/18/2022 0:00,286,female,18-24,phone,low,3090.65,ios,gold,12.0,3.9.7,USA,Philadelphia,english,good
+user_1333,12/7/2022 0:00,267,male,25-34,phone,low,15425.56,android,gold,12.0,3.9.9,USA,Philadelphia,english,good
+user_1334,12/26/2022 0:00,248,male,18-24,phone,medium,195.54,ios,silver,13.0,3.9.9,USA,San Diego,english,good
+user_1335,4/29/2023 0:00,124,male,45+,tablet,medium,386.3,android,silver,10.0,3.9.8,USA,Los Angeles,english,good
+user_1336,9/6/2022 0:00,359,female,35-44,phone,medium,674.92,android,bronze,10.0,3.9.8,USA,Phoenix,english,good
+user_1337,7/24/2022 0:00,403,male,18-24,phone,low,128.57,ios,bronze,15.0,3.9.8,USA,San Jose,english,poor
+user_1338,4/16/2023 0:00,137,male,35-44,tablet,medium,158.24,web,silver,,3.9.9,USA,San Diego,english,fair
+user_1339,10/23/2022 0:00,312,male,18-24,phone,low,12459.11,android,gold,10.0,3.9.7,USA,San Diego,english,good
+user_1340,6/3/2023 0:00,89,male,18-24,phone,medium,864.25,android,bronze,12.0,3.9.9,USA,Phoenix,english,good
+user_1341,12/17/2022 0:00,257,female,25-34,phone,medium,14068.76,android,gold,13.0,3.9.8,USA,Phoenix,english,fair
+user_1342,8/16/2022 0:00,380,male,35-44,phone,medium,698.59,ios,platinum,16.0,3.9.9,USA,Dallas,english,good
+user_1343,3/19/2023 0:00,165,male,45+,phone,medium,72.84,ios,bronze,15.0,3.9.9,USA,Dallas,english,good
+user_1344,9/26/2022 0:00,339,male,35-44,phone,low,474.89,android,silver,10.0,3.9.9,USA,San Jose,english,excellent
+user_1345,5/1/2023 0:00,122,male,35-44,phone,dormant,89.05,android,silver,13.0,3.9.9,USA,New York,english,excellent
+user_1346,11/7/2022 0:00,297,male,25-34,phone,low,1143.92,android,silver,12.0,3.9.7,USA,Phoenix,english,good
+user_1347,7/4/2022 0:00,423,female,45+,phone,low,49.55,android,silver,11.0,3.9.8,USA,New York,english,fair
+user_1348,12/13/2022 0:00,261,female,25-34,phone,dormant,589.96,android,gold,13.0,3.9.6,USA,San Jose,english,good
+user_1349,7/28/2022 0:00,399,female,35-44,phone,low,119.68,ios,silver,15.0,3.9.9,USA,Phoenix,english,excellent
+user_1350,10/14/2022 0:00,321,female,25-34,phone,low,30.03,ios,bronze,15.0,3.9.8,USA,Houston,english,good
+user_1351,8/19/2022 0:00,377,male,25-34,phone,dormant,141.77,android,bronze,12.0,3.9.8,USA,San Jose,english,good
+user_1352,6/16/2023 0:00,76,male,18-24,phone,low,3361.85,ios,silver,14.0,3.9.8,USA,San Antonio,english,good
+user_1353,6/17/2023 0:00,75,female,18-24,tablet,medium,812.16,ios,bronze,15.0,3.9.9,USA,San Antonio,english,good
+user_1354,1/5/2023 0:00,238,male,25-34,phone,low,198.55,ios,bronze,14.0,3.9.9,USA,Philadelphia,english,excellent
+user_1355,2/24/2023 0:00,188,female,35-44,phone,low,62.23,android,silver,11.0,3.9.9,USA,San Jose,english,good
+user_1356,7/13/2022 0:00,414,male,25-34,phone,medium,1262.0,android,silver,10.0,3.9.9,USA,Los Angeles,english,poor
+user_1357,4/5/2023 0:00,148,male,18-24,phone,medium,1078.85,ios,bronze,12.0,3.9.8,USA,Dallas,english,fair
+user_1358,9/13/2022 0:00,352,male,18-24,phone,dormant,112.66,ios,silver,14.0,3.9.9,USA,San Antonio,english,good
+user_1359,9/2/2022 0:00,363,female,18-24,phone,dormant,217.79,ios,bronze,15.0,3.9.9,USA,Phoenix,english,fair
+user_1360,1/16/2023 0:00,227,female,35-44,phone,dormant,658.03,ios,bronze,12.0,3.9.8,USA,Phoenix,english,fair
+user_1361,10/19/2022 0:00,316,male,25-34,phone,dormant,12541.53,ios,bronze,13.0,3.9.8,USA,Dallas,english,fair
+user_1362,12/26/2022 0:00,248,female,18-24,phone,medium,4877.71,android,bronze,13.0,3.9.8,USA,Los Angeles,english,good
+user_1363,9/29/2022 0:00,336,female,35-44,phone,medium,371.26,android,bronze,12.0,3.9.5,USA,Chicago,english,good
+user_1364,9/10/2022 0:00,355,female,25-34,phone,low,11030.41,ios,silver,16.0,3.9.7,USA,Chicago,english,good
+user_1365,5/13/2023 0:00,110,male,18-24,phone,low,13877.97,ios,bronze,12.0,3.9.9,USA,Los Angeles,english,excellent
+user_1366,10/30/2022 0:00,305,female,18-24,phone,dormant,541.68,android,bronze,13.0,3.9.9,USA,Houston,english,excellent
+user_1367,10/15/2022 0:00,320,male,45+,tablet,low,164.74,ios,silver,16.0,3.9.9,USA,New York,english,excellent
+user_1368,11/30/2022 0:00,274,male,35-44,phone,low,521.84,android,bronze,13.0,3.9.8,USA,San Diego,english,good
+user_1369,6/21/2023 0:00,71,male,18-24,phone,dormant,133.01,ios,bronze,16.0,3.9.8,USA,New York,english,excellent
+user_1370,7/27/2022 0:00,400,female,35-44,phone,high,969.69,android,bronze,13.0,3.9.9,USA,Dallas,english,fair
+user_1371,8/20/2022 0:00,376,female,35-44,phone,low,173.5,ios,silver,16.0,3.9.9,USA,San Diego,english,excellent
+user_1372,3/20/2023 0:00,164,male,35-44,phone,medium,491.42,android,silver,13.0,3.9.7,USA,Los Angeles,english,good
+user_1373,7/15/2022 0:00,412,female,45+,phone,dormant,157.8,android,bronze,11.0,3.9.9,USA,San Jose,english,excellent
+user_1374,5/29/2023 0:00,94,female,35-44,phone,high,707.14,android,gold,13.0,3.9.9,USA,San Diego,english,excellent
+user_1375,8/4/2022 0:00,392,male,25-34,phone,low,1642.34,android,bronze,12.0,3.9.8,USA,San Antonio,english,excellent
+user_1376,5/3/2023 0:00,120,female,35-44,phone,dormant,319.97,android,gold,12.0,3.9.6,USA,New York,english,good
+user_1377,11/5/2022 0:00,299,female,45+,phone,high,107.37,ios,silver,15.0,3.9.9,USA,Philadelphia,english,good
+user_1378,4/10/2023 0:00,143,male,25-34,phone,low,69.09,ios,silver,14.0,3.9.9,USA,New York,english,poor
+user_1379,4/1/2023 0:00,152,female,18-24,phone,medium,135.97,android,bronze,10.0,3.9.9,USA,Chicago,english,poor
+user_1380,6/2/2023 0:00,90,male,45+,phone,medium,174.73,android,gold,11.0,3.9.8,USA,San Jose,english,excellent
+user_1381,1/29/2023 0:00,214,female,45+,phone,low,893.74,android,platinum,11.0,3.9.8,USA,New York,english,excellent
+user_1382,12/9/2022 0:00,265,male,45+,phone,low,4772.65,android,bronze,13.0,3.9.7,USA,San Antonio,english,good
+user_1383,9/11/2022 0:00,354,male,25-34,phone,low,152.21,ios,bronze,16.0,3.9.9,USA,New York,english,excellent
+user_1384,2/22/2023 0:00,190,male,35-44,phone,medium,597.16,android,bronze,13.0,3.9.9,USA,New York,english,fair
+user_1385,4/29/2023 0:00,124,male,25-34,phone,low,4092.76,android,bronze,11.0,3.9.9,USA,Dallas,english,good
+user_1386,12/13/2022 0:00,261,male,25-34,phone,medium,844.67,ios,bronze,15.0,3.9.9,USA,Houston,english,good
+user_1387,5/7/2023 0:00,116,female,25-34,phone,low,340.12,android,silver,12.0,3.9.5,USA,Los Angeles,english,excellent
+user_1388,2/20/2023 0:00,192,female,35-44,tablet,high,890.32,web,bronze,,3.9.8,USA,Chicago,english,good
+user_1389,12/21/2022 0:00,253,female,25-34,phone,medium,759.69,ios,bronze,14.0,3.9.7,USA,Houston,english,good
+user_1390,10/30/2022 0:00,305,male,25-34,phone,medium,3730.95,android,bronze,13.0,3.9.7,USA,San Jose,english,fair
+user_1391,10/30/2022 0:00,305,female,18-24,phone,dormant,772.54,android,silver,10.0,3.9.7,USA,San Diego,english,good
+user_1392,6/13/2023 0:00,79,male,25-34,phone,medium,873.18,android,silver,10.0,3.9.9,USA,Dallas,english,fair
+user_1393,9/21/2022 0:00,344,male,35-44,phone,low,89.24,ios,bronze,12.0,3.9.8,USA,New York,english,poor
+user_1394,11/16/2022 0:00,288,other,25-34,phone,low,10827.07,ios,bronze,14.0,3.9.6,USA,Dallas,english,good
+user_1395,3/2/2023 0:00,182,male,45+,phone,low,437.94,android,bronze,13.0,3.9.6,USA,Chicago,english,fair
+user_1396,8/5/2022 0:00,391,male,25-34,phone,high,525.03,ios,bronze,14.0,3.9.9,USA,Philadelphia,english,good
+user_1397,11/1/2022 0:00,303,male,25-34,phone,low,3947.77,android,bronze,11.0,3.9.9,USA,Houston,english,good
+user_1398,4/9/2023 0:00,144,female,45+,tablet,medium,758.79,web,gold,,3.9.6,USA,Houston,english,fair
+user_1399,8/26/2022 0:00,370,male,25-34,tablet,dormant,15938.47,web,gold,,3.9.9,USA,Chicago,english,good
+user_1400,6/4/2023 0:00,88,male,25-34,phone,medium,14620.59,ios,silver,15.0,3.9.9,USA,New York,english,fair
+user_1401,12/7/2022 0:00,267,female,18-24,phone,dormant,1800.3,ios,bronze,14.0,3.9.9,USA,San Diego,english,good
+user_1402,5/5/2023 0:00,118,male,35-44,phone,low,326.26,ios,silver,16.0,3.9.8,USA,San Antonio,english,fair
+user_1403,11/11/2022 0:00,293,male,45+,phone,dormant,2913.46,ios,platinum,14.0,3.9.9,USA,San Antonio,english,good
+user_1404,1/14/2023 0:00,229,female,35-44,phone,dormant,839.62,android,bronze,12.0,3.9.7,USA,Philadelphia,english,excellent
+user_1405,12/24/2022 0:00,250,male,18-24,phone,low,52.74,android,bronze,10.0,3.9.8,USA,Philadelphia,english,good
+user_1406,6/20/2023 0:00,72,female,35-44,tablet,low,958.49,web,silver,,3.9.7,USA,Los Angeles,english,excellent
+user_1407,3/21/2023 0:00,163,male,45+,phone,low,409.43,ios,silver,12.0,3.9.6,USA,San Antonio,english,good
+user_1408,11/23/2022 0:00,281,female,25-34,phone,medium,128.07,android,silver,13.0,3.9.8,USA,Dallas,english,excellent
+user_1409,4/4/2023 0:00,149,female,35-44,phone,high,4788.97,ios,bronze,12.0,3.9.9,USA,San Antonio,english,excellent
+user_1410,11/10/2022 0:00,294,male,18-24,phone,dormant,4309.03,android,gold,10.0,3.9.9,USA,Phoenix,english,fair
+user_1411,3/18/2023 0:00,166,female,45+,phone,dormant,352.44,android,gold,13.0,3.9.9,USA,San Diego,english,good
+user_1412,12/17/2022 0:00,257,female,45+,phone,high,304.16,android,bronze,10.0,3.9.9,USA,San Antonio,english,good
+user_1413,2/6/2023 0:00,206,female,45+,phone,low,150.81,android,bronze,12.0,3.9.6,USA,Chicago,english,excellent
+user_1414,12/3/2022 0:00,271,male,25-34,phone,low,833.97,ios,silver,14.0,3.9.9,USA,San Diego,english,good
+user_1415,8/18/2022 0:00,378,female,18-24,phone,medium,101.18,android,bronze,13.0,3.9.8,USA,Philadelphia,english,excellent
+user_1416,7/15/2022 0:00,412,other,35-44,phone,medium,717.79,ios,platinum,12.0,3.9.9,USA,Los Angeles,english,good
+user_1417,1/16/2023 0:00,227,male,18-24,phone,high,195.39,ios,bronze,13.0,3.9.9,USA,Philadelphia,english,good
+user_1418,8/29/2022 0:00,367,female,25-34,phone,medium,404.98,android,bronze,11.0,3.9.9,USA,San Antonio,english,good
+user_1419,6/4/2023 0:00,88,female,35-44,phone,medium,2331.45,android,platinum,11.0,3.9.9,USA,Houston,english,excellent
+user_1420,8/24/2022 0:00,372,male,18-24,tablet,low,4757.29,web,silver,,3.9.7,USA,San Antonio,english,good
+user_1421,10/15/2022 0:00,320,male,18-24,phone,low,3478.63,ios,silver,15.0,3.9.5,USA,Philadelphia,english,excellent
+user_1422,9/17/2022 0:00,348,female,25-34,phone,medium,1164.5,android,bronze,10.0,3.9.7,USA,San Diego,english,good
+user_1423,10/16/2022 0:00,319,male,18-24,phone,medium,594.27,android,bronze,10.0,3.9.9,USA,Philadelphia,english,excellent
+user_1424,5/16/2023 0:00,107,male,25-34,phone,low,2269.27,android,silver,10.0,3.9.9,USA,Chicago,english,excellent
+user_1425,5/2/2023 0:00,121,male,45+,phone,high,450.62,ios,gold,15.0,3.9.9,USA,Philadelphia,english,fair
+user_1426,11/22/2022 0:00,282,female,25-34,phone,low,2131.7,ios,silver,16.0,3.9.9,USA,Philadelphia,english,excellent
+user_1427,1/21/2023 0:00,222,female,35-44,phone,medium,548.62,android,bronze,10.0,3.9.9,USA,Los Angeles,english,good
+user_1428,4/14/2023 0:00,139,male,35-44,phone,dormant,13335.12,ios,bronze,12.0,3.9.8,USA,Dallas,english,fair
+user_1429,6/3/2023 0:00,89,female,25-34,phone,medium,383.89,android,platinum,10.0,3.9.9,USA,Dallas,english,fair
+user_1430,4/8/2023 0:00,145,female,25-34,phone,low,764.77,android,bronze,11.0,3.9.7,USA,Houston,english,fair
+user_1431,6/10/2023 0:00,82,other,35-44,phone,medium,99.47,ios,bronze,15.0,3.9.8,USA,New York,english,good
+user_1432,4/16/2023 0:00,137,female,25-34,phone,high,298.92,android,platinum,11.0,3.9.7,USA,Houston,english,excellent
+user_1433,3/30/2023 0:00,154,male,45+,phone,medium,170.29,ios,silver,16.0,3.9.6,USA,Phoenix,english,good
+user_1434,9/5/2022 0:00,360,female,35-44,phone,low,19970.07,ios,silver,16.0,3.9.7,USA,Philadelphia,english,fair
+user_1435,11/29/2022 0:00,275,female,35-44,phone,medium,185.67,ios,bronze,15.0,3.9.9,USA,San Jose,english,good
+user_1436,6/17/2023 0:00,75,female,18-24,tablet,low,71.17,web,silver,,3.9.9,USA,Dallas,english,excellent
+user_1437,9/1/2022 0:00,364,female,35-44,phone,low,187.25,ios,silver,14.0,3.9.9,USA,San Antonio,english,excellent
+user_1438,5/20/2023 0:00,103,female,35-44,phone,medium,568.19,ios,silver,15.0,3.9.7,USA,San Antonio,english,poor
+user_1439,7/29/2022 0:00,398,male,18-24,phone,medium,21.04,android,bronze,13.0,3.9.7,USA,Chicago,english,excellent
+user_1440,1/15/2023 0:00,228,male,35-44,phone,dormant,190.54,android,bronze,11.0,3.9.9,USA,Houston,english,fair
+user_1441,8/5/2022 0:00,391,female,45+,tablet,low,426.36,web,gold,,3.9.8,USA,Phoenix,english,excellent
+user_1442,8/26/2022 0:00,370,male,45+,phone,medium,2525.56,web,gold,,3.9.9,USA,San Diego,english,excellent
+user_1443,2/28/2023 0:00,184,male,18-24,tablet,medium,4860.2,web,silver,,3.9.9,USA,Chicago,english,good
+user_1444,3/16/2023 0:00,168,female,45+,phone,medium,330.35,android,bronze,11.0,3.9.6,USA,New York,english,good
+user_1445,4/30/2023 0:00,123,male,25-34,phone,high,73.74,ios,bronze,14.0,3.9.9,USA,Chicago,english,good
+user_1446,12/29/2022 0:00,245,male,45+,phone,low,139.79,android,bronze,12.0,3.9.9,USA,Dallas,english,good
+user_1447,10/23/2022 0:00,312,male,18-24,phone,low,556.35,android,bronze,13.0,3.9.7,USA,San Antonio,english,good
+user_1448,9/15/2022 0:00,350,male,25-34,phone,medium,3401.36,android,silver,11.0,3.9.8,USA,San Antonio,english,good
+user_1449,8/20/2022 0:00,376,female,35-44,phone,low,53.54,ios,silver,12.0,3.9.9,USA,Los Angeles,english,good
+user_1450,1/7/2023 0:00,236,female,18-24,phone,medium,19599.08,android,gold,11.0,3.9.9,USA,New York,english,good
+user_1451,10/4/2022 0:00,331,female,35-44,phone,low,703.65,ios,silver,14.0,3.9.8,USA,New York,english,fair
+user_1452,5/21/2023 0:00,102,female,35-44,phone,medium,183.3,android,bronze,10.0,3.9.9,USA,Los Angeles,english,excellent
+user_1453,4/26/2023 0:00,127,male,18-24,phone,low,747.45,ios,bronze,13.0,3.9.7,USA,San Antonio,english,fair
+user_1454,1/30/2023 0:00,213,female,25-34,phone,low,13528.04,ios,silver,12.0,3.9.5,USA,San Jose,english,good
+user_1455,10/12/2022 0:00,323,female,35-44,phone,medium,539.93,android,bronze,10.0,3.9.9,USA,Philadelphia,english,excellent
+user_1456,2/21/2023 0:00,191,female,25-34,phone,medium,484.37,android,gold,12.0,3.9.9,USA,Chicago,english,good
+user_1457,5/3/2023 0:00,120,male,25-34,phone,low,153.29,android,silver,13.0,3.9.8,USA,Los Angeles,english,good
+user_1458,12/11/2022 0:00,263,female,25-34,phone,low,28.15,ios,silver,14.0,3.9.8,USA,Philadelphia,english,good
+user_1459,11/10/2022 0:00,294,female,25-34,phone,low,4029.42,ios,gold,16.0,3.9.9,USA,Phoenix,english,excellent
+user_1460,3/27/2023 0:00,157,female,45+,phone,high,57.99,ios,bronze,16.0,3.9.9,USA,Phoenix,english,good
+user_1461,11/20/2022 0:00,284,male,25-34,phone,medium,116.19,android,silver,13.0,3.9.9,USA,Philadelphia,english,good
+user_1462,6/24/2023 0:00,68,female,35-44,phone,medium,7576.03,android,bronze,11.0,3.9.9,USA,Houston,english,excellent
+user_1463,7/29/2022 0:00,398,female,35-44,phone,low,193.84,ios,bronze,14.0,3.9.8,USA,San Antonio,english,good
+user_1464,12/28/2022 0:00,246,female,18-24,phone,medium,752.53,android,silver,13.0,3.9.8,USA,San Diego,english,fair
+user_1465,4/27/2023 0:00,126,female,18-24,phone,medium,308.09,ios,bronze,12.0,3.9.9,USA,Dallas,english,poor
+user_1466,6/17/2023 0:00,75,male,25-34,phone,medium,367.38,android,silver,11.0,3.9.6,USA,San Diego,english,good
+user_1467,8/14/2022 0:00,382,male,35-44,phone,medium,174.47,android,bronze,11.0,3.9.6,USA,Houston,english,good
+user_1468,11/5/2022 0:00,299,male,25-34,phone,dormant,1592.66,ios,bronze,12.0,3.9.6,USA,San Jose,english,good
+user_1469,4/13/2023 0:00,140,male,18-24,phone,medium,152.98,android,bronze,11.0,3.9.9,USA,Chicago,english,good
+user_1470,6/20/2023 0:00,72,male,25-34,phone,high,174.76,ios,bronze,13.0,3.9.9,USA,Philadelphia,english,excellent
+user_1471,12/12/2022 0:00,262,female,35-44,phone,medium,1203.69,android,gold,11.0,3.9.9,USA,Houston,english,excellent
+user_1472,11/30/2022 0:00,274,male,18-24,phone,low,878.89,ios,gold,12.0,3.9.9,USA,Phoenix,english,good
+user_1473,10/25/2022 0:00,310,female,35-44,phone,high,112.4,android,bronze,11.0,3.9.9,USA,Houston,english,good
+user_1474,10/3/2022 0:00,332,female,18-24,phone,low,23.42,android,bronze,12.0,3.9.8,USA,New York,english,good
+user_1475,2/13/2023 0:00,199,male,25-34,phone,medium,18393.16,ios,bronze,15.0,3.9.8,USA,Dallas,english,fair
+user_1476,8/16/2022 0:00,380,female,25-34,phone,low,951.17,ios,silver,15.0,3.9.8,USA,New York,english,good
+user_1477,4/9/2023 0:00,144,male,18-24,phone,low,9320.16,ios,bronze,15.0,3.9.9,USA,Dallas,english,good
+user_1478,3/4/2023 0:00,180,female,18-24,phone,high,606.11,ios,silver,16.0,3.9.9,USA,San Jose,english,good
+user_1479,1/31/2023 0:00,212,male,35-44,tablet,medium,778.4,web,bronze,,3.9.7,USA,Chicago,english,good
+user_1480,11/1/2022 0:00,303,female,18-24,tablet,high,839.8,web,bronze,,3.9.9,USA,San Jose,english,fair
+user_1481,2/6/2023 0:00,206,female,35-44,tablet,medium,144.33,web,bronze,,3.9.6,USA,San Diego,english,good
+user_1482,4/3/2023 0:00,150,male,25-34,tablet,high,55.91,web,silver,,3.9.9,USA,Dallas,english,excellent
+user_1483,10/21/2022 0:00,314,female,35-44,phone,low,74.66,android,bronze,10.0,3.9.9,USA,Phoenix,english,good
+user_1484,6/21/2023 0:00,71,male,18-24,phone,medium,10381.8,android,silver,12.0,3.9.8,USA,New York,english,fair
+user_1485,4/2/2023 0:00,151,female,18-24,phone,dormant,4311.79,ios,gold,12.0,3.9.9,USA,San Diego,english,good
+user_1486,5/3/2023 0:00,120,male,18-24,phone,medium,694.05,ios,silver,16.0,3.9.9,USA,Chicago,english,good
+user_1487,2/18/2023 0:00,194,male,35-44,phone,medium,19904.94,android,bronze,11.0,3.9.6,USA,Houston,english,excellent
+user_1488,2/14/2023 0:00,198,other,25-34,phone,high,4585.27,android,platinum,13.0,3.9.9,USA,New York,english,good
+user_1489,11/8/2022 0:00,296,other,35-44,phone,medium,193.28,ios,gold,12.0,3.9.9,USA,Chicago,english,fair
+user_1490,5/9/2023 0:00,114,male,25-34,phone,low,168.25,ios,bronze,16.0,3.9.9,USA,San Antonio,english,excellent
+user_1491,8/12/2022 0:00,384,female,18-24,phone,high,6770.89,android,silver,11.0,3.9.9,USA,Los Angeles,english,fair
+user_1492,2/1/2023 0:00,211,male,25-34,phone,dormant,147.47,android,gold,12.0,3.9.9,USA,Dallas,english,excellent
+user_1493,8/3/2022 0:00,393,male,18-24,tablet,low,85.47,web,gold,,3.9.7,USA,San Jose,english,good
+user_1494,11/18/2022 0:00,286,male,18-24,phone,medium,4878.55,android,gold,12.0,3.9.6,USA,Los Angeles,english,excellent
+user_1495,1/7/2023 0:00,236,female,25-34,phone,medium,9301.37,android,bronze,11.0,3.9.7,USA,Phoenix,english,poor
+user_1496,12/22/2022 0:00,252,other,25-34,phone,medium,15728.0,android,silver,11.0,3.9.9,USA,New York,english,good
+user_1497,4/14/2023 0:00,139,male,25-34,phone,dormant,155.58,android,bronze,11.0,3.9.9,USA,Phoenix,english,excellent
+user_1498,11/23/2022 0:00,281,female,25-34,phone,low,530.73,android,bronze,13.0,3.9.9,USA,New York,english,good
+user_1499,7/16/2022 0:00,411,male,35-44,tablet,low,2447.1,web,silver,,3.9.9,USA,New York,english,good
+user_1500,6/25/2023 0:00,67,female,18-24,phone,dormant,3870.5,android,bronze,11.0,3.9.9,USA,Houston,english,good

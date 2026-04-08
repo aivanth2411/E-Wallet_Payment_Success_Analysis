@@ -1,0 +1,92 @@
+category_id,category_level,category_name,parent_category_id,weight,error_message
+USER_FACTORS,1,User Factors,,0.42,
+INTERNAL_SYSTEM,1,Internal System,,0.28,
+EXTERNAL_PARTNERS,1,External Partners,,0.2,
+PRODUCT_DESIGN_UX,1,Product Design & UX,,0.1,
+AUTHENTICATION_ISSUES,2,Authentication Issues,USER_FACTORS,0.35,
+USER_BEHAVIOR,2,User Behavior,USER_FACTORS,0.25,
+FINANCIAL_STATUS,2,Financial Status,USER_FACTORS,0.25,
+DEVICE_CONNECTIVITY,2,Device & Connectivity,USER_FACTORS,0.15,
+BACKEND_FAILURES,2,Backend Failures,INTERNAL_SYSTEM,0.4,
+INFRASTRUCTURE,2,Infrastructure,INTERNAL_SYSTEM,0.3,
+SECURITY_RISK,2,Security & Risk Management,INTERNAL_SYSTEM,0.3,
+PAYMENT_GATEWAYS,2,Payment Gateways,EXTERNAL_PARTNERS,0.4,
+ISSUING_BANKS,2,Issuing Banks,EXTERNAL_PARTNERS,0.4,
+INTEGRATION_ISSUES,2,Integration Issues,EXTERNAL_PARTNERS,0.2,
+FLOW_COMPLEXITY,2,Payment Flow Complexity,PRODUCT_DESIGN_UX,0.4,
+VISUAL_FEEDBACK,2,Visual Feedback & Clarity,PRODUCT_DESIGN_UX,0.3,
+TIMING_SESSION,2,Timing & Session Management,PRODUCT_DESIGN_UX,0.3,
+invalid_otp,3,invalid_otp,AUTHENTICATION_ISSUES,0.3,The one-time password you entered is incorrect. Please try again.
+otp_expired,3,otp_expired,AUTHENTICATION_ISSUES,0.2,The one-time password has expired. Please request a new code.
+3ds_timeout,3,3ds_timeout,AUTHENTICATION_ISSUES,0.15,3D Secure authentication timed out. Please try again.
+3ds_failure,3,3ds_failure,AUTHENTICATION_ISSUES,0.15,3D Secure authentication failed. Please contact your bank.
+incorrect_card_info,3,incorrect_card_info,AUTHENTICATION_ISSUES,0.1,The card information you provided is incorrect. Please check and try again.
+biometric_failure,3,biometric_failure,AUTHENTICATION_ISSUES,0.05,Biometric authentication failed. Please try again or use an alternative method.
+multiple_auth_failure,3,multiple_auth_failure,AUTHENTICATION_ISSUES,0.05,Multiple authentication attempts failed. Please try again later.
+user_abandoned,3,user_abandoned,USER_BEHAVIOR,0.4,Transaction was abandoned by the user.
+impatient_exit,3,impatient_exit,USER_BEHAVIOR,0.3,User exited before the transaction could complete.
+multiple_submissions,3,multiple_submissions,USER_BEHAVIOR,0.2,"Multiple submission attempts detected, transaction cancelled."
+outdated_app_version,3,outdated_app_version,USER_BEHAVIOR,0.1,Your app version is outdated. Please update to the latest version.
+insufficient_balance,3,insufficient_balance,FINANCIAL_STATUS,0.4,Insufficient funds in your account. Please add money and try again.
+exceeding_limits,3,exceeding_limits,FINANCIAL_STATUS,0.2,This transaction exceeds your daily/transaction limit.
+account_restricted,3,account_restricted,FINANCIAL_STATUS,0.15,Your account has temporary restrictions. Please contact support.
+credit_limit_reached,3,credit_limit_reached,FINANCIAL_STATUS,0.15,You have reached your credit limit. Please try a different payment method.
+expired_card,3,expired_card,FINANCIAL_STATUS,0.1,The card you're using has expired. Please update your card information.
+network_instability,3,network_instability,DEVICE_CONNECTIVITY,0.35,Your internet connection is unstable. Please try again with a better connection.
+weak_signal,3,weak_signal,DEVICE_CONNECTIVITY,0.25,Weak network signal detected. Please try again with a stronger connection.
+device_performance,3,device_performance,DEVICE_CONNECTIVITY,0.2,Your device is experiencing performance issues. Please try again.
+os_compatibility,3,os_compatibility,DEVICE_CONNECTIVITY,0.1,This feature may not be fully compatible with your operating system version.
+browser_compatibility,3,browser_compatibility,DEVICE_CONNECTIVITY,0.1,This feature may not be fully compatible with your browser.
+api_timeout,3,api_timeout,BACKEND_FAILURES,0.3,The server took too long to respond. Please try again later.
+transaction_processing_error,3,transaction_processing_error,BACKEND_FAILURES,0.25,There was an error processing your transaction. Please try again.
+state_sync_issue,3,state_sync_issue,BACKEND_FAILURES,0.15,We encountered a synchronization issue. Please check your transaction history.
+database_deadlock,3,database_deadlock,BACKEND_FAILURES,0.1,System is temporarily busy. Please try again shortly.
+queue_bottleneck,3,queue_bottleneck,BACKEND_FAILURES,0.1,System is experiencing high volume. Your transaction will be processed shortly.
+dependency_failure,3,dependency_failure,BACKEND_FAILURES,0.1,A required service is temporarily unavailable. Please try again later.
+server_overload,3,server_overload,INFRASTRUCTURE,0.3,Our servers are currently experiencing high traffic. Please try again later.
+network_latency,3,network_latency,INFRASTRUCTURE,0.2,Network delays are affecting transaction processing. Please try again.
+resource_contention,3,resource_contention,INFRASTRUCTURE,0.15,System resources are currently constrained. Please try again shortly.
+database_performance,3,database_performance,INFRASTRUCTURE,0.15,Database performance issues are affecting transactions. Please try again.
+cache_invalidation,3,cache_invalidation,INFRASTRUCTURE,0.1,Data synchronization issue detected. Please try again.
+scaling_delay,3,scaling_delay,INFRASTRUCTURE,0.1,System is scaling to handle load. Please try again shortly.
+fraud_detection,3,fraud_detection,SECURITY_RISK,0.3,This transaction was flagged by our security system. Please contact support.
+compliance_block,3,compliance_block,SECURITY_RISK,0.2,This transaction couldn't be completed due to compliance requirements.
+auth_timeout,3,auth_timeout,SECURITY_RISK,0.15,The authentication process timed out. Please try again.
+geo_restriction,3,geo_restriction,SECURITY_RISK,0.15,This transaction is not available in your current location.
+rate_limiting,3,rate_limiting,SECURITY_RISK,0.1,You've made too many transaction attempts. Please try again later.
+device_fingerprinting,3,device_fingerprinting,SECURITY_RISK,0.05,We couldn't verify your device. Please try again or contact support.
+risk_scoring,3,risk_scoring,SECURITY_RISK,0.05,This transaction was flagged as potentially risky. Please try another method.
+gateway_downtime,3,gateway_downtime,PAYMENT_GATEWAYS,0.25,The payment gateway is currently unavailable. Please try again later.
+gateway_timeout,3,gateway_timeout,PAYMENT_GATEWAYS,0.25,The payment gateway took too long to respond. Please try again.
+gateway_rejection,3,gateway_rejection,PAYMENT_GATEWAYS,0.2,The payment gateway rejected this transaction. Please try another method.
+gateway_routing_error,3,gateway_routing_error,PAYMENT_GATEWAYS,0.15,Error routing to payment processor. Please try again.
+gateway_api_change,3,gateway_api_change,PAYMENT_GATEWAYS,0.15,Payment gateway integration issue detected. Please try again later.
+bank_decline,3,bank_decline,ISSUING_BANKS,0.25,Your bank declined this transaction. Please contact your bank for details.
+bank_fraud_detection,3,bank_fraud_detection,ISSUING_BANKS,0.25,This transaction was flagged by your bank's fraud detection system.
+bank_maintenance,3,bank_maintenance,ISSUING_BANKS,0.2,Your bank's systems are undergoing maintenance. Please try later.
+bank_timeout,3,bank_timeout,ISSUING_BANKS,0.15,Your bank took too long to respond. Please try again.
+recurring_payment_issue,3,recurring_payment_issue,ISSUING_BANKS,0.1,There was an issue with your recurring payment setup.
+cross_border_restriction,3,cross_border_restriction,ISSUING_BANKS,0.05,Cross-border transactions are restricted for this payment method.
+data_format_mismatch,3,data_format_mismatch,INTEGRATION_ISSUES,0.25,There was a data format issue with your transaction. Please try again.
+api_version_conflict,3,api_version_conflict,INTEGRATION_ISSUES,0.25,System integration issue detected. Please try again.
+authentication_mechanism,3,authentication_mechanism,INTEGRATION_ISSUES,0.2,Authentication mechanism failure. Please try again.
+webhook_failure,3,webhook_failure,INTEGRATION_ISSUES,0.15,Notification delivery failure. Please check transaction status.
+certificate_validation,3,certificate_validation,INTEGRATION_ISSUES,0.15,Secure connection issue detected. Please try again.
+excessive_steps,3,excessive_steps,FLOW_COMPLEXITY,0.25,The payment process has too many steps. We're working to improve this.
+inconsistent_patterns,3,inconsistent_patterns,FLOW_COMPLEXITY,0.2,Different payment methods have inconsistent flows. We're standardizing this.
+insufficient_instructions,3,insufficient_instructions,FLOW_COMPLEXITY,0.2,Instructions for completing payment were unclear. We're improving them.
+information_overload,3,information_overload,FLOW_COMPLEXITY,0.15,Too much information was presented at once. We're simplifying this.
+context_switching,3,context_switching,FLOW_COMPLEXITY,0.1,Multiple redirects disrupted your payment flow. We're fixing this.
+late_fee_disclosure,3,late_fee_disclosure,FLOW_COMPLEXITY,0.1,Important fee information was shown too late. We're making this clearer.
+ambiguous_indicators,3,ambiguous_indicators,VISUAL_FEEDBACK,0.25,Status indicators were unclear. We're making them more visible.
+poor_error_message,3,poor_error_message,VISUAL_FEEDBACK,0.25,Error messages weren't helpful. We're improving them.
+missing_recovery_guidance,3,missing_recovery_guidance,VISUAL_FEEDBACK,0.2,No clear steps were provided to resolve errors. We're adding this guidance.
+progress_indication,3,progress_indication,VISUAL_FEEDBACK,0.15,Progress indicators were missing or misleading. We're fixing this.
+critical_info_visibility,3,critical_info_visibility,VISUAL_FEEDBACK,0.1,Important details weren't clearly visible. We're highlighting them better.
+confirmation_ambiguity,3,confirmation_ambiguity,VISUAL_FEEDBACK,0.05,Confirmation messages were ambiguous. We're making them clearer.
+session_timeout,3,session_timeout,TIMING_SESSION,0.3,Your session expired without warning. We're adding alerts.
+excessive_processing,3,excessive_processing,TIMING_SESSION,0.25,Processing time was longer than expected. We're optimizing this.
+state_preservation,3,state_preservation,TIMING_SESSION,0.15,Your payment information was lost after an interruption. We're fixing this.
+form_data_loss,3,form_data_loss,TIMING_SESSION,0.15,Form data was cleared after an error. We're preserving your input now.
+repeated_auth,3,repeated_auth,TIMING_SESSION,0.1,You were asked to authenticate multiple times. We're streamlining this.
+clock_sync_issue,3,clock_sync_issue,TIMING_SESSION,0.05,Device time differences affected your transaction. We're addressing this.

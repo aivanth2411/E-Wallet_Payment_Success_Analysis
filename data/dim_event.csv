@@ -1,0 +1,67 @@
+event_id,event_name,event_category,description
+1,app_opened,app_lifecycle,User opened the application
+2,app_reopened,app_lifecycle,User reopened the application after closing
+3,exit_app,app_lifecycle,User exited the application
+4,navigate_to_transfer_menu,navigation,User navigated to the transfer menu
+5,navigate_to_deposit_menu,navigation,User navigated to the deposit menu
+6,navigate_to_withdrawal_menu,navigation,User navigated to the withdrawal menu
+7,navigate_to_payment_menu,navigation,User navigated to the payment menu
+8,select_transfer_type,selection,User selected a type of transfer
+9,select_deposit_method,selection,User selected a deposit method
+10,select_withdrawal_method,selection,User selected a withdrawal method
+11,select_payment_type,selection,User selected a payment type
+12,input_receiver,input,User entered receiver information
+13,input_amount,input,User entered an amount
+14,input_amount_note,input,User entered an amount and note
+15,select_merchant,selection,User selected a merchant
+16,select_recipient_account,selection,User selected a recipient account
+17,review_transfer,review,User reviewed transfer details
+18,review_deposit,review,User reviewed deposit details
+19,review_withdrawal,review,User reviewed withdrawal details
+20,review_payment,review,User reviewed payment details
+21,confirm_transfer,confirmation,User confirmed a transfer
+22,confirm_deposit,confirmation,User confirmed a deposit
+23,confirm_withdrawal,confirmation,User confirmed a withdrawal
+24,confirm_payment,confirmation,User confirmed a payment
+25,otp_screen_loaded,authentication,One-time password screen loaded
+26,otp_submitted,authentication,User submitted a one-time password
+27,3ds_redirect,authentication,User was redirected to 3D Secure authentication
+28,3ds_authentication,authentication,User performed 3D Secure authentication
+29,3ds_return,authentication,User returned from 3D Secure authentication
+30,transfer_status,status,Status of a transfer transaction
+31,deposit_status,status,Status of a deposit transaction
+32,withdrawal_status,status,Status of a withdrawal transaction
+33,payment_status,status,Status of a payment transaction
+34,receipt_viewed,view,User viewed a transaction receipt
+35,payment_method_error,error,Error with payment method
+36,network_error,error,Network connectivity error
+37,withdrawal_limit_error,error,Error due to withdrawal limit exceeded
+38,view_transaction_history,view,User viewed transaction history
+39,check_balance,other,User checked their balance
+40,view_popular_deposit_methods,view,User viewed popular deposit methods
+41,view_payment_history,view,User viewed payment history
+42,apply_promo_code,app_lifecycle,User applied a promotion code
+43,retry_payment,other,User retried a payment
+44,change_payment_method,other,User changed payment method
+45,view_home,view,User viewed home screen
+46,view_account,view,User viewed account details
+47,view_promotions,view,User viewed promotions
+48,view_settings,view,User viewed settings
+49,view_payment_methods,view,User viewed payment methods
+50,view_favorites,view,User viewed favorites
+51,view_rewards,view,User viewed rewards
+52,search_transaction,other,User searched for transactions
+53,update_profile,other,User updated their profile
+54,check_limits,other,User checked transaction limits
+55,form_validation_error,error,Form validation error occurred
+56,payment_timeout,timeout,Payment processing timed out
+57,session_expired,timeout,User session expired
+58,insufficient_details,other,User provided insufficient payment details
+59,payment_gateway_redirect,external_redirect,User was redirected to payment gateway
+60,payment_gateway_return,external_redirect,User returned from payment gateway
+61,bank_page_redirect,page,User was redirected to bank page
+62,bank_page_return,page,User returned from bank page
+63,payment_confirmation_page,confirmation,User viewed payment confirmation page
+64,payment_success_page,page,User viewed payment success page
+65,payment_failure_page,page,User viewed payment failure page
+66,payment_pending_page,page,User viewed payment pending page
