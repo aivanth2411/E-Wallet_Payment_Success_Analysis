@@ -1,6 +1,6 @@
 # Funnel Analysis (DAX)
 
-This section defines the funnel stages and calculates the number of distinct user sessions at each step of the bill payment journey.
+This script defines the funnel stages and calculates the number of distinct user sessions at each step of the bill payment journey.
 
 ## 1. Funnel Stage Definition
 
