@@ -1,4 +1,4 @@
-# Funnel Metrics (DAX)
+## 🧮 Funnel Metrics (DAX)
 
 This script calculates key funnel performance metrics, including:
 - conversion rate from previous step
@@ -6,7 +6,7 @@ This script calculates key funnel performance metrics, including:
 - average time from first step
 - average time from previous step
 
-## 1. Conversion Rate from Previous Step
+### 1. Conversion Rate from Previous Step
 
 Calculates the percentage of users who successfully moved from the previous funnel stage to the current stage.
 
@@ -35,7 +35,7 @@ RETURN
     )
 ```
 
-## 2. Conversion Rate from First Step
+### 2. Conversion Rate from First Step
 
 Measures the overall conversion rate from **Start Checkout** to each funnel stage.
 
@@ -59,7 +59,7 @@ RETURN
 ```
 
 
-## 3. Average Time from First Step
+### 3. Average Time from First Step
 
 Calculates the average number of seconds from **Start Checkout (event_id = 7)** to each funnel stage.
 
@@ -118,7 +118,7 @@ SWITCH (
 )
 ```
 
-## 4. Average Time from Previous Step
+### 4. Average Time from Previous Step
 
 Calculates the average time taken to move from the previous funnel stage to the current stage.
 
@@ -194,7 +194,7 @@ SWITCH(
 )
 ```
 
-## 5. Metric Definitions
+### 5. Metric Definitions
 
 | Metric | Business Meaning |
 |---|---|
