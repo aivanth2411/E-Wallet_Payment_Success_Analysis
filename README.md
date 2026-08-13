@@ -1,3 +1,5 @@
+View full report here.
+
 ## 📂 Project Background
 
 The project analyzes the decline in bill payment success rate on an e-wallet app since August 2023 using transactional, session, event log, and error data. The MECE framework was applied to identify failure points across the payment journey, including authentication, gateway redirects, and app version issues. Key insights highlighted correlations between failure rates and user segments, device types, and network quality. The analysis led to actionable recommendations to optimize payment flows and reduce error impact.
