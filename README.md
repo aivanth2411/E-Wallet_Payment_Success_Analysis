@@ -1,6 +1,6 @@
 View full report [here](E-wallet_Analysis_Report.pdf).
 
-View dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjA0MzU3NjgtNmYxNy00YTk4LWJjODAtOTk2M2I2ZjliNWZmIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D).
+View Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYjA0MzU3NjgtNmYxNy00YTk4LWJjODAtOTk2M2I2ZjliNWZmIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D).
 
 ## 📂 Project Background
 
